@@ -1,0 +1,18 @@
+[
+    {
+        "user": string,
+        "type": string,
+        "text": string,
+        "user_profile": {
+            "display_name": string
+        },
+
+        "reactions": [
+            {
+                "name": string,
+                "users": string array,
+                "count": int
+            },
+        ]
+    }
+]
