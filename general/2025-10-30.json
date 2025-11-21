@@ -1,0 +1,543 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761854688.296999",
+        "client_msg_id": "f72c89b1-e3f1-4830-b8d7-1da6051538c1",
+        "text": "<!subteam^S06HNNE4YQ0|@team> HAPPY ALMOST HALLOWEEEN!!!! *A REMINDER THAT LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2 11:59!!!*\n• <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfmPh4_NBAK0YhAnM3WoIZNuj7YSHpb1x_VeVE_qHlZo8IIjw\/viewform?usp=dialog|Apply to be a lead>! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI\n• <https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit|Apply to switch roles or subteams>! To transfer to PM, please ALSO fill out <https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit|this form>.",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761854688.296999",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1761868533.329289",
+        "reply_users": [
+            "U061BLZS1TR",
+            "U06K2UUMU4E",
+            "U06K9FXP18B",
+            "U061S4J2DSP",
+            "U06KBGE3LGK"
+        ],
+        "replies": [
+            {
+                "user": "U061BLZS1TR",
+                "ts": "1761854800.341629"
+            },
+            {
+                "user": "U06K2UUMU4E",
+                "ts": "1761854871.172679"
+            },
+            {
+                "user": "U06K9FXP18B",
+                "ts": "1761857931.198959"
+            },
+            {
+                "user": "U061S4J2DSP",
+                "ts": "1761867907.210309"
+            },
+            {
+                "user": "U06KBGE3LGK",
+                "ts": "1761868533.329289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SCOxy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " HAPPY ALMOST HALLOWEEEN!!!! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "A REMINDER THAT LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2 11:59!!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfmPh4_NBAK0YhAnM3WoIZNuj7YSHpb1x_VeVE_qHlZo8IIjw\/viewform?usp=dialog",
+                                        "text": "Apply to be a lead"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit",
+                                        "text": "Apply to switch roles or subteams"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "! To transfer to PM, please ALSO fill out "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit",
+                                        "text": "this form"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay",
+                "users": [
+                    "U061BLZS1TR",
+                    "U08E50PFWCA",
+                    "U04Q99S0NM8",
+                    "U06KBGE3LGK",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U07NBCRD412",
+                    "U0806A1C509",
+                    "U06KC1WG86Q",
+                    "U06KNF03QKB",
+                    "U08E7NL3V1S"
+                ],
+                "count": 11
+            },
+            {
+                "name": "kiss",
+                "users": [
+                    "U061BLZS1TR",
+                    "U08E50PFWCA",
+                    "U04Q99S0NM8",
+                    "U06KBGE3LGK",
+                    "U06K9FXP18B",
+                    "U0806411Z5X"
+                ],
+                "count": 6
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U061BLZS1TR",
+                    "U04Q99S0NM8",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U061BLZS1TR",
+                    "U04Q99S0NM8",
+                    "U06KBGE3LGK",
+                    "U04Q99S2Y3C",
+                    "U0806411Z5X",
+                    "U09G77B9NP7",
+                    "U06KC1WG86Q"
+                ],
+                "count": 7
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U061BLZS1TR",
+                    "U0806411Z5X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U061BLZS1TR",
+        "type": "message",
+        "ts": "1761854800.341629",
+        "client_msg_id": "643b4fde-a7cc-4391-ad78-2d015ebd4a17",
+        "text": "#leads #sofun #apply",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1a033aa28b44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-09\/9667283023606_1a033aa28b449cbbf414_72.png",
+            "first_name": "Nitya",
+            "real_name": "Nitya Pakala",
+            "display_name": "Nitya",
+            "team": "T0P9KU8UD",
+            "name": "nmp79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761854688.296999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EM4Wq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#leads #sofun #apply"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K2UUMU4E",
+        "type": "message",
+        "ts": "1761854871.172679",
+        "client_msg_id": "4bd26278-2103-47d5-b911-63b82a6f16f2",
+        "text": "apply to be product lead!!! you get to work with nitya, the best co-lead ever!!! :ahh:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1da9fd8bc97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Yap",
+            "display_name": "Megan Yap",
+            "team": "T0P9KU8UD",
+            "name": "may52",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761854688.296999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ah2bq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "apply to be product lead!!! you get to work with nitya, the best co-lead ever!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K9FXP18B",
+        "type": "message",
+        "ts": "1761857931.198959",
+        "client_msg_id": "12DF7840-3957-45C3-A448-5DFB81058370",
+        "text": "yesss plz\napply :face_holding_back_tears: :face_holding_back_tears: :face_holding_back_tears: :face_holding_back_tears: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "57abfdc6b6f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-11-19\/9954325794690_57abfdc6b6f88e5136e4_72.png",
+            "first_name": "Erica",
+            "real_name": "Erica Lee",
+            "display_name": "Erica Lee",
+            "team": "T0P9KU8UD",
+            "name": "el728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761854688.296999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4FE+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yesss plz\napply "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_holding_back_tears",
+                                "unicode": "1f979"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U061S4J2DSP",
+        "type": "message",
+        "ts": "1761867907.210309",
+        "client_msg_id": "5A7A834E-8FE4-4FA3-B05B-02A136F9A940",
+        "text": "devs &amp; TPMs, you know what to do",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "7746533ba679",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-16\/9224740522097_7746533ba679b554f8c9_72.png",
+            "first_name": "Simon",
+            "real_name": "Simon Ilincev",
+            "display_name": "Simon Ilincev",
+            "team": "T0P9KU8UD",
+            "name": "sci24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761854688.296999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nPbSt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "devs & TPMs, you know what to do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1761868533.329289",
+        "client_msg_id": "3a1c090d-5a1d-4bb4-87ee-a306442f9dc2",
+        "text": "apply now biz...:rolling_on_the_floor_laughing:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761854688.296999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tEca+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "apply now biz..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing",
+                                "unicode": "1f923"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ahh",
+                "users": [
+                    "U07NB1DPCBC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761891211.673289",
+        "client_msg_id": "0CE97ED4-3AA8-4B0B-BFD6-C2F5EB5E36B8",
+        "text": "also this is ur last TEC reminder before the deadline tn!!! :heart_on_fire: :heart_on_fire: :heart_on_fire: dont forget to submit October TEC!!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gNmZg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also this is ur last TEC reminder before the deadline tn"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ont forget to submit October TEC!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KNU7LVJM",
+                    "U09G9ASFAJ2"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

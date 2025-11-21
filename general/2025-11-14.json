@@ -1,0 +1,689 @@
+[
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1763147618.183439",
+        "edited": {
+            "user": "U06KBGE3LGK",
+            "ts": "1763147660.000000"
+        },
+        "client_msg_id": "e3de8569-d531-4ee3-a09b-ee9455ace234",
+        "text": ":ahh:Hey <!subteam^S06HNNE4YQ0|@team>! *MERCH PREORDER FORM* <https:\/\/forms.gle\/nLd8bctwRnndWyBW6|HERE>!! :heart_on_fire:If you missed last semesters merch order, are a *newbie*, or you want an extra one because its so amazing and *beautifully* designed by <@U04QZ0Q62JC>.  ORDER NOW!!:ahh:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763147618.183439",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1763147733.693519",
+        "reply_users": [
+            "U08E3UNQDTM"
+        ],
+        "replies": [
+            {
+                "user": "U08E3UNQDTM",
+                "ts": "1763147733.693519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZF4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "MERCH PREORDER FORM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/nLd8bctwRnndWyBW6",
+                                "text": "HERE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you missed last semesters merch order, are a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "newbie",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", or you want an extra one because its so amazing and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "beautifully",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " designed by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QZ0Q62JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  ORDER NOW!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06K9HD998T",
+                    "U04Q99S2Y3C",
+                    "U04Q6BMSJER",
+                    "U06KNF03QKB",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U09G91U4B9U",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U07NB1DPCBC",
+                    "U07NBCRD412",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U09G77B9NP7",
+                    "U09R86CA3GX"
+                ],
+                "count": 18
+            },
+            {
+                "name": "goat",
+                "users": [
+                    "U05SG21V94J",
+                    "U04Q99S2Y3C",
+                    "U04Q6BMSJER",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U06KCGWCC04",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U09G91U4B9U",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U07NB1DPCBC",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U09G77B9NP7",
+                    "U0800DE2GPN"
+                ],
+                "count": 19
+            },
+            {
+                "name": "red_siren",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U06KCGWCC04",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U07NB1DPCBC",
+                    "U06KBGE3LGK",
+                    "U07N2A5LZ2S",
+                    "U0806411Z5X",
+                    "U080G6QDZT2"
+                ],
+                "count": 15
+            },
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U09RT6T6UAG",
+                    "U09RT6T5Z7E",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U09G91U4B9U",
+                    "U06KC1WG86Q",
+                    "U07NB1DPCBC",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U08EHA604AV",
+                    "U080G6QDZT2",
+                    "U09G77B9NP7"
+                ],
+                "count": 19
+            },
+            {
+                "name": "relieved",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K9HD998T",
+                    "U06KNF03QKB",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U07NB1DPCBC",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U06KC1WG86Q"
+                ],
+                "count": 14
+            },
+            {
+                "name": "yay",
+                "users": [
+                    "U06K9HD998T",
+                    "U04Q99S2Y3C",
+                    "U06KNF03QKB",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U07NB1DPCBC",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U080G6QDZT2"
+                ],
+                "count": 13
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K9HD998T",
+                    "U06KNF03QKB",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U07NB1DPCBC",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U080G6QDZT2"
+                ],
+                "count": 13
+            },
+            {
+                "name": "female-technologist",
+                "users": [
+                    "U06K9HD998T",
+                    "U06KNF03QKB",
+                    "U05S9CMLGJ2",
+                    "U0806A1C509",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U07NB1DPCBC",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U080G6QDZT2"
+                ],
+                "count": 13
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U06K9HD998T",
+                    "U06KNF03QKB",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X"
+                ],
+                "count": 8
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U06K9HD998T",
+                    "U06KNF03QKB",
+                    "U08E3UNQDTM",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "ghost",
+                "users": [
+                    "U06K9HD998T",
+                    "U06KNF03QKB",
+                    "U08E3UNQDTM",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-k",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U08E3UNQDTM",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-a",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U08E3UNQDTM",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-t",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U08E3UNQDTM",
+                    "U06K2UUMU4E",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 7
+            },
+            {
+                "name": "alphabet-white-j",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U08E3UNQDTM",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06K9HD998T",
+                    "U06KNF03QKB",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-c",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U08E3UNQDTM",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 8
+            },
+            {
+                "name": "alphabet-white-h",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U08EU1K234Y",
+                    "U06KNF03QKB",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U08E50PFWCA"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06KBGE3LGK",
+        "upload": false,
+        "ts": "1763147660.000000",
+        "text": ":ahh:Hey <!subteam^S06HNNE4YQ0|@team>! *MERCH PREORDER FORM* <https:\/\/forms.gle\/nLd8bctwRnndWyBW6|HERE>!! :heart_on_fire:If you missed last semesters merch order, are a *newbie*, or you want an extra one because its so amazing and *beautifully* designed by <@U04QZ0Q62JC>.  ORDER NOW!!:ahh:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06KBGE3LGK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZF4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "MERCH PREORDER FORM",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/nLd8bctwRnndWyBW6",
+                                "text": "HERE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": "If you missed last semesters merch order, are a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "newbie",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", or you want an extra one because its so amazing and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "beautifully",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " designed by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QZ0Q62JC"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".  ORDER NOW!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KBGE3LGK",
+            "type": "message",
+            "ts": "1763147618.183439",
+            "client_msg_id": "e3de8569-d531-4ee3-a09b-ee9455ace234",
+            "text": ":ahh:Hey <!subteam^S06HNNE4YQ0>! MERCH PREORDER FORM <https:\/\/forms.gle\/nLd8bctwRnndWyBW6|HERE>!! If you missed last semesters merch order, are a newbie, or you want an extra one because its so amazing and beautifully designed by <@U04QZ0Q62JC>.  ORDER NOW!!:ahh:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1fac4edc1dab",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+                "first_name": "Olina",
+                "real_name": "Olina Zheng",
+                "display_name": "Olina Zheng",
+                "team": "T0P9KU8UD",
+                "name": "oz36",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8WT8E",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "ahh"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "! MERCH PREORDER FORM "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/nLd8bctwRnndWyBW6",
+                                    "text": "HERE"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! If you missed last semesters merch order, are a newbie, or you want an extra one because its so amazing and beautifully designed by "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U04QZ0Q62JC"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ".  ORDER NOW!!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "ahh"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KBGE3LGK"
+    },
+    {
+        "user": "U08E3UNQDTM",
+        "type": "message",
+        "ts": "1763147733.693519",
+        "client_msg_id": "2B01E992-CF2F-4C3A-B94D-7318CF02B606",
+        "text": "YAS MERCH IS SO COOL HIGHLY RECOMMEND :+1::+1::+1::+1::+1::+1: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "fddd93965682",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-19\/8477930717461_fddd93965682a7cbbd26_72.png",
+            "first_name": "Daphne",
+            "real_name": "Daphne Ku",
+            "display_name": "daphne",
+            "team": "T0P9KU8UD",
+            "name": "drk229",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763147618.183439",
+        "parent_user_id": "U06KBGE3LGK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MZFKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YAS MERCH IS SO COOL HIGHLY RECOMMEND "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06KBGE3LGK"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,1215 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1760533211.282779",
+        "edited": {
+            "user": "U06K2TZALJ2",
+            "ts": "1760538467.000000"
+        },
+        "client_msg_id": "3f22e033-9e24-44e6-8076-5cf921882721",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Hi everyone! Hope you had a restful fall break. We will be hosting BIG\/LITTLE speed dating this *Sunday, 10\/19 from 5-6 in Hollister 368*. :party-blob:  Please let me know if you are an upperclassman who wants to pick up one of our amazing newbies and see you there :)))",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bIW9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi everyone! Hope you had a restful fall break. We will be hosting BIG\/LITTLE speed dating this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sunday, 10\/19 from 5-6 in Hollister 368",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party-blob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Please let me know if you are an upperclassman who wants to pick up one of our amazing newbies and see you there :)))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U06K9HD998T",
+                    "U0806A1C509",
+                    "U05S1FQNUJ3",
+                    "U0806411Z5X",
+                    "U09G77B9NP7",
+                    "U061S4J2DSP",
+                    "U07NB1DPCBC",
+                    "U06KNF03QKB",
+                    "U04Q99S2Y3C",
+                    "U09G9ASFAJ2",
+                    "U07NBQUN71Q",
+                    "U061BLZS1TR",
+                    "U07NBB600PN",
+                    "U04Q99S0NM8"
+                ],
+                "count": 14
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06K9HD998T",
+                    "U0806A1C509",
+                    "U0806411Z5X",
+                    "U061S4J2DSP",
+                    "U07NB1DPCBC",
+                    "U06KNF03QKB",
+                    "U04Q99S2Y3C",
+                    "U09G9ASFAJ2",
+                    "U061BLZS1TR",
+                    "U04Q99S0NM8"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1760538467.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Hi everyone! Hope you had a restful fall break. We will be hosting BIG\/LITTLE speed dating this *Sunday, 10\/19 from 5-6 in Hollister 368*. :party-blob:  Please let me know if you are an upperclassman who wants to pick up one of our amazing newbies and see you there :)))",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bIW9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi everyone! Hope you had a restful fall break. We will be hosting BIG\/LITTLE speed dating this "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Sunday, 10\/19 from 5-6 in Hollister 368",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party-blob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  Please let me know if you are an upperclassman who wants to pick up one of our amazing newbies and see you there :)))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1760533211.282779",
+            "client_msg_id": "3f22e033-9e24-44e6-8076-5cf921882721",
+            "text": "<!subteam^S06HNNE4YQ0> Hi everyone! Hope you had a restful fall break. We will be hosting BIG\/LITTLE speed dating this *Sunday, 10\/19 from 5-6*. :party-blob: Location TBD. Please let me know if you are an upperclassman who wants to pick up one of our amazing newbies and see you there :)))",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "94af320882f8",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+                "first_name": "Andrew",
+                "real_name": "Andrew Qian",
+                "display_name": "Andrew Qian",
+                "team": "T0P9KU8UD",
+                "name": "ajq22",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wTooa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Hi everyone! Hope you had a restful fall break. We will be hosting BIG\/LITTLE speed dating this "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Sunday, 10\/19 from 5-6",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ". "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "party-blob"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Location TBD. Please let me know if you are an upperclassman who wants to pick up one of our amazing newbies and see you there :)))"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2TZALJ2"
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1760547930.569109",
+        "edited": {
+            "user": "U06KBGE3LGK",
+            "ts": "1760547981.000000"
+        },
+        "client_msg_id": "bd5c3273-9f0c-4613-abd1-a63b8e8cd818",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>:mega:\n\nWelcome back everyone and get excited for our upcoming *DTI Halloween party*!!:ghost: Below are some details:dti::dti::dti::\n• :bangbang:DTI will be hosting our annual halloween party in collaboration with CDS:bangbang:\n    ◦ :date:When: Saturday 10\/25 @10:30PM\n    ◦ :round_pushpin:Where: 131 N Quarry St, Ithaca, NY, 14850\n    ◦ :ghost:Who: YOU (FREE) and your potential plus one (ALSO FREE)\n• Please <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|RSVP> here and include your plus one if needed by Thursday 10\/23 for headcount. Those who don’t rsvp by the deadline will not be able to enter.\n• For additional plus ones -> we ask for a $3 fee to help with costs.\n• Additionally, we need your help with *volunteering* to keep this event safe and fun for *1 TEC*!! Roles include door duty, set up and cleaning. Please fill out this <https:\/\/forms.gle\/kBMXrM9Te1LpAwg69|volunteer form> if you are interested or message <!subteam^S03R8V9GMCN|@business-leadz>.\n• There will be a separate channel created next week to send out more details\n:bangbang:BRING YOUR COSTUMES, FRIENDS, AND LETS HAVE FUN TOGETHERRR WITH CDS:bangbang:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FcafN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWelcome back everyone and get excited for our upcoming "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI Halloween party",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Below are some details"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dti"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dti"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dti"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "DTI will be hosting our annual halloween party in collaboration with CDS"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "date",
+                                        "unicode": "1f4c5"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "When: Saturday 10\/25 @10:30PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "round_pushpin",
+                                        "unicode": "1f4cd"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Where: 131 N Quarry St, Ithaca, NY, 14850"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "ghost",
+                                        "unicode": "1f47b"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Who: YOU (FREE) and your potential plus one (ALSO FREE)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                        "text": "RSVP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " here and include your plus one if needed by Thursday 10\/23 for headcount. Those who don’t rsvp by the deadline will not be able to enter."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For additional plus ones -> we ask for a $3 fee to help with costs."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Additionally, we need your help with "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "volunteering",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to keep this event safe and fun for"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 1 TEC",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!! Roles include door duty, set up and cleaning. Please fill out this "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/kBMXrM9Te1LpAwg69",
+                                        "text": "volunteer form"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " if you are interested or message "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S03R8V9GMCN"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "There will be a separate channel created next week to send out more details"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BRING YOUR COSTUMES, FRIENDS, AND LETS HAVE FUN TOGETHERRR WITH CDS"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ghost",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U05SG21V94J",
+                    "U0806411Z5X",
+                    "U061BLZS1TR",
+                    "U07NB1DPCBC",
+                    "U06K9HD998T",
+                    "U07NBB600PN",
+                    "U05S1FQNUJ3",
+                    "U07NBCRD412",
+                    "U07NBQUN71Q",
+                    "U0806A1C509",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U061S4J2DSP",
+                    "U08E7NL3V1S",
+                    "U06K2UUMU4E",
+                    "U07NA7PB0UV",
+                    "U06K9FXP18B",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA",
+                    "U06KNF03QKB",
+                    "U08DPBF7RD5",
+                    "U06KC4X5TD2",
+                    "U0800DE2GPN",
+                    "U08DPBMKHPZ",
+                    "U08EHA604AV",
+                    "U05T51X7ETS",
+                    "U05SG21SYLA",
+                    "U09G91U4B9U"
+                ],
+                "count": 29
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U05SG21V94J",
+                    "U0806411Z5X",
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U06K9HD998T",
+                    "U0806A1C509",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U08E7NL3V1S",
+                    "U06K2UUMU4E",
+                    "U07NA7PB0UV",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U08DPBMKHPZ"
+                ],
+                "count": 15
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U06K9HD998T",
+                    "U07NBB600PN",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U08E7NL3V1S",
+                    "U06K2UUMU4E",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2"
+                ],
+                "count": 13
+            },
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U08E7NL3V1S",
+                    "U06K2UUMU4E",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2"
+                ],
+                "count": 11
+            },
+            {
+                "name": "jack_o_lantern",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U07NBB600PN",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2"
+                ],
+                "count": 10
+            },
+            {
+                "name": "sad-olina",
+                "users": [
+                    "U061BLZS1TR",
+                    "U07NB1DPCBC",
+                    "U06K9HD998T",
+                    "U05SG21V94J",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2"
+                ],
+                "count": 11
+            },
+            {
+                "name": "kiss",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U06K9HD998T",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U06K9HD998T",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U06KAR47ZR9",
+                    "U08E3UNQDTM",
+                    "U06KC4X5TD2"
+                ],
+                "count": 8
+            },
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U08E3UNQDTM",
+                    "U06KC4X5TD2"
+                ],
+                "count": 6
+            },
+            {
+                "name": "deal_with_it_parrot",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U08E3UNQDTM",
+                    "U06KC4X5TD2"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06KBGE3LGK",
+        "upload": false,
+        "ts": "1760547981.000000",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>:mega:\n\nWelcome back everyone and get excited for our upcoming *DTI Halloween party*!!:ghost: Below are some details:dti::dti::dti::\n• :bangbang:DTI will be hosting our annual halloween party in collaboration with CDS:bangbang:\n    ◦ :date:When: Saturday 10\/25 @10:30PM\n    ◦ :round_pushpin:Where: 131 N Quarry St, Ithaca, NY, 14850\n    ◦ :ghost:Who: YOU (FREE) and your potential plus one (ALSO FREE)\n• Please <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|RSVP> here and include your plus one if needed by Thursday 10\/23 for headcount. Those who don’t rsvp by the deadline will not be able to enter.\n• For additional plus ones -> we ask for a $3 fee to help with costs.\n• Additionally, we need your help with *volunteering* to keep this event safe and fun for *1 TEC*!! Roles include door duty, set up and cleaning. Please fill out this <https:\/\/forms.gle\/kBMXrM9Te1LpAwg69|volunteer form> if you are interested or message <!subteam^S03R8V9GMCN|@business-leadz>.\n• There will be a separate channel created next week to send out more details\n:bangbang:BRING YOUR COSTUMES, FRIENDS, AND LETS HAVE FUN TOGETHERRR WITH CDS:bangbang:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06KBGE3LGK",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FcafN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nWelcome back everyone and get excited for our upcoming "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI Halloween party",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Below are some details"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dti"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dti"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dti"
+                            },
+                            {
+                                "type": "text",
+                                "text": ":\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "DTI will be hosting our annual halloween party in collaboration with CDS"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "bangbang",
+                                        "unicode": "203c-fe0f"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "date",
+                                        "unicode": "1f4c5"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "When: Saturday 10\/25 @10:30PM"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "round_pushpin",
+                                        "unicode": "1f4cd"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Where: 131 N Quarry St, Ithaca, NY, 14850"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "ghost",
+                                        "unicode": "1f47b"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Who: YOU (FREE) and your potential plus one (ALSO FREE)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Please "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                        "text": "RSVP"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " here and include your plus one if needed by Thursday 10\/23 for headcount. Those who don’t rsvp by the deadline will not be able to enter."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "For additional plus ones -> we ask for a $3 fee to help with costs."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Additionally, we need your help with "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "volunteering",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to keep this event safe and fun for"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 1 TEC",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!! Roles include door duty, set up and cleaning. Please fill out this "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/forms.gle\/kBMXrM9Te1LpAwg69",
+                                        "text": "volunteer form"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " if you are interested or message "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S03R8V9GMCN"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "There will be a separate channel created next week to send out more details"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "BRING YOUR COSTUMES, FRIENDS, AND LETS HAVE FUN TOGETHERRR WITH CDS"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KBGE3LGK",
+            "type": "message",
+            "ts": "1760547930.569109",
+            "client_msg_id": "bd5c3273-9f0c-4613-abd1-a63b8e8cd818",
+            "text": ":mega:Hey <!subteam^S06HNNE4YQ0>:mega:\n\nWelcome back everyone and get excited for our upcoming *DTI Halloween party*!!:ghost: Below are some details:\n• :bangbang:DTI will be hosting our annual halloween party in collaboration with CDS:bangbang:\n    ◦ :date:When: Saturday 10\/25 @10:30PM\n    ◦ :round_pushpin:Where: 131 N Quarry St, Ithaca, NY, 14850\n    ◦ :ghost:Who: YOU (FREE) and your potential plus one (ALSO FREE)\n• Please <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|RSVP> here and include your plus one if needed by Thursday 10\/23 for headcount. Those who don’t rsvp by the deadline will not be able to enter.\n• For additional plus ones -&gt; we ask for a $3 fee to help with costs.\n• Additionally, we need your help with *volunteering* to keep this event safe and fun for *1 TEC*!! Roles include door duty, set up and cleaning. Please fill out this <https:\/\/forms.gle\/kBMXrM9Te1LpAwg69|volunteer form> if you are interested or message <!subteam^S03R8V9GMCN>.\n• There will be a separate channel created next week to send out more details\n:bangbang:BRING YOUR COSTUMES, FRIENDS, AND LETS HAVE FUN TOGETHERRR WITH CDS:bangbang:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1fac4edc1dab",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+                "first_name": "Olina",
+                "real_name": "Olina Zheng",
+                "display_name": "Olina Zheng",
+                "team": "T0P9KU8UD",
+                "name": "oz36",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZXfRy",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nWelcome back everyone and get excited for our upcoming "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "DTI Halloween party",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "ghost",
+                                    "unicode": "1f47b"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Below are some details:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "bangbang",
+                                            "unicode": "203c-fe0f"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "DTI will be hosting our annual halloween party in collaboration with CDS"
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "bangbang",
+                                            "unicode": "203c-fe0f"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "date",
+                                            "unicode": "1f4c5"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "When: Saturday 10\/25 @10:30PM"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "round_pushpin",
+                                            "unicode": "1f4cd"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Where: 131 N Quarry St, Ithaca, NY, 14850"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "emoji",
+                                            "name": "ghost",
+                                            "unicode": "1f47b"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "Who: YOU (FREE) and your potential plus one (ALSO FREE)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Please "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                            "text": "RSVP"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " here and include your plus one if needed by Thursday 10\/23 for headcount. Those who don’t rsvp by the deadline will not be able to enter."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "For additional plus ones -> we ask for a $3 fee to help with costs."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Additionally, we need your help with "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "volunteering",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to keep this event safe and fun for"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " 1 TEC",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "!! Roles include door duty, set up and cleaning. Please fill out this "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/forms.gle\/kBMXrM9Te1LpAwg69",
+                                            "text": "volunteer form"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " if you are interested or message "
+                                        },
+                                        {
+                                            "type": "usergroup",
+                                            "usergroup_id": "S03R8V9GMCN"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "There will be a separate channel created next week to send out more details"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "bangbang",
+                                    "unicode": "203c-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "BRING YOUR COSTUMES, FRIENDS, AND LETS HAVE FUN TOGETHERRR WITH CDS"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "bangbang",
+                                    "unicode": "203c-fe0f"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KBGE3LGK"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1762468377.117089",
+        "client_msg_id": "9cb8c993-ccfe-4fad-b244-57af3508b1c5",
+        "text": "join <#C09CP5J8M5X|fa25-incubator-updates>!! help <!subteam^S09BCA9CB0F|@incubator-team> test Redi to ensure a smooth launch next week AND free cake :bangbang:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lN+gH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "join "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C09CP5J8M5X"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! help "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S09BCA9CB0F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " test Redi to ensure a smooth launch next week AND free cake "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U07VA4CRCP6",
+                    "U09G91U4B9U",
+                    "U06KNF03QKB",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U0806A1C509",
+                    "U08E174EJ13",
+                    "U0800DE2GPN"
+                ],
+                "count": 8
+            },
+            {
+                "name": "cake",
+                "users": [
+                    "U06KNF03QKB",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U0800DE2GPN"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,1331 @@
+[
+    {
+        "user": "U08E50PFWCA",
+        "type": "message",
+        "ts": "1759671838.578249",
+        "client_msg_id": "C7F689A0-864E-4E0E-A8D1-3742265D2D34",
+        "text": "HAPPY BIRTHDAY QUEENNN!! :partying_face: :partying_face: :partying_face: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "95366b90da28",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-19\/8480794030163_95366b90da28eaf14c41_72.png",
+            "first_name": "Esperanza",
+            "real_name": "Esperanza Roman Carrera",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "er549",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759509425.015279",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hkfnk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HAPPY BIRTHDAY QUEENNN!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U08E7NL3V1S",
+        "upload": false,
+        "ts": "1759760136.000000",
+        "text": "Hi <!subteam^S06HNNE4YQ0|@team>!! This fall we have some awesome *outreach workshops* lined up for the Ithaca community :mega:\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the *Tompkins County Public Library*:house_with_garden: in holding two workshops for older adults!! Please signup using this <https:\/\/forms.gle\/WmtBn8BT1jxysNYu9|form> to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life:yay: We will *cap volunteers at 5 per event* so get your submissions in!\n\n:point_right::skin-tone-2:Workshop #1: Digital Technology & Scams Seminar, *October 20th, 1:30-3pm*\n:point_right::skin-tone-2:Workshop #2: Technology 101 Seminar, *November 10th, 1:30-3pm*\n\nAlso BIG shoutout to <@U08E3UNQDTM> for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending :blush:\nLet me know if you have questions!!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56VnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! This fall we have some awesome "
+                            },
+                            {
+                                "type": "text",
+                                "text": "outreach workshops",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " lined up for the Ithaca community "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tompkins County Public Library",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "house_with_garden",
+                                "unicode": "1f3e1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in holding two workshops for older adults!! Please signup using this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/WmtBn8BT1jxysNYu9",
+                                "text": "form"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yay"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We will "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cap volunteers at 5 per event",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so get you"
+                            },
+                            {
+                                "type": "text",
+                                "text": "r "
+                            },
+                            {
+                                "type": "text",
+                                "text": "submissions in!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "Workshop #1: Digital Technology & Scams Seminar, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "October 20th, 1:30-3pm",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "Workshop #2: Technology 101 Seminar, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "November 10th, 1:30-3pm",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAlso BIG shoutout to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08E3UNQDTM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLet me know if you have questions!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "text": "Hi <!subteam^S06HNNE4YQ0>!! This fall we have some awesome *outreach workshops* lined up for the Ithaca community :mega:\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the *Tompkins County Public Library*:house_with_garden: in holding two workshops for older adults!! Please signup using this <https:\/\/forms.gle\/WmtBn8BT1jxysNYu9|form> to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life:yay: We will *cap volunteers at 5 per event* so get you submissions in!\n\n:point_right::skin-tone-2:Workshop #1: Digital Technology & Scams Seminar, *October 20th, 1:30-3pm*\n:point_right::skin-tone-2:Workshop #2: Technology 101 Seminar, *November 10th, 1:30-3pm*\n\nAlso BIG shoutout to <@U08E3UNQDTM> for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending :blush:\nLet me know if you have questions!!",
+            "files": [
+                {
+                    "id": "F09JQTWDD0V",
+                    "created": 1759680891,
+                    "timestamp": 1759680891,
+                    "name": "cybersecurity-workshop.png",
+                    "title": "cybersecurity-workshop.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U08E7NL3V1S",
+                    "user_team": "T0P9KU8UD",
+                    "editable": false,
+                    "size": 205735,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JQTWDD0V\/cybersecurity-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JQTWDD0V\/download\/cybersecurity-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360_w": 288,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_480_w": 384,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720_w": 576,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1000,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_960_w": 768,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_1024_w": 819,
+                    "thumb_1024_h": 1024,
+                    "original_w": 1080,
+                    "original_h": 1350,
+                    "thumb_tiny": "AwAwACfOAyQMgZ9aKfGYufNDEf7PWpAsTZ8uNz0HJz3\/AAzQBBQMYOfTip1WEuQ8cwJ4Cr2PpzT0gjJwUmbPQjABx1wec0AVtvybsjrjGeaSnyoUwDGyHk\/N1plAC7fdaXJXo3Xjg0Bvf9KHIPQk49sUALhyPvDn\/aHt\/n\/9VIxfPzNknvnNKr4UdSwzgc8e\/XrSbgAwXJB7njj86AEIPUkdu9JSsRnAYkDpkYpKACnLIy4wF49VBptOAUlstjA446+1AAzlgAQvHooFITnsB9KcixkHe5Ujp8uc00gAkAhvcUAJRRxj3ooA\/9k=",
+                    "permalink": "https:\/\/cornelldti.slack.com\/files\/U08E7NL3V1S\/F09JQTWDD0V\/cybersecurity-workshop.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09JQTWDD0V-9f7968b9d4",
+                    "skipped_shares": true,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                },
+                {
+                    "id": "F09JCU5JDAB",
+                    "created": 1759680899,
+                    "timestamp": 1759680899,
+                    "name": "tech101-workshop.png",
+                    "title": "tech101-workshop.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U08E7NL3V1S",
+                    "user_team": "T0P9KU8UD",
+                    "editable": false,
+                    "size": 171189,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JCU5JDAB\/tech101-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JCU5JDAB\/download\/tech101-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360_w": 288,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_480_w": 384,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720_w": 576,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1000,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_960_w": 768,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_1024_w": 819,
+                    "thumb_1024_h": 1024,
+                    "original_w": 1080,
+                    "original_h": 1350,
+                    "thumb_tiny": "AwAwACfOop8a7gSVYgdSO1S+XCFVmjnHqeMdKAK9APBqZxAgA2y7gRkMQPr2pkhjJHlhgMc7jnmgBnGOhz65ooooAcpOCNxAP60pZsAbyQO1MHfnFSsGIOZCfqw\/xoAYQTznP4U3kVKwURjbIxGehwP60jKu5tzsSMc8HPr3oAjooYYYgHIBooABjvS\/LuPJx2OKTtSqFOdzbcDI46n0oADs2jBbOOeO+f8ACkp6LGQd7lSOny5zTSACQCG9xQAlFFFAH\/\/Z",
+                    "permalink": "https:\/\/cornelldti.slack.com\/files\/U08E7NL3V1S\/F09JCU5JDAB\/tech101-workshop.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09JCU5JDAB-537072d77f",
+                    "skipped_shares": true,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U08E7NL3V1S",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "hlEfx",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! This fall we have some awesome "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "outreach workshops",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " lined up for the Ithaca community "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Tompkins County Public Library",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "house_with_garden",
+                                    "unicode": "1f3e1"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " in holding two workshops for older adults!! Please signup using this "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/WmtBn8BT1jxysNYu9",
+                                    "text": "form"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "yay"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " We will "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "cap volunteers at 5 per event",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " so get you submissions in!"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "point_right",
+                                    "unicode": "1f449-1f3fb",
+                                    "skin_tone": 2
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Workshop #1: Digital Technology & Scams Seminar, "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "October 20th, 1:30-3pm",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "point_right",
+                                    "unicode": "1f449-1f3fb",
+                                    "skin_tone": 2
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Workshop #2: Technology 101 Seminar, "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "November 10th, 1:30-3pm",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nAlso BIG shoutout to "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U08E3UNQDTM"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "blush",
+                                    "unicode": "1f60a"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nLet me know if you have questions!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1759680951.873649",
+            "edited": {
+                "user": "U08E7NL3V1S",
+                "ts": "1759760122.000000"
+            },
+            "client_msg_id": "f962a536-eb09-4057-a201-301b4220a43e"
+        },
+        "edited_by": "U08E7NL3V1S"
+    },
+    {
+        "text": "Hi <!subteam^S06HNNE4YQ0|@team>!! This fall we have some awesome *outreach workshops* lined up for the Ithaca community :mega:\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the *Tompkins County Public Library*:house_with_garden: in holding two workshops for older adults!! Please signup using this <https:\/\/forms.gle\/WmtBn8BT1jxysNYu9|form> to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life:yay: We will *cap volunteers at 5 per event* so get your submissions in!\n\n:point_right::skin-tone-2:Workshop #1: Digital Technology & Scams Seminar, *October 20th, 1:30-3pm*\n:point_right::skin-tone-2:Workshop #2: Technology 101 Seminar, *November 10th, 1:30-3pm*\n\nAlso BIG shoutout to <@U08E3UNQDTM> for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending :blush:\nLet me know if you have questions!!",
+        "files": [
+            {
+                "id": "F09JQTWDD0V",
+                "created": 1759680891,
+                "timestamp": 1759680891,
+                "name": "cybersecurity-workshop.png",
+                "title": "cybersecurity-workshop.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U08E7NL3V1S",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 205735,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JQTWDD0V\/cybersecurity-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JQTWDD0V\/download\/cybersecurity-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 288,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 384,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 576,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1000,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 768,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 819,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1350,
+                "thumb_tiny": "AwAwACfOAyQMgZ9aKfGYufNDEf7PWpAsTZ8uNz0HJz3\/AAzQBBQMYOfTip1WEuQ8cwJ4Cr2PpzT0gjJwUmbPQjABx1wec0AVtvybsjrjGeaSnyoUwDGyHk\/N1plAC7fdaXJXo3Xjg0Bvf9KHIPQk49sUALhyPvDn\/aHt\/n\/9VIxfPzNknvnNKr4UdSwzgc8e\/XrSbgAwXJB7njj86AEIPUkdu9JSsRnAYkDpkYpKACnLIy4wF49VBptOAUlstjA446+1AAzlgAQvHooFITnsB9KcixkHe5Ujp8uc00gAkAhvcUAJRRxj3ooA\/9k=",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09JQTWDD0V\/cybersecurity-workshop.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09JQTWDD0V-9f7968b9d4",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F09JCU5JDAB",
+                "created": 1759680899,
+                "timestamp": 1759680899,
+                "name": "tech101-workshop.png",
+                "title": "tech101-workshop.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U08E7NL3V1S",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 171189,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JCU5JDAB\/tech101-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JCU5JDAB\/download\/tech101-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 288,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 384,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 576,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1000,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 768,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 819,
+                "thumb_1024_h": 1024,
+                "original_w": 1080,
+                "original_h": 1350,
+                "thumb_tiny": "AwAwACfOop8a7gSVYgdSO1S+XCFVmjnHqeMdKAK9APBqZxAgA2y7gRkMQPr2pkhjJHlhgMc7jnmgBnGOhz65ooooAcpOCNxAP60pZsAbyQO1MHfnFSsGIOZCfqw\/xoAYQTznP4U3kVKwURjbIxGehwP60jKu5tzsSMc8HPr3oAjooYYYgHIBooABjvS\/LuPJx2OKTtSqFOdzbcDI46n0oADs2jBbOOeO+f8ACkp6LGQd7lSOny5zTSACQCG9xQAlFFFAH\/\/Z",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09JCU5JDAB\/tech101-workshop.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09JCU5JDAB-537072d77f",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56VnS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! This fall we have some awesome "
+                            },
+                            {
+                                "type": "text",
+                                "text": "outreach workshops",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " lined up for the Ithaca community "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tompkins County Public Library",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "house_with_garden",
+                                "unicode": "1f3e1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in holding two workshops for older adults!! Please signup using this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/WmtBn8BT1jxysNYu9",
+                                "text": "form"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yay"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We will "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cap volunteers at 5 per event",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so get you"
+                            },
+                            {
+                                "type": "text",
+                                "text": "r "
+                            },
+                            {
+                                "type": "text",
+                                "text": "submissions in!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "Workshop #1: Digital Technology & Scams Seminar, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "October 20th, 1:30-3pm",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "Workshop #2: Technology 101 Seminar, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "November 10th, 1:30-3pm",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAlso BIG shoutout to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08E3UNQDTM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLet me know if you have questions!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759680951.873649",
+        "edited": {
+            "user": "U08E7NL3V1S",
+            "ts": "1759760136.000000"
+        },
+        "client_msg_id": "f962a536-eb09-4057-a201-301b4220a43e",
+        "reactions": [
+            {
+                "name": "party-blob",
+                "users": [
+                    "U06K9HD998T",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U04Q99S2Y3C",
+                    "U080G6QDZT2",
+                    "U09H2QPBZK2",
+                    "U06KNF03QKB",
+                    "U06K2UUMU4E",
+                    "U08E174EJ13",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U07NBB600PN",
+                    "U04Q6BMSJER",
+                    "U06KC4X5TD2",
+                    "U08EGG957CZ",
+                    "U09G9C7A3MG",
+                    "U08E3UNQDTM",
+                    "U08E50PFWCA"
+                ],
+                "count": 18
+            },
+            {
+                "name": "scream_cat",
+                "users": [
+                    "U061BLZS1TR",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U04Q99S2Y3C",
+                    "U06KNF03QKB",
+                    "U06K2UUMU4E",
+                    "U08E174EJ13",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U04Q6BMSJER",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM"
+                ],
+                "count": 12
+            },
+            {
+                "name": "books",
+                "users": [
+                    "U06K9HD998T",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U04Q99S2Y3C",
+                    "U05S1FQNUJ3",
+                    "U06K2UUMU4E",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM"
+                ],
+                "count": 11
+            },
+            {
+                "name": "blob-aww",
+                "users": [
+                    "U061BLZS1TR",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U061S4J2DSP",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM"
+                ],
+                "count": 9
+            },
+            {
+                "name": "ed1wave",
+                "users": [
+                    "U061BLZS1TR",
+                    "U06K9HD998T",
+                    "U0806411Z5X",
+                    "U04Q99S2Y3C",
+                    "U06KNF03QKB",
+                    "U06K2UUMU4E",
+                    "U061S4J2DSP",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM"
+                ],
+                "count": 9
+            },
+            {
+                "name": "older_man",
+                "users": [
+                    "U06K9HD998T",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U061S4J2DSP",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U08E7NL3V1S",
+        "upload": false,
+        "ts": "1759760122.000000",
+        "text": "Hi <!subteam^S06HNNE4YQ0|@team>!! This fall we have some awesome *outreach workshops* lined up for the Ithaca community :mega:\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the *Tompkins County Public Library*:house_with_garden: in holding two workshops for older adults!! Please signup using this <https:\/\/forms.gle\/WmtBn8BT1jxysNYu9|form> to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life:yay: We will *cap volunteers at 5 per event* so get you submissions in!\n\n:point_right::skin-tone-2:Workshop #1: Digital Technology & Scams Seminar, *October 20th, 1:30-3pm*\n:point_right::skin-tone-2:Workshop #2: Technology 101 Seminar, *November 10th, 1:30-3pm*\n\nAlso BIG shoutout to <@U08E3UNQDTM> for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending :blush:\nLet me know if you have questions!!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hlEfx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! This fall we have some awesome "
+                            },
+                            {
+                                "type": "text",
+                                "text": "outreach workshops",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " lined up for the Ithaca community "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Tompkins County Public Library",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "house_with_garden",
+                                "unicode": "1f3e1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " in holding two workshops for older adults!! Please signup using this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/WmtBn8BT1jxysNYu9",
+                                "text": "form"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yay"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We will "
+                            },
+                            {
+                                "type": "text",
+                                "text": "cap volunteers at 5 per event",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so get you submissions in!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "Workshop #1: Digital Technology & Scams Seminar, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "October 20th, 1:30-3pm",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "Workshop #2: Technology 101 Seminar, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "November 10th, 1:30-3pm",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nAlso BIG shoutout to "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08E3UNQDTM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nLet me know if you have questions!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "text": "Hi <!subteam^S06HNNE4YQ0>!! This fall we have some awesome *outreach workshops* lined up for the Ithaca community :mega:\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the *Tompkins County Public Library*:house_with_garden: in holding two workshops for older adults!! Please signup using this <https:\/\/forms.gle\/WmtBn8BT1jxysNYu9|form> to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life:yay:\n\n:point_right::skin-tone-2:Workshop #1: Digital Technology &amp; Scams Seminar, *October 20th, 1:30-3pm*\n:point_right::skin-tone-2:Workshop #2: Technology 101 Seminar, *November 10th, 1:30-3pm*\n\nAlso BIG shoutout to <@U08E3UNQDTM> for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending :blush:\nLet me know if you have questions!!",
+            "files": [
+                {
+                    "id": "F09JQTWDD0V",
+                    "created": 1759680891,
+                    "timestamp": 1759680891,
+                    "name": "cybersecurity-workshop.png",
+                    "title": "cybersecurity-workshop.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U08E7NL3V1S",
+                    "user_team": "T0P9KU8UD",
+                    "editable": false,
+                    "size": 205735,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JQTWDD0V\/cybersecurity-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JQTWDD0V\/download\/cybersecurity-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360_w": 288,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_480_w": 384,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720_w": 576,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1000,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_960_w": 768,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JQTWDD0V-04b4588da0\/cybersecurity-workshop_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_1024_w": 819,
+                    "thumb_1024_h": 1024,
+                    "original_w": 1080,
+                    "original_h": 1350,
+                    "thumb_tiny": "AwAwACfOAyQMgZ9aKfGYufNDEf7PWpAsTZ8uNz0HJz3\/AAzQBBQMYOfTip1WEuQ8cwJ4Cr2PpzT0gjJwUmbPQjABx1wec0AVtvybsjrjGeaSnyoUwDGyHk\/N1plAC7fdaXJXo3Xjg0Bvf9KHIPQk49sUALhyPvDn\/aHt\/n\/9VIxfPzNknvnNKr4UdSwzgc8e\/XrSbgAwXJB7njj86AEIPUkdu9JSsRnAYkDpkYpKACnLIy4wF49VBptOAUlstjA446+1AAzlgAQvHooFITnsB9KcixkHe5Ujp8uc00gAkAhvcUAJRRxj3ooA\/9k=",
+                    "permalink": "https:\/\/cornelldti.slack.com\/files\/U08E7NL3V1S\/F09JQTWDD0V\/cybersecurity-workshop.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09JQTWDD0V-9f7968b9d4",
+                    "skipped_shares": true,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                },
+                {
+                    "id": "F09JCU5JDAB",
+                    "created": 1759680899,
+                    "timestamp": 1759680899,
+                    "name": "tech101-workshop.png",
+                    "title": "tech101-workshop.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U08E7NL3V1S",
+                    "user_team": "T0P9KU8UD",
+                    "editable": false,
+                    "size": 171189,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JCU5JDAB\/tech101-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JCU5JDAB\/download\/tech101-workshop.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360_w": 288,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_480_w": 384,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720_w": 576,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1000,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_960_w": 768,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JCU5JDAB-f10d194a2a\/tech101-workshop_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_1024_w": 819,
+                    "thumb_1024_h": 1024,
+                    "original_w": 1080,
+                    "original_h": 1350,
+                    "thumb_tiny": "AwAwACfOop8a7gSVYgdSO1S+XCFVmjnHqeMdKAK9APBqZxAgA2y7gRkMQPr2pkhjJHlhgMc7jnmgBnGOhz65ooooAcpOCNxAP60pZsAbyQO1MHfnFSsGIOZCfqw\/xoAYQTznP4U3kVKwURjbIxGehwP60jKu5tzsSMc8HPr3oAjooYYYgHIBooABjvS\/LuPJx2OKTtSqFOdzbcDI46n0oADs2jBbOOeO+f8ACkp6LGQd7lSOny5zTSACQCG9xQAlFFFAH\/\/Z",
+                    "permalink": "https:\/\/cornelldti.slack.com\/files\/U08E7NL3V1S\/F09JCU5JDAB\/tech101-workshop.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09JCU5JDAB-537072d77f",
+                    "skipped_shares": true,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": false,
+            "user": "U08E7NL3V1S",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "yAk3t",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! This fall we have some awesome "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "outreach workshops",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " lined up for the Ithaca community "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nThank you so much for sending in your availability earlier this year with times you're able to help volunteer - we tried our best to accommodate schedules as well as stay within the working hours of our partners!\n\nWe are excited to collaborate with the "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Tompkins County Public Library",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "house_with_garden",
+                                    "unicode": "1f3e1",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " in holding two workshops for older adults!! Please signup using this "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/WmtBn8BT1jxysNYu9",
+                                    "text": "form"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to help volunteer at the event! It will be an amazing opportunity to meet new people and enrich your life"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "yay"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "point_right",
+                                    "unicode": "1f449-1f3fb",
+                                    "skin_tone": 2
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Workshop #1: Digital Technology & Scams Seminar, "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "October 20th, 1:30-3pm",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "point_right",
+                                    "unicode": "1f449-1f3fb",
+                                    "skin_tone": 2
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Workshop #2: Technology 101 Seminar, "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "November 10th, 1:30-3pm",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nAlso BIG shoutout to "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U08E3UNQDTM"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " for helping create the beautiful graphics (attached here) for these workshops! Feel free to share with any group you know who might be interested in attending "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "blush",
+                                    "unicode": "1f60a"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nLet me know if you have questions!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "type": "message",
+            "ts": "1759680951.873649",
+            "client_msg_id": "f962a536-eb09-4057-a201-301b4220a43e"
+        },
+        "edited_by": "U08E7NL3V1S"
+    }
+]

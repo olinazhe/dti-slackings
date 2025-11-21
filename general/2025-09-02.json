@@ -1,0 +1,1223 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1756846998.521389",
+        "client_msg_id": "d759baa6-439e-42bc-8ef3-01cf8db74068",
+        "text": "<!subteam^S06HNNE4YQ0|@team> if you are coming to today's networking event pls come asap :) in upson 216 and there are lots of applicants here",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "reply_count": 13,
+        "reply_users_count": 8,
+        "latest_reply": "1756848266.555849",
+        "reply_users": [
+            "U0806411Z5X",
+            "U06K2TZALJ2",
+            "U06KNU7LVJM",
+            "U06K9FXP18B",
+            "U04Q99S2Y3C",
+            "U07VA4CRCP6",
+            "U07V0PDSY78",
+            "U07NBQUN71Q"
+        ],
+        "replies": [
+            {
+                "user": "U0806411Z5X",
+                "ts": "1756847036.290849"
+            },
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1756847065.096709"
+            },
+            {
+                "user": "U06KNU7LVJM",
+                "ts": "1756847087.185149"
+            },
+            {
+                "user": "U06K9FXP18B",
+                "ts": "1756847131.361679"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1756847164.875169"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1756847166.503639"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1756847181.932949"
+            },
+            {
+                "user": "U06K9FXP18B",
+                "ts": "1756847218.507179"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1756847245.096079"
+            },
+            {
+                "user": "U07VA4CRCP6",
+                "ts": "1756847375.612109"
+            },
+            {
+                "user": "U07V0PDSY78",
+                "ts": "1756847638.795629"
+            },
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1756848252.258959"
+            },
+            {
+                "user": "U07NBQUN71Q",
+                "ts": "1756848266.555849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y2wD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you are coming to today's networking event pls come asap :) in upson 216 and there are lots of applicants here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ahh",
+                "users": [
+                    "U04Q99S0NM8",
+                    "U07NA7PB0UV",
+                    "U0806411Z5X",
+                    "U08E16YNJ5B"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0806411Z5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U0806411Z5X",
+        "upload": false,
+        "ts": "1756847049.000000",
+        "text": "Are there cookies ",
+        "subtype": "message_changed",
+        "thread_ts": "1756846998.521389",
+        "editor_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1dqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cookies "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U0806411Z5X",
+            "type": "message",
+            "ts": "1756847036.290849",
+            "edited": {
+                "user": "U0806411Z5X",
+                "ts": "1756847047.000000"
+            },
+            "client_msg_id": "B1D621E2-DC86-474C-A0D5-6BA845ED922D",
+            "text": "Are there cookies ",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "f246256da654",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+                "first_name": "Clément",
+                "real_name": "Clément Rozé",
+                "display_name": "Clément Rozé",
+                "team": "T0P9KU8UD",
+                "name": "cpr58",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1756846998.521389",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "F1dqa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Are "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "there"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " cookies "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U0806411Z5X"
+    },
+    {
+        "type": "message",
+        "user": "U0806411Z5X",
+        "upload": false,
+        "ts": "1756847047.000000",
+        "text": "Are there cookies ",
+        "subtype": "message_changed",
+        "thread_ts": "1756846998.521389",
+        "editor_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1dqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cookies "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U0806411Z5X",
+            "type": "message",
+            "ts": "1756847036.290849",
+            "client_msg_id": "B1D621E2-DC86-474C-A0D5-6BA845ED922D",
+            "text": "Are theee cookies ",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "f246256da654",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+                "first_name": "Clément",
+                "real_name": "Clément Rozé",
+                "display_name": "Clément Rozé",
+                "team": "T0P9KU8UD",
+                "name": "cpr58",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1756846998.521389",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "yCQEm",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Are theee cookies "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U0806411Z5X"
+    },
+    {
+        "type": "message",
+        "user": "U0806411Z5X",
+        "upload": false,
+        "ts": "1756847049.000000",
+        "text": "Are there cookies ",
+        "subtype": "message_changed",
+        "thread_ts": "1756846998.521389",
+        "editor_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1dqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cookies "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U0806411Z5X",
+            "type": "message",
+            "ts": "1756847036.290849",
+            "edited": {
+                "user": "U0806411Z5X",
+                "ts": "1756847049.000000"
+            },
+            "client_msg_id": "B1D621E2-DC86-474C-A0D5-6BA845ED922D",
+            "text": "Are there cookies ",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "f246256da654",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+                "first_name": "Clément",
+                "real_name": "Clément Rozé",
+                "display_name": "Clément Rozé",
+                "team": "T0P9KU8UD",
+                "name": "cpr58",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1756846998.521389",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "F1dqa",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Are "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "there"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " cookies "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U0806411Z5X"
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1756847036.290849",
+        "edited": {
+            "user": "U0806411Z5X",
+            "ts": "1756847049.000000"
+        },
+        "client_msg_id": "B1D621E2-DC86-474C-A0D5-6BA845ED922D",
+        "text": "Are there cookies ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1dqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are "
+                            },
+                            {
+                                "type": "text",
+                                "text": "there"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cookies "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1756847065.096709",
+        "client_msg_id": "7db6a520-1568-4767-b499-9ba59b3e92b2",
+        "text": "YES",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1CwyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U0806411Z5X",
+                    "U080G5L9MTJ"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U06KNU7LVJM",
+        "type": "message",
+        "ts": "1756847087.185149",
+        "client_msg_id": "1747075c-cfb8-41eb-83f7-fc75e6aca4d7",
+        "text": "clément: :man-running:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "13590e797a11",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641741772423_13590e797a1192a52c50_72.png",
+            "first_name": "David",
+            "real_name": "David Martinez Lopez",
+            "display_name": "David Martinez Lopez",
+            "team": "T0P9KU8UD",
+            "name": "dm769",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QIR0a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "clément: "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-running",
+                                "unicode": "1f3c3-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U0806411Z5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06K9FXP18B",
+        "type": "message",
+        "ts": "1756847131.361679",
+        "client_msg_id": "2D6935BF-2253-4031-B821-AADFE3A11544",
+        "text": "pu to willard straight at 6pm (after the cookie event) for free boba and microsoft merch :grin: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "57abfdc6b6f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-11-19\/9954325794690_57abfdc6b6f88e5136e4_72.png",
+            "first_name": "Erica",
+            "real_name": "Erica Lee",
+            "display_name": "Erica Lee",
+            "team": "T0P9KU8UD",
+            "name": "el728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BOxl0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pu to willard straight at 6pm (after the cookie event) for free boba and microsoft merch "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0806411Z5X",
+                    "U07NBCRD412"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pog",
+                "users": [
+                    "U04Q6BMSJER",
+                    "U05SG21SYLA",
+                    "U080G5L9MTJ",
+                    "U0806411Z5X",
+                    "U07NBCRD412"
+                ],
+                "count": 5
+            },
+            {
+                "name": "windows",
+                "users": [
+                    "U04Q6BMSJER",
+                    "U0806411Z5X",
+                    "U07NBCRD412"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756847164.875169",
+        "client_msg_id": "34eafecf-76bb-4672-a0b0-2ce58eb8f8e0",
+        "text": "wait lowkey we need help in upson 216",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aW\/IN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait lowkey we need help in upson 216"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756847166.503639",
+        "client_msg_id": "3aef7520-31cb-4d0f-8c06-80ab6854fef2",
+        "text": "please LOL",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "569\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please LOL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756847181.932949",
+        "client_msg_id": "1a86fdff-b73c-4585-8077-bdc5f7567c06",
+        "text": "theres so so so many applicants and not enough members please come help out if you’re free",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nnwXs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "theres so so so many applicants and not enough members please come help out if you’re free"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K9FXP18B",
+        "type": "message",
+        "ts": "1756847218.507179",
+        "client_msg_id": "1E927C48-4BAF-444D-AA15-A599E1284CF8",
+        "text": "wld come but i am alr setting up for event:sleepy: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "57abfdc6b6f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-11-19\/9954325794690_57abfdc6b6f88e5136e4_72.png",
+            "first_name": "Erica",
+            "real_name": "Erica Lee",
+            "display_name": "Erica Lee",
+            "team": "T0P9KU8UD",
+            "name": "el728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ut1O1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wld come but i am alr setting up for event"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sleepy",
+                                "unicode": "1f62a"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756847245.096079",
+        "client_msg_id": "8ce70436-ed79-44a8-9414-0c29bff33a4d",
+        "text": "ok",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "luWBi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07VA4CRCP6",
+        "type": "message",
+        "ts": "1756847375.612109",
+        "client_msg_id": "B1B900C4-C83F-420A-8A6F-C0593A8CEAC9",
+        "text": "On my way",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "b8092d903bb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-13\/9354576481956_b8092d903bb668f54f7e_72.png",
+            "first_name": "Arsh",
+            "real_name": "Arsh Aggarwal",
+            "display_name": "Arsh Aggarwal",
+            "team": "T0P9KU8UD",
+            "name": "aa2724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hqOzq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On my way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07V0PDSY78",
+        "type": "message",
+        "ts": "1756847638.795629",
+        "client_msg_id": "0cb32983-e49d-443e-a93e-3b9375cba9a1",
+        "text": "me too!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "38733a732f29",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/7990888174901_38733a732f296b228c0f_72.jpg",
+            "first_name": "Amber",
+            "real_name": "Amber Shen",
+            "display_name": "Amber Shen",
+            "team": "T0P9KU8UD",
+            "name": "as4288",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mcsqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me too!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1756848254.000000",
+        "text": "are there any biz reps that can come?",
+        "subtype": "message_changed",
+        "thread_ts": "1756846998.521389",
+        "editor_id": "U00",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zozmd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are there any biz reps that can come?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "subtype": "thread_broadcast",
+            "user": "U06K2TZALJ2",
+            "thread_ts": "1756846998.521389",
+            "root": {
+                "user": "U06K2TZALJ2",
+                "type": "message",
+                "ts": "1756846998.521389",
+                "client_msg_id": "d759baa6-439e-42bc-8ef3-01cf8db74068",
+                "text": "<!subteam^S06HNNE4YQ0> if you are coming to today's networking event pls come asap :) in upson 216 and there are lots of applicants here",
+                "team": "T0P9KU8UD",
+                "thread_ts": "1756846998.521389",
+                "reply_count": 13,
+                "reply_users_count": 8,
+                "latest_reply": "1756848266.555849",
+                "reply_users": [
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U06KNU7LVJM",
+                    "U06K9FXP18B",
+                    "U04Q99S2Y3C",
+                    "U07VA4CRCP6",
+                    "U07V0PDSY78",
+                    "U07NBQUN71Q"
+                ],
+                "replies": [
+                    {
+                        "user": "U0806411Z5X",
+                        "ts": "1756847036.290849"
+                    },
+                    {
+                        "user": "U06K2TZALJ2",
+                        "ts": "1756847065.096709"
+                    },
+                    {
+                        "user": "U06KNU7LVJM",
+                        "ts": "1756847087.185149"
+                    },
+                    {
+                        "user": "U06K9FXP18B",
+                        "ts": "1756847131.361679"
+                    },
+                    {
+                        "user": "U04Q99S2Y3C",
+                        "ts": "1756847164.875169"
+                    },
+                    {
+                        "user": "U04Q99S2Y3C",
+                        "ts": "1756847166.503639"
+                    },
+                    {
+                        "user": "U04Q99S2Y3C",
+                        "ts": "1756847181.932949"
+                    },
+                    {
+                        "user": "U06K9FXP18B",
+                        "ts": "1756847218.507179"
+                    },
+                    {
+                        "user": "U04Q99S2Y3C",
+                        "ts": "1756847245.096079"
+                    },
+                    {
+                        "user": "U07VA4CRCP6",
+                        "ts": "1756847375.612109"
+                    },
+                    {
+                        "user": "U07V0PDSY78",
+                        "ts": "1756847638.795629"
+                    },
+                    {
+                        "user": "U06K2TZALJ2",
+                        "ts": "1756848252.258959"
+                    },
+                    {
+                        "user": "U07NBQUN71Q",
+                        "ts": "1756848266.555849"
+                    }
+                ],
+                "is_locked": false,
+                "blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "y2wD4",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S06HNNE4YQ0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " if you are coming to today's networking event pls come asap :) in upson 216 and there are lots of applicants here"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": "message",
+            "ts": "1756848252.258959",
+            "client_msg_id": "616f1f84-f5a1-4041-bd83-2f99ed23068d",
+            "text": "are there any biz reps that can come?",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Zozmd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "are there any biz reps that can come?"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06K2TZALJ2",
+        "thread_ts": "1756846998.521389",
+        "root": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1756846998.521389",
+            "client_msg_id": "d759baa6-439e-42bc-8ef3-01cf8db74068",
+            "text": "<!subteam^S06HNNE4YQ0> if you are coming to today's networking event pls come asap :) in upson 216 and there are lots of applicants here",
+            "team": "T0P9KU8UD",
+            "thread_ts": "1756846998.521389",
+            "reply_count": 13,
+            "reply_users_count": 8,
+            "latest_reply": "1756848266.555849",
+            "reply_users": [
+                "U0806411Z5X",
+                "U06K2TZALJ2",
+                "U06KNU7LVJM",
+                "U06K9FXP18B",
+                "U04Q99S2Y3C",
+                "U07VA4CRCP6",
+                "U07V0PDSY78",
+                "U07NBQUN71Q"
+            ],
+            "replies": [
+                {
+                    "user": "U0806411Z5X",
+                    "ts": "1756847036.290849"
+                },
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1756847065.096709"
+                },
+                {
+                    "user": "U06KNU7LVJM",
+                    "ts": "1756847087.185149"
+                },
+                {
+                    "user": "U06K9FXP18B",
+                    "ts": "1756847131.361679"
+                },
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1756847164.875169"
+                },
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1756847166.503639"
+                },
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1756847181.932949"
+                },
+                {
+                    "user": "U06K9FXP18B",
+                    "ts": "1756847218.507179"
+                },
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1756847245.096079"
+                },
+                {
+                    "user": "U07VA4CRCP6",
+                    "ts": "1756847375.612109"
+                },
+                {
+                    "user": "U07V0PDSY78",
+                    "ts": "1756847638.795629"
+                },
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1756848252.258959"
+                },
+                {
+                    "user": "U07NBQUN71Q",
+                    "ts": "1756848266.555849"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "y2wD4",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if you are coming to today's networking event pls come asap :) in upson 216 and there are lots of applicants here"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1756848252.258959",
+        "client_msg_id": "616f1f84-f5a1-4041-bd83-2f99ed23068d",
+        "text": "are there any biz reps that can come?",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zozmd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are there any biz reps that can come?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07NBQUN71Q",
+        "type": "message",
+        "ts": "1756848266.555849",
+        "client_msg_id": "EA469EA0-347C-40CF-8C9E-A79280DB7E26",
+        "text": "Coming!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "d994c4318375",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-09-20\/7759799809395_d994c4318375f5e7450e_72.jpg",
+            "first_name": "Cynthia",
+            "real_name": "Cynthia Lan",
+            "display_name": "Cynthia Lan",
+            "team": "T0P9KU8UD",
+            "name": "cl2683",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756846998.521389",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fNX7Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Coming!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

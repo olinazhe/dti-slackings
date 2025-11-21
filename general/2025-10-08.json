@@ -1,0 +1,617 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06K2UUMU4E",
+        "thread_ts": "1759432645.934899",
+        "root": {
+            "user": "U06K2UUMU4E",
+            "type": "message",
+            "ts": "1759432645.934899",
+            "edited": {
+                "user": "U06K2UUMU4E",
+                "ts": "1759433086.000000"
+            },
+            "client_msg_id": "9b62c3af-4953-49c4-9df4-1175b360254f",
+            "text": "Hey <!subteam^S06HNNE4YQ0>!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting :star-struck:). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n• <https:\/\/www.linkedin.com\/in\/alicetpham\/|Alice Pham> - DTI cofounder, founded a startup called Ket Recipes\n• <https:\/\/www.linkedin.com\/in\/altheaangela-bata\/|Althea Bata> - PM @ Microsoft \n• <https:\/\/www.linkedin.com\/in\/mfarkouh5\/|Michael Farkouh >- PM @ Warner Bros Discovery (sports & entertainment)\n:calendar: Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there :saluting_face:",
+            "team": "T0P9KU8UD",
+            "thread_ts": "1759432645.934899",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1759950971.184409",
+            "reply_users": [
+                "U04Q99S2Y3C",
+                "U06K2UUMU4E"
+            ],
+            "replies": [
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1759433026.626819"
+                },
+                {
+                    "user": "U06K2UUMU4E",
+                    "ts": "1759950971.184409"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "KIr\/h",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "star-struck",
+                                    "unicode": "1f929"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/alicetpham\/",
+                                            "text": "Alice Pham"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - DTI cofounder, founded a startup called Ket Recipes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/altheaangela-bata\/",
+                                            "text": "Althea Bata"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - PM @ Microsoft "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/mfarkouh5\/",
+                                            "text": "Michael Farkouh "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "- PM @ Warner Bros Discovery (sports & entertainment)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "calendar",
+                                    "unicode": "1f4c6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "saluting_face",
+                                    "unicode": "1fae1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1759950971.184409",
+        "client_msg_id": "dd59ddf2-d1bb-4196-895d-e67ba3bbef6a",
+        "text": "reminder that PM alum panel is today from 4:30 - 5:30 @ hollister 368! hope to see you guys there :meow_noddies:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lcKXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "reminder that PM alum panel is today from 4:30 - 5:30 @ hollister 368! hope to see you guys there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "blob-aww",
+                "users": [
+                    "U061BLZS1TR",
+                    "U08E3US1RSP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "alphabet-white-p",
+                "users": [
+                    "U061BLZS1TR",
+                    "U08EGG7CKKK",
+                    "U08E3US1RSP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "alphabet-white-m",
+                "users": [
+                    "U061BLZS1TR",
+                    "U08EGG7CKKK",
+                    "U08E3US1RSP"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2UUMU4E",
+        "upload": false,
+        "ts": "1759950973.000000",
+        "text": "reminder that PM alum panel is today from 4:30 - 5:30 @ hollister 368! hope to see you guys there :meow_noddies:",
+        "subtype": "message_changed",
+        "thread_ts": "1759432645.934899",
+        "editor_id": "U00",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lcKXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "reminder that PM alum panel is today from 4:30 - 5:30 @ hollister 368! hope to see you guys there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "subtype": "thread_broadcast",
+            "user": "U06K2UUMU4E",
+            "thread_ts": "1759432645.934899",
+            "root": {
+                "user": "U06K2UUMU4E",
+                "type": "message",
+                "ts": "1759432645.934899",
+                "edited": {
+                    "user": "U06K2UUMU4E",
+                    "ts": "1759433086.000000"
+                },
+                "client_msg_id": "9b62c3af-4953-49c4-9df4-1175b360254f",
+                "text": "Hey <!subteam^S06HNNE4YQ0>!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting :star-struck:). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n• <https:\/\/www.linkedin.com\/in\/alicetpham\/|Alice Pham> - DTI cofounder, founded a startup called Ket Recipes\n• <https:\/\/www.linkedin.com\/in\/altheaangela-bata\/|Althea Bata> - PM @ Microsoft \n• <https:\/\/www.linkedin.com\/in\/mfarkouh5\/|Michael Farkouh >- PM @ Warner Bros Discovery (sports & entertainment)\n:calendar: Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there :saluting_face:",
+                "team": "T0P9KU8UD",
+                "thread_ts": "1759432645.934899",
+                "reply_count": 2,
+                "reply_users_count": 2,
+                "latest_reply": "1759950971.184409",
+                "reply_users": [
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E"
+                ],
+                "replies": [
+                    {
+                        "user": "U04Q99S2Y3C",
+                        "ts": "1759433026.626819"
+                    },
+                    {
+                        "user": "U06K2UUMU4E",
+                        "ts": "1759950971.184409"
+                    }
+                ],
+                "is_locked": false,
+                "blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "KIr\/h",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hey "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S06HNNE4YQ0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "star-struck",
+                                        "unicode": "1f929"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_list",
+                                "elements": [
+                                    {
+                                        "type": "rich_text_section",
+                                        "elements": [
+                                            {
+                                                "type": "link",
+                                                "url": "https:\/\/www.linkedin.com\/in\/alicetpham\/",
+                                                "text": "Alice Pham"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": " - DTI cofounder, founded a startup called Ket Recipes"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "rich_text_section",
+                                        "elements": [
+                                            {
+                                                "type": "link",
+                                                "url": "https:\/\/www.linkedin.com\/in\/altheaangela-bata\/",
+                                                "text": "Althea Bata"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": " - PM @ Microsoft "
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "type": "rich_text_section",
+                                        "elements": [
+                                            {
+                                                "type": "link",
+                                                "url": "https:\/\/www.linkedin.com\/in\/mfarkouh5\/",
+                                                "text": "Michael Farkouh "
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "- PM @ Warner Bros Discovery (sports & entertainment)"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "style": "bullet",
+                                "indent": 0,
+                                "border": 0
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "calendar",
+                                        "unicode": "1f4c6"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "saluting_face",
+                                        "unicode": "1fae1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": "message",
+            "ts": "1759950971.184409",
+            "client_msg_id": "dd59ddf2-d1bb-4196-895d-e67ba3bbef6a",
+            "text": "reminder that PM alum panel is today from 4:30 - 5:30 @ hollister 368! hope to see you guys there :meow_noddies:",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lcKXl",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "reminder that PM alum panel is today from 4:30 - 5:30 @ hollister 368! hope to see you guys there "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "meow_noddies"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1759952259.031559",
+        "client_msg_id": "4d5a4d1b-3085-4b9f-ab8b-c6e1229949a7",
+        "text": "<!subteam^S06HNNE4YQ0|@team> hi!! we are looking for *juniors\/seniors* who are interested in being bigs for our *D*ELIGHTFUL *T*ALENTED *I*NCREDIBLE upperclassman newbies!! PLEASE DM BOTH OPS IF YOU WANNA BE A BIG and GET HYPED! :crab:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jL6X4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hi!! we are looking for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "juniors\/seniors",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " who are interested in being bigs for our "
+                            },
+                            {
+                                "type": "text",
+                                "text": "D",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ELIGHTFUL "
+                            },
+                            {
+                                "type": "text",
+                                "text": "T",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ALENTED "
+                            },
+                            {
+                                "type": "text",
+                                "text": "I",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "NCREDIBLE upperclassman newbies!! PLEASE DM BOTH OPS IF YOU WANNA BE A BIG and GET HYPED! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crab",
+                                "unicode": "1f980"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05S1FQNUJ3",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KNF03QKB",
+                    "U080G6QDZT2",
+                    "U08E50PFWCA",
+                    "U06KCGWCC04",
+                    "U06KC4X5TD2",
+                    "U04Q6BMSJER",
+                    "U06K9FXP18B",
+                    "U07NBCRD412",
+                    "U07P3MX5X8Q"
+                ],
+                "count": 14
+            },
+            {
+                "name": "red_siren",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05S1FQNUJ3",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KNF03QKB",
+                    "U06KCGWCC04",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8",
+                    "U04Q6BMSJER",
+                    "U06K9FXP18B"
+                ],
+                "count": 11
+            },
+            {
+                "name": "alphabet-white-b",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05S1FQNUJ3",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KCGWCC04",
+                    "U06KC4X5TD2",
+                    "U04Q6BMSJER",
+                    "U07NA7PB0UV"
+                ],
+                "count": 11
+            },
+            {
+                "name": "alphabet-white-i",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05S1FQNUJ3",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KCGWCC04",
+                    "U06KC4X5TD2",
+                    "U04Q6BMSJER",
+                    "U07NA7PB0UV"
+                ],
+                "count": 11
+            },
+            {
+                "name": "alphabet-white-g",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05S1FQNUJ3",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KCGWCC04",
+                    "U06KC4X5TD2",
+                    "U04Q6BMSJER",
+                    "U07NA7PB0UV"
+                ],
+                "count": 11
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05S1FQNUJ3",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KC4X5TD2",
+                    "U04Q6BMSJER"
+                ],
+                "count": 7
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05S1FQNUJ3",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KC4X5TD2",
+                    "U06KC1WG86Q",
+                    "U04Q6BMSJER"
+                ],
+                "count": 8
+            },
+            {
+                "name": "family",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U06KC4X5TD2",
+                    "U04Q6BMSJER"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

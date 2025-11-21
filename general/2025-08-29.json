@@ -1,0 +1,129 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1756479357.409309",
+        "client_msg_id": "6fc17d55-76ac-4f42-ba4b-74946a3e7278",
+        "text": "<!subteam^S06HNNE4YQ0|@team> dm me pics from your summer to be featured in all hands tomorrow :o",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756479357.409309",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1756479793.915099",
+        "reply_users": [
+            "U04Q6BMSJER"
+        ],
+        "replies": [
+            {
+                "user": "U04Q6BMSJER",
+                "ts": "1756479793.915099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zyiat",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dm me pics from your summer to be featured in all hands tomorrow :o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pog",
+                "users": [
+                    "U04Q6BMSJER",
+                    "U080G5L9MTJ",
+                    "U06KC1WG86Q",
+                    "U0806A1C509",
+                    "U0800DE2GPN",
+                    "U0806411Z5X"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U04Q6BMSJER",
+        "type": "message",
+        "ts": "1756479793.915099",
+        "client_msg_id": "6EC3DD5C-76BD-4413-9A14-46E89D562A7F",
+        "text": "can I dm you videos too",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "bd2a319d6a4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-09\/9009251517511_bd2a319d6a4bf009d0f5_72.png",
+            "first_name": "Oscar",
+            "real_name": "Oscar Wang",
+            "display_name": "Oscar Wang",
+            "team": "T0P9KU8UD",
+            "name": "ow39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756479357.409309",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/QAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can I dm you videos too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fearful",
+                "users": [
+                    "U06KNF03QKB"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U06K2TZALJ2"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

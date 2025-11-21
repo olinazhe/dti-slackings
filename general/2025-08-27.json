@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756308199.295519",
+        "client_msg_id": "f7bde508-bdd2-4326-8028-b37ac48bec1c",
+        "text": "supposedly it will be raining maybe so i’ve rainchecked the social :cry: but stay tuned!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756126449.112339",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7X6QR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "supposedly it will be raining maybe so i’ve rainchecked the social "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry",
+                                "unicode": "1f622"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but stay tuned!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "broken_heart",
+                "users": [
+                    "U080G5L9MTJ",
+                    "U04Q6BMSJER",
+                    "U061S4J2DSP",
+                    "U06KNF03QKB"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

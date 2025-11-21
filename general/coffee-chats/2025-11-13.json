@@ -1,0 +1,105 @@
+[
+    {
+        "text": "great dinner with <@U09GP2B6G3B> ",
+        "files": [
+            {
+                "id": "F09SV8GN8SW",
+                "created": 1763083259,
+                "timestamp": 1763083259,
+                "name": "IMG_2626.jpg",
+                "title": "IMG_2626",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U080M7935R6",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 1229541,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09SV8GN8SW\/img_2626.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09SV8GN8SW\/download\/img_2626.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_64.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_80.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_360.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_480.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_160.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_720.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_800.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_960.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09SV8GN8SW-2f20bf74bb\/img_2626_1024.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCRW6elNDcCoBJv4I2gnHX3qQRtkhTkDvmsrWNbkpekLVEyyhuMEDtnrSuGTrjn0NKwXJQ\/T6Ub+armZVIxz9KkTLjKjP0pWY7orZCZ2jpTCxOSR3q79kjJ5Yr+Iqu8aRyHBLAc8r+lbaGWpJEjrEyhVLElQoI69Cfw\/wA+tRKzN8j7jjsSeKmEAM\/mHg5zgDFQE4leQnnJ460Bcnht1KDcMkHk01t8MjCLIU89P5VCHfGcjNAcjljk+9KwXNA\/NEZM8gHt1xTQiysGcZOPyp4\/49X\/AN1v5mki6D6UpbMa3HYG38KpCNZJQGzjFXv4T9Kpx\/69fp\/hTWwnuQSKFcgdBUZPNTS\/61qhPWmI\/9k=",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09SV8GN8SW\/img_2626.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09SV8GN8SW-2d3e097669",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U080M7935R6",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IzUNs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "great dinner with "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U09GP2B6G3B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1763083270.189179",
+        "client_msg_id": "1FEE3E35-1628-41B6-86BC-EF941EA0E700",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U0806411Z5X",
+                    "U09GP2B6G3B",
+                    "U08E7NL3V1S",
+                    "U08E3UNQDTM"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

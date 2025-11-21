@@ -1,0 +1,1861 @@
+[
+    {
+        "user": "U06K9HD998T",
+        "type": "message",
+        "ts": "1759264399.752079",
+        "client_msg_id": "416bb10a-5de9-4fd2-8abd-11321f5fb6ca",
+        "text": "Hi <!subteam^S06HNNE4YQ0|@team>, just a friendly reminder that *today is the final day to submit your TEC for this month.* Any submissions after today will not be counted and will impact your overall grade.",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "12e33c92c3a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-17\/6643316707527_12e33c92c3a0f69a8bd8_72.png",
+            "first_name": "Lily",
+            "real_name": "Lily Yang",
+            "display_name": "Lily Yang",
+            "team": "T0P9KU8UD",
+            "name": "ly345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u11pE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", just a friendly reminder that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "today is the final day to submit your TEC for this month.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Any submissions after today will not be counted and will impact your overall grade."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U05S1FQNUJ3",
+                    "U06KBGE3LGK",
+                    "U04Q99S2Y3C",
+                    "U080G5L9MTJ",
+                    "U08E50PFWCA",
+                    "U06KNF03QKB",
+                    "U06K85AFP8D",
+                    "U07NB1DPCBC",
+                    "U08E3UNQDTM"
+                ],
+                "count": 9
+            },
+            {
+                "name": "red_siren",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U07NB1DPCBC",
+                    "U08E3UNQDTM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U07NB1DPCBC",
+                    "U08E3UNQDTM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1759265920.379289",
+        "client_msg_id": "E4F50330-C166-46B2-B7F4-3A1214B2DF88",
+        "text": "AWEE",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759093683.757899",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0NJmO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "AWEE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2UUMU4E",
+        "upload": false,
+        "ts": "1759271828.000000",
+        "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0|@team> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M|@pm-leadz>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.*\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K2UUMU4E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cqoWg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Heyyy "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here are some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exciting announcements",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " from your "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S03RCJYHJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrows_counterclockwise",
+                                "unicode": "1f504",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nApply "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-aww"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "everyone on DTI",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                            },
+                            {
+                                "type": "text",
+                                "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PLEASE REACT WITH ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " IF INTERESTED!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2UUMU4E",
+            "type": "message",
+            "ts": "1759271803.788239",
+            "client_msg_id": "2ffbbc95-ccfc-4c64-9f69-6a5b2475dfc5",
+            "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.*\n\n*PLEASE REACT IF INTERESTED!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1da9fd8bc97a",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+                "first_name": "Megan",
+                "real_name": "Megan Yap",
+                "display_name": "Megan Yap",
+                "team": "T0P9KU8UD",
+                "name": "may52",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "3S+yj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Heyyy "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " here are some "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "exciting announcements",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " from your "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S03RCJYHJ0M"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "arrows_counterclockwise",
+                                    "unicode": "1f504",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nApply "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "blob-aww"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby_symbol",
+                                    "unicode": "1f6bc"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "everyone on DTI",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "PLEASE REACT IF INTERESTED!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "meow_noddies"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2UUMU4E"
+    },
+    {
+        "user": "U06K2UUMU4E",
+        "type": "message",
+        "ts": "1759271803.788239",
+        "edited": {
+            "user": "U06K2UUMU4E",
+            "ts": "1759271966.000000"
+        },
+        "client_msg_id": "2ffbbc95-ccfc-4c64-9f69-6a5b2475dfc5",
+        "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0|@team> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M|@pm-leadz>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week (you don’t have to show up every single week).* :eyes: You’ll get an exclusive sneak peek at the course before we launch it publicly next sem!\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED (existing PMs are welcome to join too)!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1da9fd8bc97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Yap",
+            "display_name": "Megan Yap",
+            "team": "T0P9KU8UD",
+            "name": "may52",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3YOCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Heyyy "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here are some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exciting announcements",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " from your "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S03RCJYHJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrows_counterclockwise",
+                                "unicode": "1f504",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nApply "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-aww"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "everyone on DTI",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                            },
+                            {
+                                "type": "text",
+                                "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week (you don’t have to show up every single week). ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You’ll get an exclusive sneak peek at the course before we launch it publicly next sem!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PLEASE REACT WITH ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " IF INTERESTED (existing PMs are welcome to join too)!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "baby_symbol",
+                "users": [
+                    "U06K2UUMU4E",
+                    "U05S9CMLGJ2",
+                    "U061BLZS1TR",
+                    "U07NBB600PN",
+                    "U06K85AFP8D",
+                    "U07NBCRD412",
+                    "U080M7935R6",
+                    "U080G6QDZT2",
+                    "U04Q99S2Y3C",
+                    "U08E3UNQDTM",
+                    "U07N27S0N06",
+                    "U08E3US1RSP",
+                    "U09H2QPBZK2",
+                    "U07V0PDSY78",
+                    "U061KHX1N8N",
+                    "U08E7NL3V1S",
+                    "U07NMEGQA1X",
+                    "U0806A1C509",
+                    "U04Q6BMSJER",
+                    "U07V7C9PHEX",
+                    "U09G77B9NP7",
+                    "U04Q99S0NM8"
+                ],
+                "count": 22
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U06K2UUMU4E",
+                    "U08E50PFWCA",
+                    "U06K85AFP8D",
+                    "U06KCGWCC04",
+                    "U05T51X7ETS",
+                    "U080G5L9MTJ",
+                    "U07P3MX5X8Q",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U08E3US1RSP",
+                    "U04Q99S0NM8",
+                    "U061KHX1N8N",
+                    "U08E7NL3V1S",
+                    "U04Q6BMSJER",
+                    "U05SG21SYLA",
+                    "U09G77B9NP7",
+                    "U061S4J2DSP"
+                ],
+                "count": 19
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U061BLZS1TR",
+                    "U06K2UUMU4E",
+                    "U06K85AFP8D",
+                    "U08E3UNQDTM",
+                    "U06KNF03QKB",
+                    "U061KHX1N8N",
+                    "U08E7NL3V1S",
+                    "U08E50PFWCA",
+                    "U04Q6BMSJER",
+                    "U09G77B9NP7",
+                    "U061S4J2DSP"
+                ],
+                "count": 12
+            },
+            {
+                "name": "nitlockedin",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U06K85AFP8D",
+                    "U08E3UNQDTM",
+                    "U061KHX1N8N",
+                    "U08E7NL3V1S",
+                    "U04Q6BMSJER",
+                    "U061S4J2DSP"
+                ],
+                "count": 7
+            },
+            {
+                "name": "bb-megan",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U06K85AFP8D",
+                    "U08E3UNQDTM",
+                    "U04Q6BMSJER",
+                    "U061S4J2DSP"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2UUMU4E",
+        "upload": false,
+        "ts": "1759271966.000000",
+        "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0|@team> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M|@pm-leadz>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week (you don’t have to show up every single week).* :eyes: You’ll get an exclusive sneak peek at the course before we launch it publicly next sem!\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED (existing PMs are welcome to join too)!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K2UUMU4E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3YOCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Heyyy "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here are some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exciting announcements",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " from your "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S03RCJYHJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrows_counterclockwise",
+                                "unicode": "1f504",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nApply "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-aww"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "everyone on DTI",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                            },
+                            {
+                                "type": "text",
+                                "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week (you don’t have to show up every single week). ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You’ll get an exclusive sneak peek at the course before we launch it publicly next sem!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PLEASE REACT WITH ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " IF INTERESTED (existing PMs are welcome to join too)!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2UUMU4E",
+            "type": "message",
+            "ts": "1759271803.788239",
+            "edited": {
+                "user": "U06K2UUMU4E",
+                "ts": "1759271903.000000"
+            },
+            "client_msg_id": "2ffbbc95-ccfc-4c64-9f69-6a5b2475dfc5",
+            "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.*\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED (existing PMs are welcome to join too)!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1da9fd8bc97a",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+                "first_name": "Megan",
+                "real_name": "Megan Yap",
+                "display_name": "Megan Yap",
+                "team": "T0P9KU8UD",
+                "name": "may52",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "yg0Zd",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Heyyy "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " here are some "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "exciting announcements",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " from your "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S03RCJYHJ0M"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "arrows_counterclockwise",
+                                    "unicode": "1f504",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nApply "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "blob-aww"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby_symbol",
+                                    "unicode": "1f6bc"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "everyone on DTI",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "PLEASE REACT WITH ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby_symbol",
+                                    "unicode": "1f6bc"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " IF INTERESTED (existing PMs are welcome to join too)!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "meow_noddies"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2UUMU4E"
+    },
+    {
+        "type": "message",
+        "user": "U06K2UUMU4E",
+        "upload": false,
+        "ts": "1759271862.000000",
+        "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0|@team> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M|@pm-leadz>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.*\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED (existing PMs are welcome to join too)!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K2UUMU4E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FO91v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Heyyy "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here are some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exciting announcements",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " from your "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S03RCJYHJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrows_counterclockwise",
+                                "unicode": "1f504",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nApply "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-aww"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "everyone on DTI",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                            },
+                            {
+                                "type": "text",
+                                "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PLEASE REACT WITH ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " IF INTERESTED (existing PMs are welcome to join too)!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2UUMU4E",
+            "type": "message",
+            "ts": "1759271803.788239",
+            "edited": {
+                "user": "U06K2UUMU4E",
+                "ts": "1759271828.000000"
+            },
+            "client_msg_id": "2ffbbc95-ccfc-4c64-9f69-6a5b2475dfc5",
+            "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.*\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1da9fd8bc97a",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+                "first_name": "Megan",
+                "real_name": "Megan Yap",
+                "display_name": "Megan Yap",
+                "team": "T0P9KU8UD",
+                "name": "may52",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "cqoWg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Heyyy "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " here are some "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "exciting announcements",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " from your "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S03RCJYHJ0M"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "arrows_counterclockwise",
+                                    "unicode": "1f504",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nApply "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "blob-aww"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby_symbol",
+                                    "unicode": "1f6bc"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "everyone on DTI",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "PLEASE REACT WITH ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby_symbol",
+                                    "unicode": "1f6bc"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " IF INTERESTED!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "meow_noddies"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2UUMU4E"
+    },
+    {
+        "type": "message",
+        "user": "U06K2UUMU4E",
+        "upload": false,
+        "ts": "1759271903.000000",
+        "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0|@team> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M|@pm-leadz>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.*\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED (existing PMs are welcome to join too)!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K2UUMU4E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yg0Zd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Heyyy "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " here are some "
+                            },
+                            {
+                                "type": "text",
+                                "text": "exciting announcements",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " from your "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S03RCJYHJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "arrows_counterclockwise",
+                                "unicode": "1f504",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nApply "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-aww"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "everyone on DTI",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on the course and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                            },
+                            {
+                                "type": "text",
+                                "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PLEASE REACT WITH ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby_symbol",
+                                "unicode": "1f6bc"
+                            },
+                            {
+                                "type": "text",
+                                "text": " IF INTERESTED (existing PMs are welcome to join too)!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meow_noddies"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2UUMU4E",
+            "type": "message",
+            "ts": "1759271803.788239",
+            "edited": {
+                "user": "U06K2UUMU4E",
+                "ts": "1759271862.000000"
+            },
+            "client_msg_id": "2ffbbc95-ccfc-4c64-9f69-6a5b2475dfc5",
+            "text": ":rotating_light: Heyyy <!subteam^S06HNNE4YQ0> here are some *exciting announcements* from your <!subteam^S03RCJYHJ0M>!! :rotating_light:\n\n:arrows_counterclockwise: *PM INTERNAL TRANSFERS ARE OPEN!!!* \nApply <https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|here> by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space :blob-aww: Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n:baby_symbol: *WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!*\nOur course is going to serve as APM onboarding and is going to be open to *everyone on DTI* to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have *weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.*\n\n*PLEASE REACT WITH* :baby_symbol: *IF INTERESTED (existing PMs are welcome to join too)!* Nitya and I will reach out to everyone and coordinate logistics :meow_noddies:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1da9fd8bc97a",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+                "first_name": "Megan",
+                "real_name": "Megan Yap",
+                "display_name": "Megan Yap",
+                "team": "T0P9KU8UD",
+                "name": "may52",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FO91v",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Heyyy "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " here are some "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "exciting announcements",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " from your "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S03RCJYHJ0M"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "arrows_counterclockwise",
+                                    "unicode": "1f504",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " PM INTERNAL TRANSFERS ARE OPEN!!! ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nApply "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " by October 16! Nitya are really excited to grow the PM team and know that many of you on the team are interested in the Product space "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "blob-aww"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Feel free to apply even if you don’t have much experience — that’s what APM onboarding is for!\n\nand speaking of APM onboarding…\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby_symbol",
+                                    "unicode": "1f6bc"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "WE’RE OFFICIALLY LAUNCHING OUR PRODUCT COURSE INTERNALLY!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nOur course is going to serve as APM onboarding and is going to be open to "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "everyone on DTI",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to audit. We’ll cover the basics of Product Management all the way from ideation and validation to actually building out feature requirements and an AI-powered prototype of your idea.\n\nNitya and I have been working super hard on this and would love for you guys to be a part of this and dip your toes into the PM world, especially since there are no other courses at Cornell focused on tech product management. Don’t worry, you won’t have to do homework, but you will still be able to sit in on all of our lectures and gain valuable knowledge for if you want to explore PM\/internally transfer!\n\nWe will have "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "weekly sessions on Tuesdays from 4:45 – 5:45pm, starting next week.",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "PLEASE REACT WITH ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby_symbol",
+                                    "unicode": "1f6bc"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " IF INTERESTED (existing PMs are welcome to join too)!",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Nitya and I will reach out to everyone and coordinate logistics "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "meow_noddies"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2UUMU4E"
+    }
+]

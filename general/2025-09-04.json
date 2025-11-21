@@ -1,0 +1,109 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1757020208.807549",
+        "client_msg_id": "d29954ce-d5d8-4952-b2eb-5b30929654e5",
+        "text": "<!subteam^S06HNNE4YQ0|@team> The add\/drop deadline for project team enrollment is *September 26th*. If you haven't enrolled in ENGRG 3400 (*section 17020*), please be sure to do so ASAP. As a reminder, active DTI members should enroll for *3 credits (1 credit for advisors)* - if you have any challenges with this, please let me and <@U04Q99S2Y3C> know so we can help you out :party-blob:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M+EqT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The add\/drop deadline for project team enrollment is "
+                            },
+                            {
+                                "type": "text",
+                                "text": "September 26th",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ". If you haven't enrolled in ENGRG 3400 ("
+                            },
+                            {
+                                "type": "text",
+                                "text": "section 17020",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "), please be sure to do so ASAP. As a reminder, active DTI members should enroll for "
+                            },
+                            {
+                                "type": "text",
+                                "text": "3 credits (1 credit for advisors)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - if you have any challenges with this, please let me and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04Q99S2Y3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " know so we can help you out "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party-blob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0806411Z5X",
+                    "U06K2UUMU4E",
+                    "U08EGG7CKKK",
+                    "U05S1FQNUJ3",
+                    "U080G6QDZT2",
+                    "U08E7NL3V1S",
+                    "U0806A1C509",
+                    "U08EGG957CZ",
+                    "U08DPBMKHPZ",
+                    "U08E3US1RSP",
+                    "U04Q99S0NM8",
+                    "U07N27S0N06"
+                ],
+                "count": 12
+            }
+        ]
+    }
+]

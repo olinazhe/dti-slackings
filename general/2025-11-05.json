@@ -1,0 +1,754 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1762377339.915009",
+        "client_msg_id": "8e6fc9dc-53c1-44dc-b15c-008cd9d81905",
+        "text": "<!subteam^S06HNNE4YQ0|@team> HELLO ALL! WHO’s EXCITED FOR NEWBIE ALL HANDS THIS SATURDAY?? :ahh: :ahh:\ni hope to see all of u there!! make sure that you come on time, let’s show up and show out for our first year \/ transfer newbies! there will be snacks! and maybe i’ll bake a cake! :cake:\nas usual, please let both ops leads know 24h in advance if you’re unable to make all hands. if you’d like us to confirm that you fall under the 2 absence limit before it impacts your overall grade, please slack us! SEE YOU ALLLLL THERE AND GET STOKED!!! :heart_on_fire:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "reply_count": 9,
+        "reply_users_count": 9,
+        "latest_reply": "1762382150.735379",
+        "reply_users": [
+            "U06K2TZALJ2",
+            "U06KBGE3LGK",
+            "U0806411Z5X",
+            "U04Q99S2Y3C",
+            "U06KCGWCC04",
+            "U06K9FXP18B",
+            "U05SG21V94J",
+            "U06KAR47ZR9",
+            "U080G6QDZT2"
+        ],
+        "replies": [
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1762377363.945499"
+            },
+            {
+                "user": "U06KBGE3LGK",
+                "ts": "1762377374.401329"
+            },
+            {
+                "user": "U0806411Z5X",
+                "ts": "1762377389.661999"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1762377428.598219"
+            },
+            {
+                "user": "U06KCGWCC04",
+                "ts": "1762377432.736379"
+            },
+            {
+                "user": "U06K9FXP18B",
+                "ts": "1762377460.329049"
+            },
+            {
+                "user": "U05SG21V94J",
+                "ts": "1762377469.188019"
+            },
+            {
+                "user": "U06KAR47ZR9",
+                "ts": "1762377797.995639"
+            },
+            {
+                "user": "U080G6QDZT2",
+                "ts": "1762382150.735379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sqJEJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " HELLO ALL! WHO’s EXCITED FOR NEWBIE ALL HANDS THIS SATURDAY?? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\ni hope to see all of u there!! make sure that you come on time, let’s show up and show out for our first year \/ transfer newbies! there will be snacks! and maybe i’ll bake a cake! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cake",
+                                "unicode": "1f370"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nas usual, please let both ops leads know 24h in advance if you’re unable to make all hands. if you’d like us to confirm that you fall under the 2 absence limit before it impacts your overall grade, please slack us! SEE YOU ALLLLL THERE AND GET STOKED!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U05S1FQNUJ3",
+                    "U09G9ASFAJ2",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U06KCGWCC04",
+                    "U08E3UNQDTM",
+                    "U06K9FXP18B",
+                    "U05SG21V94J",
+                    "U07N94ZD37C",
+                    "U08E3UQFVDH",
+                    "U07NA7PB0UV",
+                    "U05SG21SYLA",
+                    "U08DPBMKHPZ",
+                    "U08E50PFWCA",
+                    "U05T51X7ETS",
+                    "U06KAR47ZR9",
+                    "U06K9HD998T",
+                    "U08E174EJ13",
+                    "U06K2UUMU4E",
+                    "U09G4JUFELT",
+                    "U061S4J2DSP",
+                    "U09G91U4B9U",
+                    "U09H2QPBZK2",
+                    "U07V0PDSY78",
+                    "U08E3UP45GT",
+                    "U06KNF03QKB",
+                    "U08E7NL3V1S",
+                    "U04QBPGRMJQ",
+                    "U08DPBF7RD5",
+                    "U07N2A5LZ2S",
+                    "U080G6QDZT2",
+                    "U05S9CMLGJ2",
+                    "U06KC1WG86Q",
+                    "U04Q6BMSJER",
+                    "U06K9UTM34J",
+                    "U0806A1C509",
+                    "U07NBCRD412",
+                    "U02KZ6SLD18",
+                    "U08EHA604AV",
+                    "U080G5L9MTJ",
+                    "U0800DE2GPN",
+                    "U06KYFYLL5N",
+                    "U09G77B9NP7",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8"
+                ],
+                "count": 46
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U08E3UNQDTM",
+                    "U05SG21V94J",
+                    "U07NA7PB0UV",
+                    "U05SG21SYLA",
+                    "U09G9ASFAJ2",
+                    "U08E50PFWCA",
+                    "U06KAR47ZR9",
+                    "U06K9HD998T",
+                    "U06K2UUMU4E",
+                    "U08E174EJ13",
+                    "U061S4J2DSP",
+                    "U08E3UP45GT",
+                    "U06KNF03QKB",
+                    "U04QBPGRMJQ",
+                    "U080G6QDZT2",
+                    "U05S9CMLGJ2",
+                    "U04Q6BMSJER",
+                    "U0806A1C509",
+                    "U08EHA604AV",
+                    "U080G5L9MTJ",
+                    "U06KYFYLL5N",
+                    "U09G77B9NP7",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8"
+                ],
+                "count": 27
+            },
+            {
+                "name": "meow_party",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U06KBGE3LGK",
+                    "U08E3UNQDTM",
+                    "U07NA7PB0UV",
+                    "U09G9ASFAJ2",
+                    "U08E50PFWCA",
+                    "U06KAR47ZR9",
+                    "U06K9HD998T",
+                    "U06K2UUMU4E",
+                    "U08E174EJ13",
+                    "U061S4J2DSP",
+                    "U08E3UP45GT",
+                    "U06KNF03QKB",
+                    "U04QBPGRMJQ",
+                    "U080G6QDZT2",
+                    "U05S9CMLGJ2",
+                    "U04Q6BMSJER",
+                    "U0806A1C509",
+                    "U080G5L9MTJ",
+                    "U06KYFYLL5N",
+                    "U09G77B9NP7",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8"
+                ],
+                "count": 23
+            },
+            {
+                "name": "innocent",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U08E3UNQDTM",
+                    "U07NA7PB0UV",
+                    "U09G9ASFAJ2",
+                    "U08E50PFWCA",
+                    "U06KAR47ZR9",
+                    "U06K9HD998T",
+                    "U06K2UUMU4E",
+                    "U08E174EJ13",
+                    "U08E3UP45GT",
+                    "U06KNF03QKB",
+                    "U04QBPGRMJQ",
+                    "U080G6QDZT2",
+                    "U05S9CMLGJ2",
+                    "U04Q6BMSJER",
+                    "U0806A1C509",
+                    "U080G5L9MTJ",
+                    "U06KYFYLL5N",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8"
+                ],
+                "count": 20
+            },
+            {
+                "name": "gift_heart",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U08E3UNQDTM",
+                    "U07NA7PB0UV",
+                    "U09G9ASFAJ2",
+                    "U06KAR47ZR9",
+                    "U06K9HD998T",
+                    "U06K2UUMU4E",
+                    "U08E174EJ13",
+                    "U08E3UP45GT",
+                    "U06KNF03QKB",
+                    "U04QBPGRMJQ",
+                    "U05S9CMLGJ2",
+                    "U04Q6BMSJER",
+                    "U080G5L9MTJ",
+                    "U06KYFYLL5N",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8"
+                ],
+                "count": 17
+            },
+            {
+                "name": "scientist",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U08E3UNQDTM",
+                    "U07NA7PB0UV",
+                    "U09G9ASFAJ2",
+                    "U06KAR47ZR9",
+                    "U06K9HD998T",
+                    "U06K2UUMU4E",
+                    "U08E174EJ13",
+                    "U08E3UP45GT",
+                    "U06KNF03QKB",
+                    "U04QBPGRMJQ",
+                    "U05S9CMLGJ2",
+                    "U04Q6BMSJER",
+                    "U06KYFYLL5N",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1762377363.945499",
+        "client_msg_id": "cafcf41e-6786-44f6-a885-46d2cdad999b",
+        "text": "GET HYPED FOR NEWBIES",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LsNqZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GET HYPED FOR NEWBIES"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1762377374.401329",
+        "client_msg_id": "6c7ef499-87ff-46be-8cab-a52c65a24699",
+        "text": "YAYYYY SO EXCITEDDD",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OBhZk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YAYYYY SO EXCITEDDD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1762377389.661999",
+        "client_msg_id": "0b0aa9f9-6fcf-4125-a6ca-6c147b6578ec",
+        "text": "NEWBIESSSS :hatching_chick: :hatching_chick: :hatching_chick: :baby: :baby: :baby:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkvWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NEWBIESSSS "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hatching_chick",
+                                "unicode": "1f423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hatching_chick",
+                                "unicode": "1f423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hatching_chick",
+                                "unicode": "1f423"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby",
+                                "unicode": "1f476"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby",
+                                "unicode": "1f476"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby",
+                                "unicode": "1f476"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1762377428.598219",
+        "client_msg_id": "873eef5c-7d87-43a6-91c0-7510378ccba3",
+        "text": "FA25 NEWBIES NOW COMPLETE",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CRtJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FA25 NEWBIES NOW COMPLETE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06KCGWCC04",
+        "type": "message",
+        "ts": "1762377432.736379",
+        "client_msg_id": "5ed5f4fb-7f25-4613-85c6-32ed734df4df",
+        "text": "YAYAYY NEWBIES!!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "2e7954d9a545",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-17\/6670824097249_2e7954d9a5457e6d3083_72.png",
+            "first_name": "Jacqueline",
+            "real_name": "Jacqueline Cai",
+            "display_name": "Jacqueline Cai",
+            "team": "T0P9KU8UD",
+            "name": "jxc6",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g\/Fl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YAYAYY NEWBIES!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K9FXP18B",
+        "type": "message",
+        "ts": "1762377460.329049",
+        "client_msg_id": "6485A914-F86A-4DB3-BCEC-D262739B70FF",
+        "text": "YAYY",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "57abfdc6b6f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-11-19\/9954325794690_57abfdc6b6f88e5136e4_72.png",
+            "first_name": "Erica",
+            "real_name": "Erica Lee",
+            "display_name": "Erica Lee",
+            "team": "T0P9KU8UD",
+            "name": "el728",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "no7We",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YAYY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05SG21V94J",
+        "type": "message",
+        "ts": "1762377469.188019",
+        "client_msg_id": "c3b6b6e4-ef51-489c-9517-fbcd987a3f75",
+        "text": ":goat::handshake::goat:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6b9eb0ce09b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-19\/8504265469232_6b9eb0ce09b5d8cd9d86_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin Ram",
+            "display_name": "Kevin Ram",
+            "team": "T0P9KU8UD",
+            "name": "kmr232",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/8scv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "goat",
+                                "unicode": "1f410"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "handshake",
+                                "unicode": "1f91d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "goat",
+                                "unicode": "1f410"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06KAR47ZR9",
+        "type": "message",
+        "ts": "1762377797.995639",
+        "client_msg_id": "026BBFF0-8283-416B-B3C1-B838FA35F106",
+        "text": ":tada::tada::tada:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "7a21ed9600fa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-08-18\/7615309534800_7a21ed9600fa9a19780e_72.jpg",
+            "first_name": "Temi",
+            "real_name": "Temi Adebowale",
+            "display_name": "Temi Adebowale",
+            "team": "T0P9KU8UD",
+            "name": "ta375",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/d7C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U080G6QDZT2",
+        "type": "message",
+        "ts": "1762382150.735379",
+        "client_msg_id": "00F2DD51-2E85-4C2B-9FD3-04A4B5F82580",
+        "text": ":partying_face::partying_face:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "e30a0cc4d593",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/8006121632545_e30a0cc4d59333a42453_72.jpg",
+            "first_name": "Ryan",
+            "real_name": "Ryan Qiu",
+            "display_name": "Ryan Qiu",
+            "team": "T0P9KU8UD",
+            "name": "rwq3",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762377339.915009",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GfA89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761335879.950999",
+        "edited": {
+            "user": "U04Q99S2Y3C",
+            "ts": "1761335977.000000"
+        },
+        "client_msg_id": "ad50f8df-dfae-4439-9537-efb596e039b3",
+        "text": "<!subteam^S06HNNE4YQ0|@team> reminder — we have AH tomorrow 1:30 in Gates G01! Additionally, for those who are RSVPed to the party, you can pick up bands after AH as well! :jack_o_lantern: if anyone cant make it last minute please text\/slack me so we have accurate headcount !\nthank you to everyone who helped out with interviews! we are so thankful and so hyped to bring on newbies at our next AH!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDFU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reminder — we have AH tomorrow 1:30 in Gates G01! Additionally, for those who are RSVPed to the party, you can pick up bands after AH as well! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "jack_o_lantern",
+                                "unicode": "1f383"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if anyone cant make it last minute please text\/slack me so we have accurate headcount !\nthank you to everyone who helped out with interviews! we are so thankful and so hyped to bring on newbies at our next AH!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_party",
+                "users": [
+                    "U08EGG7CKKK",
+                    "U0806411Z5X",
+                    "U06KCGWCC04",
+                    "U09G91U4B9U",
+                    "U0806A1C509",
+                    "U08E3UP45GT",
+                    "U06K2TZALJ2",
+                    "U09G9ASFAJ2",
+                    "U06KBGE3LGK",
+                    "U08E4AX7D6E",
+                    "U08DPBMKHPZ",
+                    "U06K9HD998T",
+                    "U09G4JUFELT",
+                    "U09G77B9NP7",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U07NA7PB0UV"
+                ],
+                "count": 17
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1761335977.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> reminder — we have AH tomorrow 1:30 in Gates G01! Additionally, for those who are RSVPed to the party, you can pick up bands after AH as well! :jack_o_lantern: if anyone cant make it last minute please text\/slack me so we have accurate headcount !\nthank you to everyone who helped out with interviews! we are so thankful and so hyped to bring on newbies at our next AH!!!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDFU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reminder — we have AH tomorrow 1:30 in Gates G01! Additionally, for those who are RSVPed to the party, you can pick up bands after AH as well! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "jack_o_lantern",
+                                "unicode": "1f383"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if anyone cant make it last minute please text\/slack me so we have accurate headcount !\nthank you to everyone who helped out with interviews! we are so thankful and so hyped to bring on newbies at our next AH!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1761335879.950999",
+            "client_msg_id": "ad50f8df-dfae-4439-9537-efb596e039b3",
+            "text": "<!subteam^S06HNNE4YQ0> reminder — we have AH tomorrow 1:30 in Gates G01! Additionally, for those who are RSVPed to the party, you can pick up bands after AH as well! :jack_o_lantern:\nthank you to everyone who helped out with interviews! we are so thankful and so hyped to bring on newbies at our next AH!!!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZvIsc",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " reminder — we have AH tomorrow 1:30 in Gates G01! Additionally, for those who are RSVPed to the party, you can pick up bands after AH as well! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "jack_o_lantern",
+                                    "unicode": "1f383"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nthank you to everyone who helped out with interviews! we are so thankful and so hyped to bring on newbies at our next AH!!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04Q99S2Y3C"
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1761341112.000000",
+        "text": "^^ bands and partiful rsvp are required due to capacity for party! please dm me with concerns and questions",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sye8a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^ bands and partiful rsvp are required due to capacity for party! please dm me with concerns and questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1761341071.700189",
+            "client_msg_id": "01a5525e-67c8-4dc1-89bf-c0e16f716330",
+            "text": "^^ bands and partiful rsvp are required",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WlO5y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "^^ bands and partiful rsvp are required"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04Q99S2Y3C"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761341071.700189",
+        "edited": {
+            "user": "U04Q99S2Y3C",
+            "ts": "1761341112.000000"
+        },
+        "client_msg_id": "01a5525e-67c8-4dc1-89bf-c0e16f716330",
+        "text": "^^ bands and partiful rsvp are required due to capacity for party! please dm me with concerns and questions",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sye8a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^ bands and partiful rsvp are required due to capacity for party! please dm me with concerns and questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U0806A1C509"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

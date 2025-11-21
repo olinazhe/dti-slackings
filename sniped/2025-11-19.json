@@ -1,0 +1,260 @@
+[
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1763602330.996559",
+        "client_msg_id": "AB6E4109-A54A-430D-8480-7CA807653CB6",
+        "text": "<@U034LBQDNQG> is in town!!! ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763602330.996559",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1763602369.940669",
+        "reply_users": [
+            "U0806411Z5X"
+        ],
+        "replies": [
+            {
+                "user": "U0806411Z5X",
+                "ts": "1763602355.242429"
+            },
+            {
+                "user": "U0806411Z5X",
+                "ts": "1763602356.141369"
+            },
+            {
+                "user": "U0806411Z5X",
+                "ts": "1763602369.940669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AI4CV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U034LBQDNQG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is in town!!! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_peeking_eye",
+                "users": [
+                    "U034LBQDNQG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09U3TKH9PC",
+                "created": 1763602350,
+                "timestamp": 1763602350,
+                "name": "IMG_6403.jpg",
+                "title": "IMG_6403",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0806411Z5X",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 776321,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09U3TKH9PC\/img_6403.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09U3TKH9PC\/download\/img_6403.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_64.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_80.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_360.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_480.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_160.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_720.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_800.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_960.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09U3TKH9PC-0fc2e7900a\/img_6403_1024.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4014,
+                "original_h": 3010,
+                "thumb_tiny": "AwAkADDMooooAVRlgMgZ7mtKBV8oKh+TuR\/F9apRQl2wPxNXYV8rgcjv7Gkxos7QBxx9KYxCkEdOlG4twOfpTtgRf3zAd8dTSAxQCe1P8l15YYFKvHzEfSleQt1qhE8RjGQpOTU44Qgc5yeO9VYyNmFALnnJqRZjCQG578dqTHckSZ1UhTjPU01iWOScmk3BlJT8jUDSE8E0hjXOWI7DpTQMtg+tK\/32+ppF++PrVEk0fDyH0qOQljk1InWX\/PeonoGS254NMlGHp1v3+tNm+\/S6gf\/Z",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09U3TKH9PC\/img_6403.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09U3TKH9PC-c3c85672f8",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0806411Z5X",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1763602355.242429",
+        "client_msg_id": "A0F303E9-1D5B-4F0C-A1B8-995BB73E89A0",
+        "thread_ts": "1763602330.996559",
+        "parent_user_id": "U0806411Z5X",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U06K2UUMU4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1763602356.141369",
+        "client_msg_id": "AFADE088-C0CC-48F7-A228-82603924BD36",
+        "text": "Wait wtf I moved too fast ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763602330.996559",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pjbhm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait wtf I moved too fast "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1763602369.940669",
+        "client_msg_id": "DA23FCD2-E5DA-4E84-8D2D-170239972F1C",
+        "text": "Guys I swear he was in the frame I just didn’t click the shutter in time ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763602330.996559",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vVKa+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Guys I swear he was in the frame I just "
+                            },
+                            {
+                                "type": "text",
+                                "text": "didn’t"
+                            },
+                            {
+                                "type": "text",
+                                "text": " click the shutter in time "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "among-us",
+                "users": [
+                    "U034LBQDNQG",
+                    "U080G6QDZT2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "miranda-sus",
+                "users": [
+                    "U034LBQDNQG",
+                    "U080G6QDZT2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

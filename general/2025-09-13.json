@@ -1,0 +1,161 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1757771479.573389",
+        "client_msg_id": "cdbeae94-41fd-48c4-8c5d-ce6144a78008",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Happy Saturday! All-Hands will be in Gates G01 today. Since Clubfest is happening directly before, leads will be running a bit late. Please be there by 1:35PM :)",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v6fO0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Happy Saturday! All-Hands will be in Gates G01 today. Since Clubfest is happening directly before, leads will be running a bit late. Please be there by 1:35PM :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ahh",
+                "users": [
+                    "U06K2UUMU4E",
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U08E174EJ13",
+                    "U0806A1C509",
+                    "U08E7NL3V1S",
+                    "U04Q99S0NM8",
+                    "U08E16YNJ5B"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "type": "message",
+        "ts": "1757771481.817399",
+        "text": "Like public transit, sports comebacks, and periods, better late than never!",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=qdJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like public transit, sports comebacks, and periods, better late than never!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U034LBQDNQG",
+                    "U06K2UUMU4E",
+                    "U07NBQUN71Q"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1757792735.193709",
+        "client_msg_id": "5705c392-3edd-4f77-8773-fb068df1a126",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Hi all! Thanks for coming to all-hands today, if you couldn't make it please check in the pinned folder for slides. As a reminder, enroll in ENGRG 3400 if you haven't; our first full-team assignment (Semester Learning Goals) is due next Sunday, 9\/21 EOD, and we will not be accepting late submissions. See you soon for our upperclassmen newbies introduction :))",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYZIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi all! Thanks for coming to all-hands today, if you couldn't make it please check in the pinned folder for slides. As a reminder, enroll in ENGRG 3400 if you haven't; our first full-team assignment (Semester Learning Goals) is due next Sunday, 9\/21 EOD, and we will not be accepting late submissions. See you soon for our upperclassmen newbies introduction :))"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U04Q6BMSJER",
+                    "U06K2UUMU4E",
+                    "U08E50PFWCA",
+                    "U08E174EJ13",
+                    "U08EGG7CKKK",
+                    "U07N27S0N06",
+                    "U08E7NL3V1S",
+                    "U06KYFYLL5N",
+                    "U080G5L9MTJ",
+                    "U06KC4X5TD2",
+                    "U04Q99S2Y3C",
+                    "U06KNF03QKB"
+                ],
+                "count": 14
+            }
+        ]
+    }
+]

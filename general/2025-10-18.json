@@ -1,0 +1,72 @@
+[
+    {
+        "user": "U08E7NL3V1S",
+        "type": "message",
+        "ts": "1760802822.445559",
+        "client_msg_id": "f0549e10-4071-4297-b867-351e4dd24790",
+        "text": "Hi <!subteam^S06HNNE4YQ0|@team>, we have many opportunities to earn TEC credit for this month! Please put your name down for any of the upcoming events on <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0|this sheet> according to your availability!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "019eae0f4f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+            "first_name": "Rachel",
+            "real_name": "Rachel Tay",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "rt489",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nak0l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", we have many opportunities to earn TEC credit for this month! Please put your name down for any of the upcoming events on "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0",
+                                "text": "this sheet"
+                            },
+                            {
+                                "type": "text",
+                                "text": " according to your availability!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U08E3UQFVDH",
+                    "U06KBGE3LGK",
+                    "U06KC4X5TD2",
+                    "U04Q99S2Y3C",
+                    "U0800DE2GPN",
+                    "U0806411Z5X",
+                    "U06K9HD998T"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

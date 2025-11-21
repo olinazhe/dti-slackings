@@ -1,0 +1,402 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756559264.354209",
+        "client_msg_id": "C5804238-6212-4DBE-92E5-3F5FBEF6CCCE",
+        "text": "<!subteam^S06HNNE4YQ0|@team> all hands will be in upson 216 today! see everyone at 1:30 :) ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756559264.354209",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1756604086.463799",
+        "reply_users": [
+            "U06KNF03QKB",
+            "U06K2TZALJ2",
+            "U080G5L9MTJ",
+            "U07NBCRD412",
+            "U04Q6BMSJER"
+        ],
+        "replies": [
+            {
+                "user": "U06KNF03QKB",
+                "ts": "1756576876.821809"
+            },
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1756576891.294439"
+            },
+            {
+                "user": "U080G5L9MTJ",
+                "ts": "1756577878.166809"
+            },
+            {
+                "user": "U07NBCRD412",
+                "ts": "1756579083.970269"
+            },
+            {
+                "user": "U04Q6BMSJER",
+                "ts": "1756579361.304479"
+            },
+            {
+                "user": "U07NBCRD412",
+                "ts": "1756604086.463799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pS0QO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " all hands will be in upson 216 today! see everyone at 1:30 :) "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U07NMEGQA1X",
+                    "U05S1FQNUJ3",
+                    "U0806A1C509",
+                    "U07NA7PB0UV",
+                    "U08E16YNJ5B",
+                    "U06K2UUMU4E",
+                    "U08E3US1RSP",
+                    "U08E3UNQDTM",
+                    "U080G5L9MTJ",
+                    "U0806411Z5X",
+                    "U06KC4X5TD2"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756565656.477789",
+        "client_msg_id": "2c31f851-98e9-442b-8dad-ec05b3ed2857",
+        "text": "if you can, bring something to write with!^^",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mM0dK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you can, bring something to write with!^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06KNF03QKB",
+        "type": "message",
+        "ts": "1756576876.821809",
+        "client_msg_id": "41be0899-232c-4320-bdde-4b304339e512",
+        "text": "<https:\/\/idol.cornelldti.org\/interview-scheduler\/37357846-5c96-43e9-8249-29c87da80a98>",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "8b09b75df572",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-12\/9370627818800_8b09b75df572a91f841d_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Chen",
+            "display_name": "Chris Chen",
+            "team": "T0P9KU8UD",
+            "name": "cc2785",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756559264.354209",
+        "parent_user_id": "U04Q99S2Y3C",
+        "attachments": [
+            {
+                "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/37357846-5c96-43e9-8249-29c87da80a98",
+                "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                "id": 1,
+                "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/37357846-5c96-43e9-8249-29c87da80a98",
+                "fallback": "Cornell DTI IDOL",
+                "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                "title": "Cornell DTI IDOL",
+                "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/37357846-5c96-43e9-8249-29c87da80a98",
+                "service_name": "idol.cornelldti.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAhjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/37357846-5c96-43e9-8249-29c87da80a98"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1756576891.294439",
+        "client_msg_id": "1270beac-3dd1-4248-8fc2-fbd303ae0b0c",
+        "text": "*thread any feedback here*",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756559264.354209",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/zuOQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thread any feedback here",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U080G5L9MTJ",
+        "type": "message",
+        "ts": "1756577878.166809",
+        "client_msg_id": "2b101831-1561-45d9-b655-9576e1496917",
+        "text": "that was smooth af amazing work!!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6c3ed2a814be",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-06\/8016232160544_6c3ed2a814be015905e1_72.jpg",
+            "first_name": "Matthew",
+            "real_name": "Matthew Kim",
+            "display_name": "Matthew Kim",
+            "team": "T0P9KU8UD",
+            "name": "mk2672",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756559264.354209",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZwdR0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that was smooth af amazing work!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07NBCRD412",
+        "type": "message",
+        "ts": "1756579083.970269",
+        "client_msg_id": "2c967fee-f6b6-46c4-b9d4-1739cf80abcd",
+        "text": "I'm not sure if this is allowed but I was able to sign up for 2 different time slots on the same day",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "5fb3d75764e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-28\/9425260776806_5fb3d75764e2916c3a41_72.jpg",
+            "first_name": "Evelyn",
+            "real_name": "Evelyn Mai",
+            "display_name": "Evelyn Mai",
+            "team": "T0P9KU8UD",
+            "name": "em849",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756559264.354209",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PdBlI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not sure if this is allowed but I was able to sign up for 2 different time slots on the same day"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q6BMSJER",
+        "type": "message",
+        "ts": "1756579361.304479",
+        "client_msg_id": "849EC80A-7C7C-4F75-8938-A490C411FE4B",
+        "text": "yeah bc ur signing up as an interviewer technically",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "bd2a319d6a4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-09\/9009251517511_bd2a319d6a4bf009d0f5_72.png",
+            "first_name": "Oscar",
+            "real_name": "Oscar Wang",
+            "display_name": "Oscar Wang",
+            "team": "T0P9KU8UD",
+            "name": "ow39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756559264.354209",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ri3nH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah bc ur signing up as an interviewer technically"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07NBCRD412",
+        "type": "message",
+        "ts": "1756604086.463799",
+        "client_msg_id": "57dc871e-df58-40c1-acbc-15ea4611368a",
+        "text": "ohhh my badd i thought it was as interviewees for some reason :sob:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "5fb3d75764e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-28\/9425260776806_5fb3d75764e2916c3a41_72.jpg",
+            "first_name": "Evelyn",
+            "real_name": "Evelyn Mai",
+            "display_name": "Evelyn Mai",
+            "team": "T0P9KU8UD",
+            "name": "em849",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756559264.354209",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnTkW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ohhh my badd i thought it was as interviewees for some reason "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

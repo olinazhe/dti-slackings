@@ -1,0 +1,297 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1757429500.887039",
+        "client_msg_id": "b1f7e649-2664-4923-a118-87f4a713caed",
+        "text": "<!subteam^S06HNNE4YQ0|@team> there may be some confusion - if you signed up for a spot it may have been deleted because no applicant signed up to interview at that time. just double check IDOL to see what times you still are interviewing",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "knd6E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there may be some confusion - if you signed up for a spot it may have been deleted because no applicant signed up to interview at that time. just double check IDOL to see what times you still are interviewing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U080G5L9MTJ",
+                    "U08E16YNJ5B",
+                    "U07NA7PB0UV",
+                    "U06KBGE3LGK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1757429906.301149",
+        "client_msg_id": "e98447b1-51b1-4c22-9803-f9fc4062674b",
+        "text": "and please arrive 5 minutes before your scheduled time slot!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3waYR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and please arrive 5 minutes before your scheduled time slot!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U08E16YNJ5B",
+                    "U07NB1DPCBC",
+                    "U08E3UP45GT",
+                    "U07NA7PB0UV",
+                    "U06KBGE3LGK",
+                    "U06KNF03QKB"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1757439258.404269",
+        "client_msg_id": "540872b6-8ff9-425b-9fee-d36014785a26",
+        "text": "please let us know if you have any COI with your interviewees! Andrew and I will be reviewing and subbing on an ad hoc basis :slightly_smiling_face:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PbIZ+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please let us know if you have any COI with your interviewees! Andrew and I will be reviewing and subbing on an ad hoc basis "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1757445110.504569",
+        "client_msg_id": "c0ac4a4f-9300-4c97-9039-950b394af754",
+        "text": "the ehub room numbers are either misnumbered or ambiguous for 203 (the door says 205 but there is no 205 on the room booking portal) and the room number sign for 207 is gone. If you need to kick someone out, you can tell them we have the room booked for the rest of the day and show this screenshot threaded below",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757445110.504569",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1757445166.759619",
+        "reply_users": [
+            "U04Q99S2Y3C"
+        ],
+        "replies": [
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1757445166.759619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sFXQK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the ehub room numbers are either misnumbered or ambiguous for 203 (the door says 205 but there is no 205 on the room booking portal) and the room number sign for 207 is gone. If you need to kick someone out, you can tell them we have the room booked for the rest of the day and show this screenshot threaded below"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06KBGE3LGK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "we have 203 206 207 booked until 10:15 PM",
+        "files": [
+            {
+                "id": "F09E90TCJKD",
+                "created": 1757445150,
+                "timestamp": 1757445150,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U04Q99S2Y3C",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 423634,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09E90TCJKD\/image.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09E90TCJKD\/download\/image.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 360,
+                "thumb_360_h": 218,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 480,
+                "thumb_480_h": 291,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 720,
+                "thumb_720_h": 436,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 485,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 960,
+                "thumb_960_h": 581,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09E90TCJKD-5372058c72\/image_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 620,
+                "original_w": 2556,
+                "original_h": 1548,
+                "thumb_tiny": "AwAeADBDAhIyCeMdasLZQMB8rZI9TxTB0q5GPkX6CmBF9ht\/+ef\/AI8aT7Fb\/wDPL\/x41YIJPbFJt+lAFdrOFVLIpBAPRjVcxAjlnx6ZNX2GI2+lUz0oATJq7HnYufQY\/KqNWkuEVFBDcDFAieg57YqH7Sno1H2lPRqQyR\/9U3+6aoYyc5P51ae4RkYANyMVVpiP\/9k=",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09E90TCJKD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09E90TCJKD-3ef01df803",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U04Q99S2Y3C",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YbTUR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we have 203 206 207 booked until 10:15 PM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1757445166.759619",
+        "client_msg_id": "a938b038-af36-4d89-9b82-c345bfc6ebce",
+        "thread_ts": "1757445110.504569",
+        "parent_user_id": "U04Q99S2Y3C"
+    }
+]

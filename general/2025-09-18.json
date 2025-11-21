@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U06K2UUMU4E",
+        "type": "message",
+        "ts": "1758198080.318949",
+        "client_msg_id": "88efb107-4b8a-4352-af86-b087759b57e4",
+        "text": "do you have any advice for those who feel like they aren’t getting much value out of school? how would you go about maximizing your experience here while not feeling as if you’re wasting your time on classes?",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1da9fd8bc97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Yap",
+            "display_name": "Megan Yap",
+            "team": "T0P9KU8UD",
+            "name": "may52",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758156473.753999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+2F6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you have any advice for those who feel like they aren’t getting much value out of school? how would you go about maximizing your experience here while not feeling as if you’re wasting your time on classes?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

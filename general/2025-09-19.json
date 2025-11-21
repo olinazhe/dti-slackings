@@ -1,0 +1,488 @@
+[
+    {
+        "user": "U06K2UUMU4E",
+        "type": "message",
+        "ts": "1758286388.118869",
+        "client_msg_id": "61f6b4f6-fc70-4209-95e6-a27c381c7fe5",
+        "text": "as a founder, i’m sure you have to think a lot about product strategy and PMF. how has your mindset changed, or what have you learned compared to the more engineering-focused background you started off with?",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1da9fd8bc97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Yap",
+            "display_name": "Megan Yap",
+            "team": "T0P9KU8UD",
+            "name": "may52",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758156473.753999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nHHRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as a founder, i’m sure you have to think a lot about product strategy and PMF. how has your mindset changed, or what have you learned compared to the more engineering-focused background you started off with?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1758296740.000000",
+        "text": "",
+        "subtype": "message_deleted",
+        "thread_ts": "1758156268.372799",
+        "editor_id": "U04Q99S2Y3C",
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1758296729.223479",
+            "client_msg_id": "7BA13AC7-98B0-4826-8E61-7B3CF9E81C7E",
+            "text": "mintlify will be in upson 222!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1758156268.372799",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HtQRg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "mintlify will be in upson 222!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "deleted_by": "U04Q99S2Y3C"
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U04Q99S2Y3C",
+        "thread_ts": "1758156268.372799",
+        "root": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1758156268.372799",
+            "client_msg_id": "46218798-8e0d-40d5-abb9-21b4febb1ba9",
+            "text": "<!subteam^S06HNNE4YQ0> HEYYY TEAM! <@U01BT5GV0AZ> , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI at a town hall style event *this Friday, 3:30-4:30 (*room pending but eng quad *)!!! \n\nPLEASE* SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!! *React*:heart_on_fire: *if* you’re *coming! (*Hahnbee is hiring :eyes: :eyes: :eyes: )",
+            "team": "T0P9KU8UD",
+            "thread_ts": "1758156268.372799",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1758296745.953309",
+            "reply_users": [
+                "U04Q99S2Y3C"
+            ],
+            "replies": [
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1758296745.953309"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HDKsS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " HEYYY TEAM! "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U01BT5GV0AZ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "at a town hall style event "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "this Friday, 3:30-4:30 (",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "room pending but eng quad "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ")!!! \n\nPLEASE ",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!!"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " React",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "heart_on_fire",
+                                    "unicode": "2764-fe0f-200d-1f525"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if ",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "you’re"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " coming! (",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hahnbee is hiring "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "eyes",
+                                    "unicode": "1f440"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "eyes",
+                                    "unicode": "1f440"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "eyes",
+                                    "unicode": "1f440"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " )"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1758296745.953309",
+        "client_msg_id": "2E8744AD-9AC9-462B-90D6-A8F687F28CA6",
+        "text": "mintlify will be in upson 222!",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtQRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mintlify will be in upson 222!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pog",
+                "users": [
+                    "U04Q6BMSJER",
+                    "U06K2TZALJ2",
+                    "U06KNF03QKB",
+                    "U080G5L9MTJ",
+                    "U061S4J2DSP"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1758296747.000000",
+        "text": "mintlify will be in upson 222!",
+        "subtype": "message_changed",
+        "thread_ts": "1758156268.372799",
+        "editor_id": "U00",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HtQRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mintlify will be in upson 222!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "subtype": "thread_broadcast",
+            "user": "U04Q99S2Y3C",
+            "thread_ts": "1758156268.372799",
+            "root": {
+                "user": "U04Q99S2Y3C",
+                "type": "message",
+                "ts": "1758156268.372799",
+                "client_msg_id": "46218798-8e0d-40d5-abb9-21b4febb1ba9",
+                "text": "<!subteam^S06HNNE4YQ0> HEYYY TEAM! <@U01BT5GV0AZ> , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI at a town hall style event *this Friday, 3:30-4:30 (*room pending but eng quad *)!!! \n\nPLEASE* SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!! *React*:heart_on_fire: *if* you’re *coming! (*Hahnbee is hiring :eyes: :eyes: :eyes: )",
+                "team": "T0P9KU8UD",
+                "thread_ts": "1758156268.372799",
+                "reply_count": 1,
+                "reply_users_count": 1,
+                "latest_reply": "1758296745.953309",
+                "reply_users": [
+                    "U04Q99S2Y3C"
+                ],
+                "replies": [
+                    {
+                        "user": "U04Q99S2Y3C",
+                        "ts": "1758296745.953309"
+                    }
+                ],
+                "is_locked": false,
+                "blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "HDKsS",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S06HNNE4YQ0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " HEYYY TEAM! "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U01BT5GV0AZ"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "at a town hall style event "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "this Friday, 3:30-4:30 (",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "room pending but eng quad "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")!!! \n\nPLEASE ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!!"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " React",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false
+                                        }
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "heart_on_fire",
+                                        "unicode": "2764-fe0f-200d-1f525"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " if ",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "you’re"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " coming! (",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Hahnbee is hiring "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "eyes",
+                                        "unicode": "1f440"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "eyes",
+                                        "unicode": "1f440"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "eyes",
+                                        "unicode": "1f440"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " )"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": "message",
+            "ts": "1758296745.953309",
+            "client_msg_id": "2E8744AD-9AC9-462B-90D6-A8F687F28CA6",
+            "text": "mintlify will be in upson 222!",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HtQRg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "mintlify will be in upson 222!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    }
+]

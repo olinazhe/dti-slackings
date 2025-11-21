@@ -1,0 +1,385 @@
+[
+    {
+        "user": "U08EU1K234Y",
+        "type": "message",
+        "ts": "1763397961.609449",
+        "client_msg_id": "25920fad-eb7c-48ce-81e6-f2c3b1b954fa",
+        "text": ":red_siren:Hey <!subteam^S06HNNE4YQ0|@team>! At AH this Saturday we will be hosting an Alumni Speaker Panel. The structure of the event will be roughly 45 minutes for structured questions, and the final 15 minutes for open Q&amp;A. If there are any popular questions people have that they would like asked during the structured portion of the panel, please let me know and I will make changes accordingly. Additionally, here is a list of the alumni that will be speaking on the panel:\n_*Shea Belsky* - Tech Lead at *HubSpot*_\n_*Robin Ahn* - Product Designer at *Cypris*_\n_*Andrew Chen* - SWE at *Figma*_\n_*Michael Farkouh* - PM at *Warner Bros. Discovery*_\n_*Michael Torku* - SWE at *Netflix*_\nI urge everyone to show up to AH, as it is always a great opportunity to gain industry insight!:red_siren:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "8da4cd4eb440",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-20\/8481207179125_8da4cd4eb440a49c62a6_72.jpg",
+            "first_name": "Andrew",
+            "real_name": "Andrew Wilmott",
+            "display_name": "Andrew Wilmott",
+            "team": "T0P9KU8UD",
+            "name": "aw867",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763397961.609449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1763402384.139129",
+        "reply_users": [
+            "U06KBGE3LGK"
+        ],
+        "replies": [
+            {
+                "user": "U06KBGE3LGK",
+                "ts": "1763402384.139129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ABeU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "red_siren"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! At AH this Saturday we will be hosting an Alumni Speaker Panel. The structure of the event will be roughly 45 minutes for structured questions, and the final 15 minutes for open Q&A. If there are any popular questions people have that they would like asked during the structured portion of the panel, please let me know and I will make changes accordingly. Additionally, here is a list of the alumni that will be speaking on the panel:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Shea Belsky",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Tech Lead at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "HubSpot",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Robin Ahn",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Product Designer at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Cypris",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Andrew Chen",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - SWE at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Figma",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Michael Farkouh",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - PM at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Warner Bros. Discovery",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Michael Torku",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " - SWE at ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Netflix",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI urge everyone to show up to AH, as it is always a great opportunity to gain industry insight!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "red_siren"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U09GP2B6G3B",
+                    "U09G9ASFAJ2",
+                    "U06K2UUMU4E",
+                    "U08E3UNQDTM",
+                    "U08E174EJ13",
+                    "U061S4J2DSP",
+                    "U09G91U4B9U",
+                    "U04Q99S2Y3C",
+                    "U06KBGE3LGK",
+                    "U08EU1K234Y",
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U08E16YNJ5B",
+                    "U080G6QDZT2",
+                    "U080G5L9MTJ",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA",
+                    "U06KCGWCC04",
+                    "U0800DE2GPN",
+                    "U06KC1WG86Q",
+                    "U08EGG957CZ",
+                    "U07NA7PB0UV",
+                    "U0806A1C509",
+                    "U07NBCRD412",
+                    "U06KNF03QKB",
+                    "U08EGG7CKKK",
+                    "U08EHA604AV",
+                    "U09G4JUFELT",
+                    "U08E3UQFVDH",
+                    "U06KC4X5TD2",
+                    "U04Q99S0NM8",
+                    "U06K9FXP18B"
+                ],
+                "count": 33
+            },
+            {
+                "name": "mortar_board",
+                "users": [
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U06KBGE3LGK",
+                    "U080G5L9MTJ",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 10
+            },
+            {
+                "name": "shea-thinks",
+                "users": [
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U06KBGE3LGK",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 9
+            },
+            {
+                "name": "robin",
+                "users": [
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 8
+            },
+            {
+                "name": "andrewchen",
+                "users": [
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA",
+                    "U06KNF03QKB",
+                    "U07N94ZD37C",
+                    "U06KC4X5TD2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 9
+            },
+            {
+                "name": "michael",
+                "users": [
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA",
+                    "U06KNF03QKB",
+                    "U06KC4X5TD2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 8
+            },
+            {
+                "name": "netflix",
+                "users": [
+                    "U061BLZS1TR",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U080G5L9MTJ",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA",
+                    "U06KC4X5TD2",
+                    "U06K2UUMU4E"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1763402384.139129",
+        "client_msg_id": "6f3f0d2e-f005-4924-a13c-fe7aa34d24ce",
+        "text": "woah so excited! thanks Andrew!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1763397961.609449",
+        "parent_user_id": "U08EU1K234Y",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYduQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "woah so excited! thanks Andrew!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U08EU1K234Y",
+                    "U09G9ASFAJ2"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

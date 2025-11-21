@@ -1,0 +1,295 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1758648127.931779",
+        "client_msg_id": "2D4DEE10-1D01-4801-AF1B-315AF776C32E",
+        "text": "<!subteam^S06HNNE4YQ0|@team> hi all! Meet the DTI'ers will be this Thursday, 9\/25 from 6-7 in Upson 116. Please sign up for casual chats and games with freshmen\/transfer applicants and for TEC :partying_face: See you there!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758648127.931779",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1758648182.804979",
+        "reply_users": [
+            "U06K2TZALJ2"
+        ],
+        "replies": [
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1758648182.804979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pr59B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hi all! Meet the DTI'ers will be this Thursday, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "9\/25 from 6-7 in Upson 116. Please sign up for casual chats and games with freshmen\/transfer applicants and for TEC "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "partying_face",
+                                "unicode": "1f973"
+                            },
+                            {
+                                "type": "text",
+                                "text": " See you there!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U0800DE2GPN",
+                    "U080G6QDZT2",
+                    "U07NA7PB0UV",
+                    "U08DPBMKHPZ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U080G5L9MTJ",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U0800DE2GPN",
+                    "U080G6QDZT2"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1758648182.804979",
+        "client_msg_id": "83EB7659-B24F-49DE-A71B-2CC8202A6814",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=244703582#gid=244703582|https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=244703582#gid=244703582>",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758648127.931779",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RH7af",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=244703582#gid=244703582",
+                                "text": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=244703582#gid=244703582"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1758651524.000000",
+        "text": "if anyone wants a head start on OCTOBER TEC :red_siren:\nwe also have a 1:1 career mentorship session that we’ll be serving as mentors to help freshman! in collab with H4I and CDS — 1 TEC for 1 hour of your time to help out frosh on 10\/1, <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1699356424#gid=1699356424|sign up + details here!> (ALL YEARS\/grade levels ARE WELCOME!)",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IJZ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if anyone wants a head start on OCTOBER TEC "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "red_siren"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwe also have a 1:1 career mentorship session that we’ll be serving as mentors to help freshman! in collab with H4I and CDS — 1 TEC for 1 hour of your time to help out frosh on 10\/1, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1699356424#gid=1699356424",
+                                "text": "sign up + details here!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ALL YEARS\/grade levels ARE WELCOME!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1758648614.231519",
+            "client_msg_id": "2fd2e792-d2e6-42ea-942d-729fa37d1276",
+            "text": "if anyone wants a head start on OCTOBER TEC :red_siren:\nwe also have a 1:1 career mentorship session that we’ll be serving as mentors to help freshman! in collab with H4I and CDS — 1 TEC for 1 hour of your time to help out frosh on 10\/1, <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1699356424#gid=1699356424|sign up + details here!>",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "\/L++R",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "if anyone wants a head start on OCTOBER TEC "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "red_siren"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nwe also have a 1:1 career mentorship session that we’ll be serving as mentors to help freshman! in collab with H4I and CDS — 1 TEC for 1 hour of your time to help out frosh on 10\/1, "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1699356424#gid=1699356424",
+                                    "text": "sign up + details here!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04Q99S2Y3C"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1758648614.231519",
+        "edited": {
+            "user": "U04Q99S2Y3C",
+            "ts": "1758651524.000000"
+        },
+        "client_msg_id": "2fd2e792-d2e6-42ea-942d-729fa37d1276",
+        "text": "if anyone wants a head start on OCTOBER TEC :red_siren:\nwe also have a 1:1 career mentorship session that we’ll be serving as mentors to help freshman! in collab with H4I and CDS — 1 TEC for 1 hour of your time to help out frosh on 10\/1, <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1699356424#gid=1699356424|sign up + details here!> (ALL YEARS\/grade levels ARE WELCOME!)",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3IJZ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if anyone wants a head start on OCTOBER TEC "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "red_siren"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwe also have a 1:1 career mentorship session that we’ll be serving as mentors to help freshman! in collab with H4I and CDS — 1 TEC for 1 hour of your time to help out frosh on 10\/1, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1699356424#gid=1699356424",
+                                "text": "sign up + details here!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (ALL YEARS\/grade levels ARE WELCOME!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

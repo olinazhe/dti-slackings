@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1760082543.094679",
+        "client_msg_id": "79E9B655-F84A-49E8-A4DF-AA2A3F87D793",
+        "text": "ok LOL",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760049982.922959",
+        "parent_user_id": "U07V7C9PHEX",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "17st3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok LOL"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

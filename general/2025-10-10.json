@@ -1,0 +1,105 @@
+[
+    {
+        "user": "U061BLZS1TR",
+        "type": "message",
+        "ts": "1760115954.212559",
+        "client_msg_id": "f4d250be-9a0f-45fe-a4dd-30beee9e2880",
+        "text": "<!subteam^S06HNNE4YQ0|@team> reminder that we have *<https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|PM Internal Transfer Applications>* OPEN and *due October 16th*!! Feel free to apply even if you don't have a lot of experience, we'll be onboarding you over the next semester :)) Reach out to <!subteam^S03RCJYHJ0M|@pm-leadz> if you have any questions :deal_with_it_parrot::deal_with_it_parrot::deal_with_it_parrot:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1a033aa28b44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-09\/9667283023606_1a033aa28b449cbbf414_72.png",
+            "first_name": "Nitya",
+            "real_name": "Nitya Pakala",
+            "display_name": "Nitya",
+            "team": "T0P9KU8UD",
+            "name": "nmp79",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pNUx3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reminder that we have "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                "text": "PM Internal Transfer Applications",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " OPEN and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "due October 16th",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! Feel free to apply even if you don't have a lot of experience, we'll be onboarding you over the next semester :)) Reach out to "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S03RCJYHJ0M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you have any questions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "deal_with_it_parrot"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "deal_with_it_parrot"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "deal_with_it_parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_party",
+                "users": [
+                    "U06KC1WG86Q",
+                    "U08EGG7CKKK",
+                    "U07NB1DPCBC",
+                    "U06K2TZALJ2",
+                    "U0806411Z5X",
+                    "U06KNF03QKB",
+                    "U04Q99S2Y3C",
+                    "U08EHA604AV",
+                    "U0806A1C509",
+                    "U08E174EJ13"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

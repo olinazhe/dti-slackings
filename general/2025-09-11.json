@@ -1,0 +1,77 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1757606348.506399",
+        "client_msg_id": "d2e382d1-2c02-46ce-bd4d-a709885b7e35",
+        "text": "hi everyone: a reminder that we will be having AH this coming saturday @ 1:30 PM in Gates GO1! Please drop your hot takes <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe_wnxEnkEFBgdtrEarRPIaExbx_0ROFP-P0qAh0XuYpDRs3w\/viewform?usp=header|here> for one of our activities :see_no_evil:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zmlpk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi everyone: a reminder that we will be having AH this coming saturday @ 1:30 PM in Gates GO1! Please drop your hot takes "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSe_wnxEnkEFBgdtrEarRPIaExbx_0ROFP-P0qAh0XuYpDRs3w\/viewform?usp=header",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for one of our activities "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil",
+                                "unicode": "1f648"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hot_pepper",
+                "users": [
+                    "U0806411Z5X",
+                    "U07N27S0N06",
+                    "U05S1FQNUJ3",
+                    "U07NA7PB0UV",
+                    "U08E7NL3V1S",
+                    "U06K2UUMU4E",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U04Q99S0NM8",
+                    "U04Q6BMSJER",
+                    "U07NMEGQA1X",
+                    "U06K2TZALJ2",
+                    "U08E3UQFVDH",
+                    "U06KBGE3LGK"
+                ],
+                "count": 15
+            }
+        ]
+    }
+]

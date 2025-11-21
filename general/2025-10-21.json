@@ -1,0 +1,2053 @@
+[
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1761061706.000000",
+        "text": "",
+        "subtype": "message_deleted",
+        "thread_ts": "1760917348.101629",
+        "editor_id": "U06K2TZALJ2",
+        "original": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1761061693.468189",
+            "client_msg_id": "5d141a6b-367d-4c76-b25a-99d311d87871",
+            "text": "<!subteam^S06HNNE4YQ0> our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing :sad-olina:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "94af320882f8",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+                "first_name": "Andrew",
+                "real_name": "Andrew Qian",
+                "display_name": "Andrew Qian",
+                "team": "T0P9KU8UD",
+                "name": "ajq22",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1760917348.101629",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tkISn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sad-olina"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "deleted_by": "U06K2TZALJ2"
+    },
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06K2TZALJ2",
+        "thread_ts": "1760917348.101629",
+        "root": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1760917348.101629",
+            "client_msg_id": "c65ef321-cc09-4fb8-b25e-e30c6f07adf4",
+            "text": "<!subteam^S06HNNE4YQ0> behavioral interviews dropping! :parachute: sign up on IDOL <https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda|here> to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a *huge* shoutout to <!subteam^S039LAEQV6H> <@U06KNF03QKB> for creating our scheduler tool :raised_hands:",
+            "team": "T0P9KU8UD",
+            "thread_ts": "1760917348.101629",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1761061717.809779",
+            "reply_users": [
+                "U06K2TZALJ2"
+            ],
+            "replies": [
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1761061717.809779"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "attachments": [
+                {
+                    "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                    "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                    "id": 1,
+                    "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                    "fallback": "Cornell DTI IDOL",
+                    "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                    "title": "Cornell DTI IDOL",
+                    "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                    "service_name": "idol.cornelldti.org"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "C+djB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " behavioral interviews dropping! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "parachute",
+                                    "unicode": "1fa82"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " sign up on IDOL "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "huge ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "shoutout to "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S039LAEQV6H"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U06KNF03QKB"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " for creating our scheduler tool "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "raised_hands",
+                                    "unicode": "1f64c"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1761061717.809779",
+        "client_msg_id": "14359d73-9129-43cc-b448-f075fca68023",
+        "text": "<!subteam^S06HNNE4YQ0|@team> our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing :sad-olina:",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkISn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sad-olina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ahh",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U04Q6BMSJER",
+                    "U06K2UUMU4E",
+                    "U06KNF03QKB",
+                    "U08E16YNJ5B",
+                    "U08E50PFWCA",
+                    "U0806411Z5X",
+                    "U06KC4X5TD2"
+                ],
+                "count": 8
+            },
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U04Q6BMSJER",
+                    "U06K2UUMU4E",
+                    "U06KNF03QKB",
+                    "U0806411Z5X",
+                    "U06KC4X5TD2"
+                ],
+                "count": 6
+            },
+            {
+                "name": "dti",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U04Q6BMSJER",
+                    "U06K2UUMU4E",
+                    "U06KNF03QKB",
+                    "U0806411Z5X",
+                    "U06KC4X5TD2"
+                ],
+                "count": 6
+            },
+            {
+                "name": "sad-olina",
+                "users": [
+                    "U080G5L9MTJ",
+                    "U0806411Z5X"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1761061719.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing :sad-olina:",
+        "subtype": "message_changed",
+        "thread_ts": "1760917348.101629",
+        "editor_id": "U00",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkISn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sad-olina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "subtype": "thread_broadcast",
+            "user": "U06K2TZALJ2",
+            "thread_ts": "1760917348.101629",
+            "root": {
+                "user": "U06K2TZALJ2",
+                "type": "message",
+                "ts": "1760917348.101629",
+                "client_msg_id": "c65ef321-cc09-4fb8-b25e-e30c6f07adf4",
+                "text": "<!subteam^S06HNNE4YQ0> behavioral interviews dropping! :parachute: sign up on IDOL <https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda|here> to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a *huge* shoutout to <!subteam^S039LAEQV6H> <@U06KNF03QKB> for creating our scheduler tool :raised_hands:",
+                "team": "T0P9KU8UD",
+                "thread_ts": "1760917348.101629",
+                "reply_count": 1,
+                "reply_users_count": 1,
+                "latest_reply": "1761061717.809779",
+                "reply_users": [
+                    "U06K2TZALJ2"
+                ],
+                "replies": [
+                    {
+                        "user": "U06K2TZALJ2",
+                        "ts": "1761061717.809779"
+                    }
+                ],
+                "is_locked": false,
+                "attachments": [
+                    {
+                        "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                        "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                        "id": 1,
+                        "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                        "fallback": "Cornell DTI IDOL",
+                        "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                        "title": "Cornell DTI IDOL",
+                        "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                        "service_name": "idol.cornelldti.org"
+                    }
+                ],
+                "blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "C+djB",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S06HNNE4YQ0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " behavioral interviews dropping! "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "parachute",
+                                        "unicode": "1fa82"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " sign up on IDOL "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "huge ",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "shoutout to "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S039LAEQV6H"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U06KNF03QKB"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for creating our scheduler tool "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "raised_hands",
+                                        "unicode": "1f64c"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": "message",
+            "ts": "1761061717.809779",
+            "client_msg_id": "14359d73-9129-43cc-b448-f075fca68023",
+            "text": "<!subteam^S06HNNE4YQ0> our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing :sad-olina:",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "tkISn",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " our candidates have fully signed up so please choose timeslots on IDOL to help interview :) additionally, some time slots have been closed if no applicant signed up, so double check to make sure you don't show up for nothing "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sad-olina"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761099584.922439",
+        "client_msg_id": "60F3129A-DA9B-4E6D-A8DC-760FD1167A43",
+        "text": "^ please sign up for more if you can!! we need the support for tomorrow we would super appreciate if u could help out with just one slot :)",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kfmp5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^ please sign up for more if you can!! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "we"
+                            },
+                            {
+                                "type": "text",
+                                "text": " need the support for tomorrow we would super appreciate if u could help out with just one slot :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U08E7NL3V1S",
+        "upload": true,
+        "ts": "1761103130.000000",
+        "text": "",
+        "subtype": "message_deleted",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U08E7NL3V1S",
+        "original": {
+            "text": "",
+            "files": [
+                {
+                    "id": "F09MSUDE5K8",
+                    "created": 1761102917,
+                    "timestamp": 1761102917,
+                    "name": "IMG_2165.HEIC",
+                    "title": "IMG_2165.HEIC",
+                    "mimetype": "image\/heic",
+                    "filetype": "heic",
+                    "pretty_type": "High Efficiency Image File",
+                    "user": "U08E7NL3V1S",
+                    "user_team": "T0P9KU8UD",
+                    "editable": false,
+                    "size": 3106873,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MSUDE5K8\/img_2165.heic?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MSUDE5K8\/download\/img_2165.heic?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MSUDE5K8-f86c320561\/img_2165_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "original_w": 4284,
+                    "original_h": 5712,
+                    "permalink": "https:\/\/cornelldti.slack.com\/files\/U08E7NL3V1S\/F09MSUDE5K8\/img_2165.heic",
+                    "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09MSUDE5K8-53ddc571cd",
+                    "skipped_shares": true,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                },
+                {
+                    "id": "F09N7TG117B",
+                    "created": 1761102917,
+                    "timestamp": 1761102917,
+                    "name": "IMG_2168.HEIC",
+                    "title": "IMG_2168.HEIC",
+                    "mimetype": "image\/heic",
+                    "filetype": "heic",
+                    "pretty_type": "High Efficiency Image File",
+                    "user": "U08E7NL3V1S",
+                    "user_team": "T0P9KU8UD",
+                    "editable": false,
+                    "size": 2575886,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09N7TG117B\/img_2168.heic?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09N7TG117B\/download\/img_2168.heic?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360_w": 270,
+                    "thumb_360_h": 360,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_480_w": 360,
+                    "thumb_480_h": 480,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720_w": 540,
+                    "thumb_720_h": 720,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 1067,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_960_w": 720,
+                    "thumb_960_h": 960,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09N7TG117B-17e9eda36d\/img_2168_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_1024_w": 768,
+                    "thumb_1024_h": 1024,
+                    "original_w": 4284,
+                    "original_h": 5712,
+                    "permalink": "https:\/\/cornelldti.slack.com\/files\/U08E7NL3V1S\/F09N7TG117B\/img_2168.heic",
+                    "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09N7TG117B-d1b3726fbb",
+                    "skipped_shares": true,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                },
+                {
+                    "id": "F09MYH38M8C",
+                    "created": 1761102917,
+                    "timestamp": 1761102917,
+                    "name": "IMG_2171.HEIC",
+                    "title": "IMG_2171.HEIC",
+                    "mimetype": "image\/heic",
+                    "filetype": "heic",
+                    "pretty_type": "High Efficiency Image File",
+                    "user": "U08E7NL3V1S",
+                    "user_team": "T0P9KU8UD",
+                    "editable": false,
+                    "size": 2126403,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MYH38M8C\/img_2171.heic?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MYH38M8C\/download\/img_2171.heic?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "media_display_type": "unknown",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 270,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 360,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 540,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_800.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 600,
+                    "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_960.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_960_w": 960,
+                    "thumb_960_h": 720,
+                    "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYH38M8C-b9afe1fcab\/img_2171_1024.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                    "thumb_1024_w": 1024,
+                    "thumb_1024_h": 768,
+                    "original_w": 5712,
+                    "original_h": 4284,
+                    "permalink": "https:\/\/cornelldti.slack.com\/files\/U08E7NL3V1S\/F09MYH38M8C\/img_2171.heic",
+                    "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09MYH38M8C-75349742da",
+                    "skipped_shares": true,
+                    "has_rich_preview": false,
+                    "file_access": "visible"
+                }
+            ],
+            "upload": true,
+            "user": "U08E7NL3V1S",
+            "type": "message",
+            "ts": "1761102926.634679",
+            "client_msg_id": "db85fc2d-e71c-4270-9212-32889ceedc12"
+        },
+        "deleted_by": "U08E7NL3V1S"
+    },
+    {
+        "user": "U08E7NL3V1S",
+        "type": "message",
+        "ts": "1761102935.187459",
+        "edited": {
+            "user": "U08E7NL3V1S",
+            "ts": "1761103150.000000"
+        },
+        "client_msg_id": "6890e043-48bb-4e27-ad68-1e865c23d701",
+        "text": "HEY <!subteam^S06HNNE4YQ0|@team>!! Reminder that <!subteam^S04Q911MS6A|@newbies> are required to get *10 referrals each* for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get *at least 3 referrals* *each*! :boom:Keep those orders coming!\n\nLet's pull through and bring some yummy treats to our classmates and community :heart_on_fire: - Pre-order form <https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6|HERE>!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics :maple_leaf:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "019eae0f4f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+            "first_name": "Rachel",
+            "real_name": "Rachel Tay",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "rt489",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9rKq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HEY "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! Reminder that "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S04Q911MS6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are required to get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "10 referrals each",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "at least 3 referrals",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "each",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Keep those orders coming!\n\nLet's pull through and bring some yummy treats to our classmates and community "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Pre-order form "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6",
+                                "text": "HERE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "maple_leaf",
+                                "unicode": "1f341"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U09G9ASFAJ2",
+                    "U09FUN2L03H",
+                    "U09GP2B6G3B",
+                    "U06K2UUMU4E"
+                ],
+                "count": 5
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U09GP2B6G3B",
+                    "U06K2UUMU4E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "meow_party",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U09GP2B6G3B",
+                    "U06K2UUMU4E"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U08E7NL3V1S",
+        "upload": false,
+        "ts": "1761103058.000000",
+        "text": "HEY <!subteam^S06HNNE4YQ0|@team>!! Reminder that <!subteam^S04Q911MS6A|@newbies> are required to get *10 referrals each* for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get *at least 3 referrals* *each*! :boom:Keep those order coming!\n\nLet's pull through and bring some yummy treats to our classmates and community :heart_on_fire: - Pre-order form <https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6|HERE>!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics :maple_leaf:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t7vE5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HEY "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! Reminder that "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S04Q911MS6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are required to get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "10 referrals each",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "at least 3 referrals",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "each",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Keep those order coming!\n\nLet's pull through and bring some yummy treats to our classmates and community "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Pre-order form "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6",
+                                "text": "HERE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "maple_leaf",
+                                "unicode": "1f341"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U08E7NL3V1S",
+            "type": "message",
+            "ts": "1761102935.187459",
+            "client_msg_id": "6890e043-48bb-4e27-ad68-1e865c23d701",
+            "text": "HEY <!subteam^S06HNNE4YQ0>!! Reminder that <!subteam^S04Q911MS6A> are required to get *10 referrals each* for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get *at least 3 referrals* *each*! :boom:Keep those order coming!\n\nLet's pull through and bring some yummy treats to our classmates and community :heart_on_fire:\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics :maple_leaf:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "019eae0f4f65",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+                "first_name": "Rachel",
+                "real_name": "Rachel Tay",
+                "display_name": "",
+                "team": "T0P9KU8UD",
+                "name": "rt489",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "9NRJt",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "HEY "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! Reminder that "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S04Q911MS6A"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " are required to get "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "10 referrals each",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "at least 3 referrals",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "each",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "boom",
+                                    "unicode": "1f4a5"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Keep those order coming!\n\nLet's pull through and bring some yummy treats to our classmates and community "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "heart_on_fire",
+                                    "unicode": "2764-fe0f-200d-1f525"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "maple_leaf",
+                                    "unicode": "1f341"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U08E7NL3V1S"
+    },
+    {
+        "type": "message",
+        "user": "U08E7NL3V1S",
+        "upload": false,
+        "ts": "1761103150.000000",
+        "text": "HEY <!subteam^S06HNNE4YQ0|@team>!! Reminder that <!subteam^S04Q911MS6A|@newbies> are required to get *10 referrals each* for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get *at least 3 referrals* *each*! :boom:Keep those orders coming!\n\nLet's pull through and bring some yummy treats to our classmates and community :heart_on_fire: - Pre-order form <https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6|HERE>!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics :maple_leaf:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9rKq2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HEY "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! Reminder that "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S04Q911MS6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are required to get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "10 referrals each",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "at least 3 referrals",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "each",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "boom",
+                                "unicode": "1f4a5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Keep those orders coming!\n\nLet's pull through and bring some yummy treats to our classmates and community "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Pre-order form "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6",
+                                "text": "HERE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "maple_leaf",
+                                "unicode": "1f341"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U08E7NL3V1S",
+            "type": "message",
+            "ts": "1761102935.187459",
+            "edited": {
+                "user": "U08E7NL3V1S",
+                "ts": "1761103058.000000"
+            },
+            "client_msg_id": "6890e043-48bb-4e27-ad68-1e865c23d701",
+            "text": "HEY <!subteam^S06HNNE4YQ0>!! Reminder that <!subteam^S04Q911MS6A> are required to get *10 referrals each* for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get *at least 3 referrals* *each*! :boom:Keep those order coming!\n\nLet's pull through and bring some yummy treats to our classmates and community :heart_on_fire: - Pre-order form <https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6|HERE>!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics :maple_leaf:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "019eae0f4f65",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+                "first_name": "Rachel",
+                "real_name": "Rachel Tay",
+                "display_name": "",
+                "team": "T0P9KU8UD",
+                "name": "rt489",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "t7vE5",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "HEY "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! Reminder that "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S04Q911MS6A"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " are required to get "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "10 referrals each",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " for our FALL FUNDRAISER this coming Thursday!! We also ask that all members get "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "at least 3 referrals",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "each",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "boom",
+                                    "unicode": "1f4a5"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Keep those order coming!\n\nLet's pull through and bring some yummy treats to our classmates and community "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "heart_on_fire",
+                                    "unicode": "2764-fe0f-200d-1f525"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " - Pre-order form "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/ZDdNnhbZG5CwdT4C6",
+                                    "text": "HERE"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!\n\nAs motivation our first round of prep went amazing! - Enjoy the attached pics "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "maple_leaf",
+                                    "unicode": "1f341"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U08E7NL3V1S"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09MNJQCHRR",
+                "created": 1761103082,
+                "timestamp": 1761103082,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U08E7NL3V1S",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 599264,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MNJQCHRR\/image.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MNJQCHRR\/download\/image.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MNJQCHRR-783b54e3f7\/image_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MNJQCHRR-783b54e3f7\/image_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MNJQCHRR-783b54e3f7\/image_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 360,
+                "thumb_360_h": 290,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MNJQCHRR-783b54e3f7\/image_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 480,
+                "thumb_480_h": 387,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MNJQCHRR-783b54e3f7\/image_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MNJQCHRR-783b54e3f7\/image_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 720,
+                "thumb_720_h": 580,
+                "original_w": 720,
+                "original_h": 580,
+                "thumb_tiny": "AwAnADB8ijzJAR95Tj\/P4VDBKSxTA5U4x1qW6YqpcddpFNEQWIBSu7g7vepY0rjVlAlG5iBj14qYuisFLAE9BUMUTLDkgPvGeD+lRjEjlSRtzyDnOaAsTTsSu0DOafC74AK5HqKbEI0BDOoGcgE9KlEkQ6SJgf7VMQwtvTDZwwqmCwDxM5wOmfSrB6DnNNVM3Bl9B0qSiyrEBd2BjioUVFuGYhTvHy+xpBgsd0gywIwacCucrkjO4jpVCEuxtZXVeCMEVUVwxxsH1q7PjyFAJ6dz7iqscWGyKVxlpRlh\/WkGMGlj++KaOh\/D+dIZDIm1mZQOOppUk2Q7z1LdPSnyfdl\/CoW\/49R\/vn+VNCZanAKxj0FNUU+bqv0pq0gP\/9k=",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09MNJQCHRR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09MNJQCHRR-16e00d565c",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F09MYHD3X60",
+                "created": 1761103092,
+                "timestamp": 1761103092,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U08E7NL3V1S",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 407890,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MYHD3X60\/image.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MYHD3X60\/download\/image.png?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYHD3X60-95dae1cc54\/image_64.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYHD3X60-95dae1cc54\/image_80.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYHD3X60-95dae1cc54\/image_360.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 360,
+                "thumb_360_h": 271,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYHD3X60-95dae1cc54\/image_480.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 480,
+                "thumb_480_h": 361,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYHD3X60-95dae1cc54\/image_160.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MYHD3X60-95dae1cc54\/image_720.png?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 720,
+                "thumb_720_h": 542,
+                "original_w": 720,
+                "original_h": 542,
+                "thumb_tiny": "AwAlADBSg6c\/nSiFCOVBpryFXRQAd2aYs77+P7zDGPbikBN5EeMeWv5Ugt4x0QfkD\/OmLNK0i8jazHt2H+f0pEdxGAWJJIA5555\/z9KYEpgj\/wCea\/kKDEgUgKoB6jFQPcyLKy8YBPFTqSUDHqRSGRyc3EX41CoMnPcgnPuTVokbwx7A01FIAG5e3+NAESKxPzDG1WJPuciplAUDcAG3KP0H\/wBepEUYbJxkf4\/41JtU5+bqc0AZ9zGRcnAzu6VbRSI1BGDgUsiBpFYH7vYCnE\/hQBReUrj3oEzEUyX+D6U1aBGjAgeEuSfoKQ4PTI9cnNPtf+PQ1GOh\/CmA13KhT1yT\/T\/GkEzEHIHApJfuJ9T\/AEqMfdb6f1FID\/\/Z",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09MYHD3X60\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09MYHD3X60-66bc446935",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U08E7NL3V1S",
+        "type": "message",
+        "ts": "1761103096.389189",
+        "client_msg_id": "e6741454-35af-4158-bb24-1fe219d3c625",
+        "thread_ts": "1761103096.389189",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1761112249.554169",
+        "reply_users": [
+            "U04Q99S2Y3C",
+            "U06KBGE3LGK",
+            "U09FUN2L03H"
+        ],
+        "replies": [
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1761103187.049579"
+            },
+            {
+                "user": "U06KBGE3LGK",
+                "ts": "1761103203.129399"
+            },
+            {
+                "user": "U06KBGE3LGK",
+                "ts": "1761103205.626229"
+            },
+            {
+                "user": "U09FUN2L03H",
+                "ts": "1761103996.096149"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1761112249.554169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U06KCGWCC04",
+                    "U08EGG7CKKK",
+                    "U09G9ASFAJ2",
+                    "U06KNF03QKB",
+                    "U08E3UQFVDH",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM",
+                    "U04Q99S2Y3C",
+                    "U0806411Z5X",
+                    "U08E50PFWCA",
+                    "U07NBCRD412",
+                    "U06KBGE3LGK",
+                    "U09H2QPBZK2"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761103187.049579",
+        "client_msg_id": "B57F38EB-12EA-4452-BB43-CA229881469F",
+        "text": "YUMMYY",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761103096.389189",
+        "parent_user_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zTcYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YUMMYY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1761103203.129399",
+        "client_msg_id": "ed5eb3a0-e25e-45df-90b7-d2230cc7e160",
+        "text": "omg me want",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761103096.389189",
+        "parent_user_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XuPcB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "omg me want"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1761103205.626229",
+        "client_msg_id": "0f8b80ae-3550-429e-acd8-636a75c3cdea",
+        "text": "so cute!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761103096.389189",
+        "parent_user_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WKJZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so cute!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09FUN2L03H",
+        "type": "message",
+        "ts": "1761103996.096149",
+        "client_msg_id": "b81917bd-300f-4d0c-8e9b-fc1e4ae4862c",
+        "text": "can i refer myself bc i wna eat these",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "450cba98363f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-10-16\/9697745522087_450cba98363f988c2b6a_72.png",
+            "first_name": "Helen",
+            "real_name": "Helen Song",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "hhs74",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761103096.389189",
+        "parent_user_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JsY3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can i refer myself bc i wna eat these"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761112249.554169",
+        "client_msg_id": "58AA3329-A079-498A-94A6-E51FD47712F5",
+        "text": "duh",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761103096.389189",
+        "parent_user_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iv8pB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "duh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1761114577.000000",
+        "text": "",
+        "subtype": "message_deleted",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1761114566.126409",
+            "client_msg_id": "50b3593e-cbfd-4be3-9386-3522d530e0e6",
+            "text": "i apologize for the double ping, but we are desperately in need of filling the following 30 min interview slots if anyone is able to spare 30 mins of their day\nfor today:\n• ctown ehub 203: 7:30pm, 8:30 pm\n• ctown ehub 206: 4pm, 5pm\nand tomorrow:\n• hollister 314: 8:30pm, 9pm, 9:30\n• hollister 320: 8pm, 8:30pm, 9pm, 9:30. \nplease help us fairly interview every applicant by grabbing a slot <https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda|here>!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZBi3k",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "i apologize for the double ping, but we are desperately in need of filling the following 30 min interview slots if anyone is able to spare 30 mins of their day\nfor today:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ctown ehub 203: 7:30pm, 8:30 pm"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ctown ehub 206: 4pm, 5pm"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "and tomorrow:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "hollister 314: 8:30pm, 9pm, 9:30"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "hollister 320: 8pm, 8:30pm, 9pm, 9:30. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "please help us fairly interview every applicant by grabbing a slot "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "deleted_by": "U04Q99S2Y3C"
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1761147218.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> i apologize for the double ping, but we are desperately in need of filling the following interview slots if anyone is able to spare 30 mins of their day, is is free in any of the times below please help us!!!\nfor today:\n• ctown ehub 203: 7:30pm, 8:30 pm\n• ctown ehub 206: 4pm, 5pm\nand tomorrow:\n• hollister 314: 8:30pm, 9pm, 9:30\n• hollister 320: 8pm, 8:30pm, 9pm, 9:30 ",
+        "subtype": "message_changed",
+        "thread_ts": "1761114870.801029",
+        "editor_id": "U00",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eauDW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " i apologize for the double ping, but we are desperately in need of filling the following interview slots if anyone is able to spare 30 mins of their day, is is free in any of the times below please help us!!!\nfor today:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ctown ehub 203: 7:30pm, 8:30 pm"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ctown ehub 206: 4pm, 5pm"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and tomorrow:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "hollister 314: 8:30pm, 9pm, 9:30"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "hollister 320: 8pm, 8:30pm, 9pm, 9:30 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1761114870.801029",
+            "client_msg_id": "d740e311-5302-4fc7-9d4b-83b86ef910fb",
+            "text": "<!subteam^S06HNNE4YQ0> i apologize for the double ping, but we are desperately in need of filling the following interview slots if anyone is able to spare 30 mins of their day, is is free in any of the times below please help us!!!\nfor today:\n• ctown ehub 203: 7:30pm, 8:30 pm\n• ctown ehub 206: 4pm, 5pm\nand tomorrow:\n• hollister 314: 8:30pm, 9pm, 9:30\n• hollister 320: 8pm, 8:30pm, 9pm, 9:30 ",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1761114870.801029",
+            "reply_count": 0,
+            "reply_users_count": 0,
+            "latest_reply": "0000000000.000000",
+            "reply_users": [],
+            "replies": [],
+            "is_locked": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eauDW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " i apologize for the double ping, but we are desperately in need of filling the following interview slots if anyone is able to spare 30 mins of their day, is is free in any of the times below please help us!!!\nfor today:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ctown ehub 203: 7:30pm, 8:30 pm"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ctown ehub 206: 4pm, 5pm"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "and tomorrow:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "hollister 314: 8:30pm, 9pm, 9:30"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "hollister 320: 8pm, 8:30pm, 9pm, 9:30 "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1761335855.000000",
+        "text": "",
+        "subtype": "message_deleted",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1761114870.801029",
+            "client_msg_id": "d740e311-5302-4fc7-9d4b-83b86ef910fb",
+            "text": "<!subteam^S06HNNE4YQ0> i apologize for the double ping, but we are desperately in need of filling the following interview slots if anyone is able to spare 30 mins of their day, is is free in any of the times below please help us!!!\nfor today:\n• ctown ehub 203: 7:30pm, 8:30 pm\n• ctown ehub 206: 4pm, 5pm\nand tomorrow:\n• hollister 314: 8:30pm, 9pm, 9:30\n• hollister 320: 8pm, 8:30pm, 9pm, 9:30 ",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eauDW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " i apologize for the double ping, but we are desperately in need of filling the following interview slots if anyone is able to spare 30 mins of their day, is is free in any of the times below please help us!!!\nfor today:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ctown ehub 203: 7:30pm, 8:30 pm"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "ctown ehub 206: 4pm, 5pm"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "and tomorrow:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "hollister 314: 8:30pm, 9pm, 9:30"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "hollister 320: 8pm, 8:30pm, 9pm, 9:30 "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        "deleted_by": "U04Q99S2Y3C"
+    }
+]

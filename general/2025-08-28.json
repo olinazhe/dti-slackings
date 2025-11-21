@@ -1,0 +1,99 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756405571.957539",
+        "client_msg_id": "EF01DFD3-F561-45D8-81FE-7EACA4E1D217",
+        "text": "for those coming to info session 1, it will be in ctown ehub 3rd floor! slack dm me if u cant find it :). \ndm me if you would be open to being at the door to let ppl in (ill give u my id) and telling people how to get to third floor if the door is locked",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756405571.957539",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1756414388.170479",
+        "reply_users": [
+            "U06K2TZALJ2"
+        ],
+        "replies": [
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1756414388.170479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yzQGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for those coming to info session 1, it will be in ctown ehub 3rd floor! slack dm me if u cant find it :). \ndm me if you would be open to being at the door to let ppl in (ill give u my id) and telling people how to get to third floor if the door is locked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1756414388.170479",
+        "client_msg_id": "5fea7243-e0d8-4faf-9fc7-c2ad7b926346",
+        "text": "or ping <!subteam^S01ACQLLWUW|@leadz>",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756405571.957539",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wTODz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or ping "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S01ACQLLWUW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "user": "U08E7NL3V1S",
+        "type": "message",
+        "ts": "1758074860.519579",
+        "client_msg_id": "a737c8fb-37b1-4862-8676-9af80b2f854c",
+        "text": "*Hey* <!subteam^S06HNNE4YQ0|@team>!!! *Mark your calendars* because we will be having a :deciduous_tree:*Field Day Full Team Social*:deciduous_tree: on Sept. 27th (Saturday) from 5-7pm :ahh:. This social is a requirement for all members :blob-yes:, and you will get the chance to win :sparkles:*prizes* *POSSIBLY INCLUDING* smiski blindboxes, Labubu, comped boba, comped Ninja chicken, and even limited edition DTI merch!\n\n:white_check_mark:*DO REMEMBER*: We ask that you bring a dish\/snack to share!:cookie:\n\n:white_check_mark:*Like this message* to signify you you have seen and are ready to come welcome our *newbies*:baby: and bond with your team members!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "019eae0f4f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+            "first_name": "Rachel",
+            "real_name": "Rachel Tay",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "rt489",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jz0k1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!! "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Mark your calendars",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " because we will be having a "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "deciduous_tree",
+                                "unicode": "1f333"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Field Day Full Team Social",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "deciduous_tree",
+                                "unicode": "1f333"
+                            },
+                            {
+                                "type": "text",
+                                "text": " on Sept. 27th (Saturday) from 5-7pm "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". This social is a requirement for all members "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blob-yes"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", and you will get the chance to win "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "prizes",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "POSSIBLY INCLUDING",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " smiski blindboxes, Labubu, comped boba, comped Ninja chicken, and even limited edition DTI merch!\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "DO REMEMBER",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": We ask that you bring a dish\/snack to share!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cookie",
+                                "unicode": "1f36a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Like this message",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " to signify you you have seen and are ready to come welcome our "
+                            },
+                            {
+                                "type": "text",
+                                "text": "newbies",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby",
+                                "unicode": "1f476",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and bond with your team members!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U080M7935R6",
+                    "U06KNF03QKB",
+                    "U080G5L9MTJ",
+                    "U06KCGWCC04",
+                    "U061S4J2DSP",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U080G6QDZT2",
+                    "U08EGG7CKKK",
+                    "U07N27S0N06",
+                    "U06KC1WG86Q",
+                    "U06K9HD998T",
+                    "U08E3UQFVDH",
+                    "U07V0PDSY78",
+                    "U06KC4X5TD2",
+                    "U08DPBF7RD5",
+                    "U07NBB600PN",
+                    "U06K2UUMU4E",
+                    "U06KAR47ZR9",
+                    "U0800DE2GPN",
+                    "U08E3UNQDTM",
+                    "U04Q99S2Y3C",
+                    "U05T51X7ETS",
+                    "U08DPBMKHPZ",
+                    "U06KYFYLL5N",
+                    "U05S9CMLGJ2",
+                    "U08E3UP45GT",
+                    "U08E3UQ7BGB",
+                    "U08E16YNJ5B"
+                ],
+                "count": 30
+            },
+            {
+                "name": "sushi",
+                "users": [
+                    "U0806A1C509",
+                    "U080G6QDZT2",
+                    "U06K9HD998T",
+                    "U08E3UNQDTM",
+                    "U04Q99S2Y3C",
+                    "U06KCGWCC04"
+                ],
+                "count": 6
+            },
+            {
+                "name": "cake",
+                "users": [
+                    "U0806A1C509",
+                    "U080G6QDZT2",
+                    "U06K9HD998T",
+                    "U08E3UNQDTM",
+                    "U04Q99S2Y3C",
+                    "U06KCGWCC04"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

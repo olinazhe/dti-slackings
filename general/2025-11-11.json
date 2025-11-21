@@ -1,0 +1,646 @@
+[
+    {
+        "user": "U07VA4CRCP6",
+        "type": "message",
+        "ts": "1762878325.856549",
+        "client_msg_id": "eb9eb83b-cccb-4687-8498-63df1c95afbf",
+        "text": "<!subteam^S06HNNE4YQ0|@team> HI EVERYONE, REDI JUST OFFICIALLY LAUNCHED!!!!!:ahh::party-blob::party-blob:\nwe just publicly launched our TestFlight link on Instagram (<https:\/\/testflight.apple.com\/join\/ZswBp5GB|testflight link>) along with a wonderful <https:\/\/www.instagram.com\/p\/DQ7B76HEct2\/|launch video> made by <@U04QBPGRMJQ>. *Send the link to your single friends!!!!* Wanted to give a massive shoutout to the entire <!subteam^S09BCA9CB0F|@incubator-team> - Clément, Juju, Abrar, and Brandon have been working so hard this semester to bring this product to life and it's amazing to see everyone's hard work come together. Big thank you to everyone who's been giving feedback and testing the app over the past week or so (please continue to do so:pray:). Thanks everyone, so excited!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "b8092d903bb6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-13\/9354576481956_b8092d903bb668f54f7e_72.png",
+            "first_name": "Arsh",
+            "real_name": "Arsh Aggarwal",
+            "display_name": "Arsh Aggarwal",
+            "team": "T0P9KU8UD",
+            "name": "aa2724",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762878325.856549",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1762878812.487119",
+        "reply_users": [
+            "U0806411Z5X",
+            "U0806A1C509",
+            "U06K2UUMU4E",
+            "U05S9CMLGJ2"
+        ],
+        "replies": [
+            {
+                "user": "U0806411Z5X",
+                "ts": "1762878636.668959"
+            },
+            {
+                "user": "U0806411Z5X",
+                "ts": "1762878709.323469"
+            },
+            {
+                "user": "U0806A1C509",
+                "ts": "1762878736.633049"
+            },
+            {
+                "user": "U06K2UUMU4E",
+                "ts": "1762878761.884629"
+            },
+            {
+                "user": "U05S9CMLGJ2",
+                "ts": "1762878812.487119"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "image_url": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/30\/4f\/5a\/304f5a44-deb8-38ed-9b0b-e4b6215d4fd8\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\/1920x1080bb-80.png",
+                "image_width": 1024,
+                "image_height": 1024,
+                "image_bytes": 650240,
+                "from_url": "https:\/\/testflight.apple.com\/join\/ZswBp5GB",
+                "service_icon": "https:\/\/is1-ssl.mzstatic.com\/image\/thumb\/Purple221\/v4\/30\/4f\/5a\/304f5a44-deb8-38ed-9b0b-e4b6215d4fd8\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\/1920x1080bb-80.png",
+                "id": 1,
+                "original_url": "https:\/\/testflight.apple.com\/join\/ZswBp5GB",
+                "fallback": "Join the redi (c13f60) beta",
+                "text": "Available on iOS",
+                "title": "Join the redi (c13f60) beta",
+                "title_link": "https:\/\/testflight.apple.com\/join\/ZswBp5GB",
+                "service_name": "testflight.apple.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNI1c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " HI EVERYONE, REDI JUST OFFICIALLY LAUNCHED!!!!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ahh"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party-blob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party-blob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nwe just publicly launched our TestFlight link on Instagram ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/testflight.apple.com\/join\/ZswBp5GB",
+                                "text": "testflight link"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") along with a wonderful "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.instagram.com\/p\/DQ7B76HEct2\/",
+                                "text": "launch video"
+                            },
+                            {
+                                "type": "text",
+                                "text": " made by "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QBPGRMJQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Send the link to your single friends!!!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Wanted to give a massive shoutout to the entire "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S09BCA9CB0F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - Clément, Juju, Abrar, and Brandon have been working so hard this semester to bring this product to life and it's amazing to see everyone's hard work come together. Big thank you to everyone who's been giving feedback and testing the app over the past week or so (please continue to do so"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Thanks everyone, so excited!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U09G91U4B9U",
+                    "U05S9CMLGJ2",
+                    "U07VA4CRCP6",
+                    "U08E50PFWCA",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U08E3UP45GT",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U06KBGE3LGK",
+                    "U05SG21SYLA",
+                    "U080M7935R6",
+                    "U07NBCRD412",
+                    "U08E3UNQDTM",
+                    "U06K2TZALJ2",
+                    "U08EGG957CZ",
+                    "U05T51X984Q",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U07N9C3QA9Y",
+                    "U07NA7PB0UV",
+                    "U09RT6T5Z7E",
+                    "U09G4JUFELT",
+                    "U08E174EJ13",
+                    "U080G5L9MTJ",
+                    "U08EHA604AV",
+                    "U09G77B9NP7",
+                    "U080G6QDZT2",
+                    "U04Q99S0NM8",
+                    "U06K9UTM34J",
+                    "U06K85AFP8D",
+                    "U08DPBMKHPZ",
+                    "U06KAR47ZR9",
+                    "U04QZ0Q62JC",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 38
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U05S9CMLGJ2",
+                    "U07VA4CRCP6",
+                    "U08E50PFWCA",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U06KBGE3LGK",
+                    "U05SG21SYLA",
+                    "U07NBCRD412",
+                    "U08E3UNQDTM",
+                    "U08EGG957CZ",
+                    "U05T51X984Q",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U07N9C3QA9Y",
+                    "U07NA7PB0UV",
+                    "U08E7NL3V1S",
+                    "U08E174EJ13",
+                    "U080G5L9MTJ",
+                    "U09RMJGP3C6",
+                    "U09G77B9NP7",
+                    "U080G6QDZT2",
+                    "U04Q99S0NM8",
+                    "U06K85AFP8D",
+                    "U06KC4X5TD2",
+                    "U06KAR47ZR9",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 30
+            },
+            {
+                "name": "red_siren",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U05S9CMLGJ2",
+                    "U07VA4CRCP6",
+                    "U08E50PFWCA",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U06KBGE3LGK",
+                    "U05SG21SYLA",
+                    "U07NBCRD412",
+                    "U08E3UNQDTM",
+                    "U08EGG957CZ",
+                    "U05T51X984Q",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U07N9C3QA9Y",
+                    "U07NA7PB0UV",
+                    "U08E174EJ13",
+                    "U080G5L9MTJ",
+                    "U08EHA604AV",
+                    "U09G77B9NP7",
+                    "U080G6QDZT2",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 27
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U07VA4CRCP6",
+                    "U08E50PFWCA",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U06KBGE3LGK",
+                    "U05S9CMLGJ2",
+                    "U05SG21SYLA",
+                    "U07NBCRD412",
+                    "U08EGG957CZ",
+                    "U05T51X984Q",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U07N9C3QA9Y",
+                    "U09G77B9NP7",
+                    "U080G6QDZT2",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 22
+            },
+            {
+                "name": "party_parrot",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U07VA4CRCP6",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U05S9CMLGJ2",
+                    "U07NBCRD412",
+                    "U08EGG957CZ",
+                    "U061S4J2DSP",
+                    "U07N9C3QA9Y",
+                    "U09G77B9NP7",
+                    "U080G6QDZT2",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 17
+            },
+            {
+                "name": "two_hearts",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U07VA4CRCP6",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U05S9CMLGJ2",
+                    "U07NBCRD412",
+                    "U08EGG957CZ",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U09G77B9NP7",
+                    "U080G6QDZT2",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 17
+            },
+            {
+                "name": "goat",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U07VA4CRCP6",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U06KBGE3LGK",
+                    "U07NBCRD412",
+                    "U08EGG957CZ",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U07N9C3QA9Y",
+                    "U09G77B9NP7",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 17
+            },
+            {
+                "name": "star-struck",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U07VA4CRCP6",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U05S9CMLGJ2",
+                    "U07NBCRD412",
+                    "U08EGG957CZ",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U09G77B9NP7",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 16
+            },
+            {
+                "name": "rocket",
+                "users": [
+                    "U05S9CMLGJ2",
+                    "U07VA4CRCP6",
+                    "U06K9FXP18B",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U08EGG957CZ",
+                    "U07P3MX5X8Q",
+                    "U061S4J2DSP",
+                    "U09G77B9NP7",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U06KNF03QKB",
+                    "U06K9HD998T"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1762878636.668959",
+        "client_msg_id": "6B1B61D8-26B1-434D-B722-08B142527588",
+        "text": " Let us know if you find any critical bugs!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762878325.856549",
+        "parent_user_id": "U07VA4CRCP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PVeN\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " Let us know if you find any critical bugs!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1762878709.323469",
+        "client_msg_id": "0A6AEC4F-8EA5-411F-9C50-2DDFAF8BA5D3",
+        "text": "And try creating a new account pls to see if onboarding works :)",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762878325.856549",
+        "parent_user_id": "U07VA4CRCP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3R5g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And try creating a new account pls to see "
+                            },
+                            {
+                                "type": "text",
+                                "text": "if "
+                            },
+                            {
+                                "type": "text",
+                                "text": "onboarding works :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0806A1C509",
+        "type": "message",
+        "ts": "1762878736.633049",
+        "client_msg_id": "96773D33-6B5F-4022-A8F8-B2B21534B115",
+        "text": "YES EVERYONE CREATE AN ACCOUNT PLZ:pray::pray::pray: and make it a real account with cute pics plz and thx",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1d350926bd0b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-10\/7993485640999_1d350926bd0b4b1b7ef1_72.png",
+            "first_name": "Juliet",
+            "real_name": "Juliet Crane",
+            "display_name": "Juju Crane",
+            "team": "T0P9KU8UD",
+            "name": "jlc565",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762878325.856549",
+        "parent_user_id": "U07VA4CRCP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMCuM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YES EVERYONE CREATE AN ACCOUNT PLZ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and make it a real account with cute pics plz and thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K2UUMU4E",
+        "type": "message",
+        "ts": "1762878761.884629",
+        "client_msg_id": "4ebdd287-a091-4c3d-b95d-42956941ec41",
+        "text": "congrats redi team!!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1da9fd8bc97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Yap",
+            "display_name": "Megan Yap",
+            "team": "T0P9KU8UD",
+            "name": "may52",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762878325.856549",
+        "parent_user_id": "U07VA4CRCP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9xFd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "congrats redi team!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05S9CMLGJ2",
+        "type": "message",
+        "ts": "1762878812.487119",
+        "client_msg_id": "0734EC41-EFD5-434D-89F5-D1672C1E66E0",
+        "text": "yesss ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "fe75417d9a6b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-13\/6958615313075_fe75417d9a6b10a79775_72.png",
+            "first_name": "Vicky",
+            "real_name": "Vicky Wang",
+            "display_name": "Vicky Wang",
+            "team": "T0P9KU8UD",
+            "name": "vw92",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762878325.856549",
+        "parent_user_id": "U07VA4CRCP6",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u16q0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yesss "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

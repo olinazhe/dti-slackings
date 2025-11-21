@@ -1,0 +1,922 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1757208687.468679",
+        "edited": {
+            "user": "U06K2TZALJ2",
+            "ts": "1757208721.000000"
+        },
+        "client_msg_id": "f937b39a-af26-4b47-bca9-e4f846f4343f",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Hope everyone's having a great Saturday night! Leads team has been hard at work reviewing *138* applications, and we now need YOU :index_pointing_at_the_viewer: to sign up for behavioral interviews :tada: We will be using interview scheduler (SHOUT OUT IDOL!!! :goat:) , so please sign up. It would be amazing to get full coverage of all the time slots we've opened so you can get to know applicants on a deeper level. Sign up <https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324|here> WOOHOO. As a reminder, each interview will be worth 0.5 TEC",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757208687.468679",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1757212832.616719",
+        "reply_users": [
+            "U06K2TZALJ2",
+            "U04Q99S2Y3C",
+            "U0806411Z5X",
+            "U06KNF03QKB"
+        ],
+        "replies": [
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1757208713.048779"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1757208739.557139"
+            },
+            {
+                "user": "U0806411Z5X",
+                "ts": "1757208963.081879"
+            },
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1757208971.152229"
+            },
+            {
+                "user": "U06KNF03QKB",
+                "ts": "1757211527.784419"
+            },
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1757212832.616719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                "id": 1,
+                "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                "fallback": "Cornell DTI IDOL",
+                "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                "title": "Cornell DTI IDOL",
+                "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                "service_name": "idol.cornelldti.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWiyq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hope everyone's having a great Saturday night! Leads team has been hard at work reviewing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "138 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "applications, and we now need YOU "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "index_pointing_at_the_viewer",
+                                "unicode": "1faf5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to sign up for behavioral interviews "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We will be using interview scheduler (SHOUT OUT IDOL!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "goat",
+                                "unicode": "1f410"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") , so please sign up. It would be amazing to get full coverage of all the time slots we've opened so you can get to know applicants on a deeper level. Sign up "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " WOOHOO. As a reminder, each interview will be worth 0.5 TEC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "goat",
+                "users": [
+                    "U06K2UUMU4E",
+                    "U0806411Z5X",
+                    "U05SG21SYLA",
+                    "U04Q99S2Y3C",
+                    "U06KBGE3LGK",
+                    "U07NBB600PN",
+                    "U08E3UQFVDH",
+                    "U08E7NL3V1S",
+                    "U07NA7PB0UV",
+                    "U07NBCRD412",
+                    "U07NB1DPCBC",
+                    "U06KNF03QKB",
+                    "U0806A1C509",
+                    "U04Q99S0NM8",
+                    "U08E16YNJ5B",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM",
+                    "U08E3US1RSP"
+                ],
+                "count": 18
+            },
+            {
+                "name": "partying_face",
+                "users": [
+                    "U0806411Z5X",
+                    "U06K2UUMU4E",
+                    "U05SG21SYLA",
+                    "U04Q99S2Y3C",
+                    "U06KBGE3LGK",
+                    "U08E7NL3V1S",
+                    "U07NA7PB0UV",
+                    "U07NB1DPCBC",
+                    "U06KNF03QKB",
+                    "U0806A1C509",
+                    "U04Q99S0NM8",
+                    "U08E50PFWCA",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM"
+                ],
+                "count": 14
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06K2UUMU4E",
+                    "U05SG21SYLA",
+                    "U06KBGE3LGK",
+                    "U08E7NL3V1S",
+                    "U0806411Z5X",
+                    "U07NA7PB0UV",
+                    "U07NB1DPCBC",
+                    "U06KNF03QKB",
+                    "U0806A1C509",
+                    "U04Q99S0NM8",
+                    "U06KC4X5TD2",
+                    "U08E3UNQDTM"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1757208721.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Hope everyone's having a great Saturday night! Leads team has been hard at work reviewing *138* applications, and we now need YOU :index_pointing_at_the_viewer: to sign up for behavioral interviews :tada: We will be using interview scheduler (SHOUT OUT IDOL!!! :goat:) , so please sign up. It would be amazing to get full coverage of all the time slots we've opened so you can get to know applicants on a deeper level. Sign up <https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324|here> WOOHOO. As a reminder, each interview will be worth 0.5 TEC",
+        "subtype": "message_changed",
+        "thread_ts": "1757208687.468679",
+        "editor_id": "U06K2TZALJ2",
+        "attachments": [
+            {
+                "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                "id": 1,
+                "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                "fallback": "Cornell DTI IDOL",
+                "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                "title": "Cornell DTI IDOL",
+                "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                "service_name": "idol.cornelldti.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mWiyq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hope everyone's having a great Saturday night! Leads team has been hard at work reviewing "
+                            },
+                            {
+                                "type": "text",
+                                "text": "138 ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "applications, and we now need YOU "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "index_pointing_at_the_viewer",
+                                "unicode": "1faf5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to sign up for behavioral interviews "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": " We will be using interview scheduler (SHOUT OUT IDOL!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "goat",
+                                "unicode": "1f410"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") , so please sign up. It would be amazing to get full coverage of all the time slots we've opened so you can get to know applicants on a deeper level. Sign up "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " WOOHOO. As a reminder, each interview will be worth 0.5 TEC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1757208687.468679",
+            "client_msg_id": "f937b39a-af26-4b47-bca9-e4f846f4343f",
+            "text": "<!subteam^S06HNNE4YQ0> Hope everyone's having a great Saturday night! Leads team has been hard at work reviewing 138 applications, and we now need YOU :index_pointing_at_the_viewer: to sign up for behavioral interviews :tada: We will be using interview scheduler (SHOUT OUT IDOL!!! :goat:) , so please sign up. It would be amazing to get full coverage of all the time slots we've opened so you can get to know applicants on a deeper level. Sign up <https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324|here> WOOHOO. As a reminder, each interview will be worth 0.5 TEC",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "94af320882f8",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+                "first_name": "Andrew",
+                "real_name": "Andrew Qian",
+                "display_name": "Andrew Qian",
+                "team": "T0P9KU8UD",
+                "name": "ajq22",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1757208687.468679",
+            "reply_count": 6,
+            "reply_users_count": 4,
+            "latest_reply": "1757212832.616719",
+            "reply_users": [
+                "U06K2TZALJ2",
+                "U04Q99S2Y3C",
+                "U0806411Z5X",
+                "U06KNF03QKB"
+            ],
+            "replies": [
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1757208713.048779"
+                },
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1757208739.557139"
+                },
+                {
+                    "user": "U0806411Z5X",
+                    "ts": "1757208963.081879"
+                },
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1757208971.152229"
+                },
+                {
+                    "user": "U06KNF03QKB",
+                    "ts": "1757211527.784419"
+                },
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1757212832.616719"
+                }
+            ],
+            "is_locked": false,
+            "attachments": [
+                {
+                    "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                    "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                    "id": 1,
+                    "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                    "fallback": "Cornell DTI IDOL",
+                    "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                    "title": "Cornell DTI IDOL",
+                    "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                    "service_name": "idol.cornelldti.org"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "rC9Dk",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Hope everyone's having a great Saturday night! Leads team has been hard at work reviewing 138 applications, and we now need YOU "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "index_pointing_at_the_viewer",
+                                    "unicode": "1faf5"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to sign up for behavioral interviews "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "tada",
+                                    "unicode": "1f389"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " We will be using interview scheduler (SHOUT OUT IDOL!!! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "goat",
+                                    "unicode": "1f410"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ") , so please sign up. It would be amazing to get full coverage of all the time slots we've opened so you can get to know applicants on a deeper level. Sign up "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/fbe50a7f-ac72-477a-82ba-985e3637d324",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " WOOHOO. As a reminder, each interview will be worth 0.5 TEC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2TZALJ2"
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1757208713.048779",
+        "edited": {
+            "user": "U06K2TZALJ2",
+            "ts": "1757208753.000000"
+        },
+        "client_msg_id": "929c1489-ec4e-4d1b-aa54-13198d7eeaec",
+        "text": "Thread any questions you have here or DM me and Valerie. Also note any challenges you have with interview scheduler! Due to the difficulty of getting rooms, we will be in Collegetown EHub for a lot of these interviews, but we will have someone around to help you get in if necessary",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757208687.468679",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4QY7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thread any questions you have here or DM me and Valerie. Also note any challenges you have with interview scheduler! Due to the difficulty of getting rooms, we will be in Collegetown EHub for a lot of these interviews, but we will have someone around to help you get in if necessary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1757208753.000000",
+        "text": "Thread any questions you have here or DM me and Valerie. Also note any challenges you have with interview scheduler! Due to the difficulty of getting rooms, we will be in Collegetown EHub for a lot of these interviews, but we will have someone around to help you get in if necessary",
+        "subtype": "message_changed",
+        "thread_ts": "1757208687.468679",
+        "editor_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4QY7L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thread any questions you have here or DM me and Valerie. Also note any challenges you have with interview scheduler! Due to the difficulty of getting rooms, we will be in Collegetown EHub for a lot of these interviews, but we will have someone around to help you get in if necessary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1757208713.048779",
+            "client_msg_id": "929c1489-ec4e-4d1b-aa54-13198d7eeaec",
+            "text": "Thread any questions you have here or DM me and Valerie. Also note any challenges you have with interview scheduler!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "94af320882f8",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+                "first_name": "Andrew",
+                "real_name": "Andrew Qian",
+                "display_name": "Andrew Qian",
+                "team": "T0P9KU8UD",
+                "name": "ajq22",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1757208687.468679",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "K13VC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Thread any questions you have here or DM me and Valerie. Also note any challenges you have with interview scheduler!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2TZALJ2"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1757208739.557139",
+        "client_msg_id": "3015A38C-2583-4DE7-A432-6A7DB377DFB8",
+        "text": "and tag chris\/oscar!^",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757208687.468679",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICDeS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and tag chris\/oscar!^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1757208963.081879",
+        "client_msg_id": "bbc99131-6c9b-4ea4-b646-12e72e0be3c1",
+        "text": "if we dont have access to ehub will someone let us in",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757208687.468679",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5R9fN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if we dont have access to ehub will someone let us in"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1757208971.152229",
+        "client_msg_id": "b5569f68-ae77-47db-b799-cf155d7f72f3",
+        "text": "yes",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757208687.468679",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IB8ze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0806411Z5X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06KNF03QKB",
+        "type": "message",
+        "ts": "1757211527.784419",
+        "edited": {
+            "user": "U06KNF03QKB",
+            "ts": "1757211536.000000"
+        },
+        "client_msg_id": "9edecf7a-2c32-43e5-8eff-77356c808252",
+        "text": "Please ignore the note on the scheduler. That is intended for applicants.",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "8b09b75df572",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-12\/9370627818800_8b09b75df572a91f841d_72.png",
+            "first_name": "Chris",
+            "real_name": "Chris Chen",
+            "display_name": "Chris Chen",
+            "team": "T0P9KU8UD",
+            "name": "cc2785",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1757208687.468679",
+        "parent_user_id": "U06K2TZALJ2",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPuhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please ignore the note on the scheduler. That is intended for applicants."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06KNF03QKB",
+        "upload": false,
+        "ts": "1757211536.000000",
+        "text": "Please ignore the note on the scheduler. That is intended for applicants.",
+        "subtype": "message_changed",
+        "thread_ts": "1757208687.468679",
+        "editor_id": "U06KNF03QKB",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OPuhp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please ignore the note on the scheduler. That is intended for applicants."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KNF03QKB",
+            "type": "message",
+            "ts": "1757211527.784419",
+            "client_msg_id": "9edecf7a-2c32-43e5-8eff-77356c808252",
+            "text": "Please ignore the note on the scheduler, that is intended for applicants.",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "8b09b75df572",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-12\/9370627818800_8b09b75df572a91f841d_72.png",
+                "first_name": "Chris",
+                "real_name": "Chris Chen",
+                "display_name": "Chris Chen",
+                "team": "T0P9KU8UD",
+                "name": "cc2785",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1757208687.468679",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ByczD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Please ignore the note on the scheduler, that is intended for applicants."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KNF03QKB"
+    },
+    {
+        "text": "<@U07N27S0N06> using interview schedule while out!!",
+        "files": [
+            {
+                "id": "F09DGKFA007",
+                "created": 1757212810,
+                "timestamp": 1757212810,
+                "name": "IMG_7141.jpg",
+                "title": "IMG_7141",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U06K2TZALJ2",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 688850,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09DGKFA007\/img_7141.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09DGKFA007\/download\/img_7141.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_64.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_80.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_360.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_480.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_160.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_720.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_800.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_960.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09DGKFA007-b1275744f7\/img_7141_1024.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSCCAH5x0HSmXUeMMPxq5FzbLsA6flUVwoMO5vQ\/nU9S7aGfRS0DrzVECUU\/KdwaXMfoaBlq1uFRNu7H1ouWQxH5sk+lUj+lSAHy\/m6dqVh3I8ZqRIJHztRuParywxLFwAcDJYCmyXaxKEiX5sck9v8aYjPopWYsxZuSeTSUCLbgcgqU45JX\/CoSyiPap6n8qsM+agWPLEt0qUUx6PthUNyOwqBzuct0pzvub27U2mIbijFLxRxTEf\/2Q==",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09DGKFA007\/img_7141.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09DGKFA007-018b31077b",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U06K2TZALJ2",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHd2k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U07N27S0N06"
+                            },
+                            {
+                                "type": "text",
+                                "text": " using interview schedule while out!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1757212832.616719",
+        "client_msg_id": "E38F1895-6C60-4DA3-902D-DFAFE0269798",
+        "thread_ts": "1757208687.468679",
+        "parent_user_id": "U06K2TZALJ2",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U07NBB600PN",
+                    "U0806411Z5X",
+                    "U07NBQUN71Q",
+                    "U07N64DPTEH",
+                    "U06K2UUMU4E",
+                    "U0806A1C509",
+                    "U07NBCRD412",
+                    "U05S1FQNUJ3",
+                    "U080G6QDZT2",
+                    "U06KBGE3LGK",
+                    "U08E50PFWCA",
+                    "U04Q99S0NM8",
+                    "U05SG21SYLA",
+                    "U06KYCA6K5E",
+                    "U02KZ6SLD18",
+                    "U06KYFYLL5N",
+                    "U06KNF03QKB",
+                    "U07P3MX5X8Q"
+                ],
+                "count": 18
+            },
+            {
+                "name": "goat",
+                "users": [
+                    "U07NBB600PN",
+                    "U0806A1C509",
+                    "U06KAR47ZR9",
+                    "U04Q99S0NM8",
+                    "U06KYCA6K5E"
+                ],
+                "count": 5
+            },
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U0806411Z5X",
+                    "U0806A1C509"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U05S1FQNUJ3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

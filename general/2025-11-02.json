@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1762119552.402099",
+        "client_msg_id": "6c990188-41fc-49b5-8ed6-dd78bc2c87c9",
+        "text": "<!subteam^S06HNNE4YQ0|@team> reminder that above ^ leads, internal transfer, and PM transfer applications are due tonight at 11:59. reach out to me and Valerie if you have any questions or concerns",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lzb35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " reminder that above ^ leads, internal transfer, and PM transfer applications are due tonight at 11:59. reach out to me and Valerie if you have any questions or concerns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

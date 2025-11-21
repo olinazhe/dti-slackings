@@ -1,0 +1,183 @@
+[
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1758815824.000000",
+        "text": "meet the dtiers is today!! roll upson 116 from 6-7, dm me if you have cards\/games you can bring!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9uno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "meet the dtiers is today!! roll upson 116 from 6-7, dm me if you have cards\/games you can bring!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1758807184.316469",
+            "client_msg_id": "A54AF30A-F41F-49CE-BA7C-500BFBD7FACB",
+            "text": "meet the dtiers is today!! roll upson 116, dm me if you have cards\/games you can bring!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "B5e9n",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "meet the dtiers is today!! roll upson 116, dm me if you have cards\/games you can bring!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04Q99S2Y3C"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1758807184.316469",
+        "edited": {
+            "user": "U04Q99S2Y3C",
+            "ts": "1758815824.000000"
+        },
+        "client_msg_id": "A54AF30A-F41F-49CE-BA7C-500BFBD7FACB",
+        "text": "meet the dtiers is today!! roll upson 116 from 6-7, dm me if you have cards\/games you can bring!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+9uno",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "meet the dtiers is today!! roll upson 116 from 6-7, dm me if you have cards\/games you can bring!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1758827665.463769",
+        "client_msg_id": "959ec1c5-6bde-461a-b351-8d1f653e7775",
+        "text": "ALSO: The *add deadline for ENGRG 3400 is TOMORROW Friday, Sept. 26!* Petitions for late adds *will not be approved* except in truly extenuating circumstances, reach out to <!subteam^S03RJ149DTN|@ops-leadz> with any questions :slightly_smiling_face:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3aOz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ALSO: The "
+                            },
+                            {
+                                "type": "text",
+                                "text": "add deadline for ENGRG 3400 is TOMORROW Friday, Sept. 26!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Petitions for late adds "
+                            },
+                            {
+                                "type": "text",
+                                "text": "will not be approved",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " except in truly extenuating circumstances, reach out to "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S03RJ149DTN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with any questions "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

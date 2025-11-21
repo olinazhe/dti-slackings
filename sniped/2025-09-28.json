@@ -1,0 +1,535 @@
+[
+    {
+        "text": "Hi <@U08E3UQ7BGB> !! :yay-frog: ",
+        "files": [
+            {
+                "id": "F09HG6LC961",
+                "created": 1759084668,
+                "timestamp": 1759084668,
+                "name": "IMG_5741.jpg",
+                "title": "IMG_5741",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0806411Z5X",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 1105096,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09HG6LC961\/img_5741.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09HG6LC961\/download\/img_5741.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_64.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_80.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_360.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_480.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_160.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_720.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_800.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_960.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09HG6LC961-c728ba16b9\/img_5741_1024.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS30oqMMNpzgjoaeMc4oAGOBgdTwKaxwMcZ7UbhnJ+majuH2oCDkNwKVwK8spLnHQcU3e1MwSeCPxo2t6r+RpiL1w22N8Bd2MVDBIViIJ+bJ5NG7fH8xB5zn8qbLlxlcH+dAy5HnYuSCcdqp3Em9yR9BUsiiOFSWO4jp7+9Vc9T2FAhC6pwc0nnJ6Gq7MWYk0lAy6qHeFQduxqddkR77mOMMMZ\/pTdrpyvrnmoWDPMGYYAFAiW4k3vx24FVZzgBalJ6sTwKqsdzE+tAxKKKKAP\/2Q==",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09HG6LC961\/img_5741.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09HG6LC961-7619b3f20e",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0806411Z5X",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Zcb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08E3UQ7BGB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " !! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "yay-frog"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759084692.103499",
+        "client_msg_id": "E15AF560-3828-4D5F-9F97-DE550AA9D378",
+        "thread_ts": "1759084692.103499",
+        "reply_count": 8,
+        "reply_users_count": 4,
+        "latest_reply": "1759096987.247499",
+        "reply_users": [
+            "U08E3UQ7BGB",
+            "U0806411Z5X",
+            "U04Q99S2Y3C",
+            "U05S1FQNUJ3"
+        ],
+        "replies": [
+            {
+                "user": "U08E3UQ7BGB",
+                "ts": "1759084843.853199"
+            },
+            {
+                "user": "U08E3UQ7BGB",
+                "ts": "1759084855.264749"
+            },
+            {
+                "user": "U0806411Z5X",
+                "ts": "1759084878.036059"
+            },
+            {
+                "user": "U0806411Z5X",
+                "ts": "1759084886.487159"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1759086544.360159"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1759086545.453719"
+            },
+            {
+                "user": "U05S1FQNUJ3",
+                "ts": "1759094249.839149"
+            },
+            {
+                "user": "U08E3UQ7BGB",
+                "ts": "1759096987.247499"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "user": "U08E3UQ7BGB",
+        "type": "message",
+        "ts": "1759084843.853199",
+        "client_msg_id": "92E1E3CE-45B0-4CBB-9A40-2B6CD6FFFE5D",
+        "text": "wth :sob::sob::sob:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "178684e00e49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-12\/9509023530021_178684e00e49b586f6cc_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Koppe",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "bek76",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mn9gW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wth "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08E3UQ7BGB",
+        "type": "message",
+        "ts": "1759084855.264749",
+        "client_msg_id": "88134F74-8D53-43FD-A2B2-BF58CC2752F4",
+        "text": "app dev team lead spotted :bangbang:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "178684e00e49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-12\/9509023530021_178684e00e49b586f6cc_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Koppe",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "bek76",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HVPNd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "app dev team lead spotted "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1759084878.036059",
+        "client_msg_id": "1274C75A-5C40-4BE9-A0A7-E1A19BE70182",
+        "text": "Omggg",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t7Bz8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Omggg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0806411Z5X",
+        "type": "message",
+        "ts": "1759084886.487159",
+        "client_msg_id": "63C698C3-B7C4-48FE-9B61-E972C78DA563",
+        "text": ":appdev: :appdev: :appdev: :appdev: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "f246256da654",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-12-01\/8106482806130_f246256da6546a454c8e_72.jpg",
+            "first_name": "Clément",
+            "real_name": "Clément Rozé",
+            "display_name": "Clément Rozé",
+            "team": "T0P9KU8UD",
+            "name": "cpr58",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YQeaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "appdev"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "appdev"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "appdev"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "appdev"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1759086544.360159",
+        "client_msg_id": "aef7531e-5a9f-4c80-82d4-45a90910c2d3",
+        "text": "guys lol lets be civil towards appdev",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksGHh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "guys lol lets be civil towards appdev"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U05S1FQNUJ3",
+                    "U08E3UQ7BGB",
+                    "U04Q6BMSJER",
+                    "U080G6QDZT2"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1759086545.453719",
+        "client_msg_id": "b95eed7d-9a0a-4603-a7a3-05519babef95",
+        "text": "please",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X08eO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U05S1FQNUJ3",
+        "type": "message",
+        "ts": "1759094249.839149",
+        "client_msg_id": "0CCB12AC-17F3-4035-9CBD-B846E02EAE7E",
+        "text": "maybe no vomit emoji pls…that’s literally my bsf",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "2d718b620391",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-02\/7985699708113_2d718b620391fe4abb7b_72.png",
+            "first_name": "Ella",
+            "real_name": "Ella Krechmer",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "egk46",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQ6oN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe no vomit emoji pls"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "that’s literally my bsf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08E3UQ7BGB",
+        "type": "message",
+        "ts": "1759096987.247499",
+        "client_msg_id": "DD3A01A3-BEF2-4FB5-A83F-63E9E6B27F7D",
+        "text": "we love app dev guys",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "178684e00e49",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-12\/9509023530021_178684e00e49b586f6cc_72.png",
+            "first_name": "Ben",
+            "real_name": "Ben Koppe",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "bek76",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759084692.103499",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ICwxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we love app dev guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1758474100.000000",
+        "text": "<!channel> a reminder that semester learning goals for 3400 are due by EOD today! all late assignments receive a 0, so please be on time :) for those who are unable to access the assignment please dm me!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qf1vF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a reminder that semester learning goals "
+                            },
+                            {
+                                "type": "text",
+                                "text": "for 3400 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "are due by EOD today! all late assignments receive a 0, so please be on time :) for those who are unable to access the assignment please dm me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1758474092.027389",
+            "client_msg_id": "0FDD92B0-C839-4AB7-8CB8-3FB62CD0DBE4",
+            "text": "<!channel> a reminder that semester learning goals are due by EOD today! all late assignments receive a 0, so please be on time :) for those who are unable to access the assignment please dm me!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "82wS1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " a reminder that semester learning goals are due by EOD today! all late assignments receive a 0, so please be on time :) for those who are unable"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to access the assignment please dm me!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04Q99S2Y3C"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1758474092.027389",
+        "edited": {
+            "user": "U04Q99S2Y3C",
+            "ts": "1758474100.000000"
+        },
+        "client_msg_id": "0FDD92B0-C839-4AB7-8CB8-3FB62CD0DBE4",
+        "text": "<!channel> a reminder that semester learning goals for 3400 are due by EOD today! all late assignments receive a 0, so please be on time :) for those who are unable to access the assignment please dm me!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qf1vF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a reminder that semester learning goals "
+                            },
+                            {
+                                "type": "text",
+                                "text": "for 3400 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "are due by EOD today! all late assignments receive a 0, so please be on time :) for those who are unable to access the assignment please dm me!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06K9HD998T",
+                    "U06KBGE3LGK",
+                    "U06K2UUMU4E",
+                    "U08E3US1RSP",
+                    "U06KC4X5TD2"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,575 @@
+[
+    {
+        "text": "<@U08E174EJ13> ",
+        "files": [
+            {
+                "id": "F09LVQDB5PT",
+                "created": 1760467645,
+                "timestamp": 1760467645,
+                "name": "IMG_7779.jpg",
+                "title": "IMG_7779",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0800DE2GPN",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 1049949,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09LVQDB5PT\/img_7779.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09LVQDB5PT\/download\/img_7779.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_64.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_80.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_360.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_480.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_160.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_720.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_800.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_960.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09LVQDB5PT-6a8b64831b\/img_7779_1024.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSfLe1KAcc4z7VEtzGzEdgM5py3CMWC847jnipHYljAyc9KX5drEEHjtVaRnkhceWRlQf8AOcfpUNqXJKhii4OS3QGncVieaRI329SBzUfnr6H9KR4VLf65ePRf8Kb5K\/8APYf98mi4WEto\/LP7\/ZtH8Lcn8qtfaEUBY04HpwKriI9TxT1VR\/8AXqbXKvYeZZX6YA9qb5ZPLMSaeDRmnYLiAAdAPyo49B+VRNcopxyfoKT7Un91vyFMQ4sMfSkDZqLPekeYIPU+lMRY3hRljgVWkmaQ4XIX+dRF2kILGpFWkMQLxzS7RUgHFGKAP\/\/Z",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09LVQDB5PT\/img_7779.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09LVQDB5PT-ea4ef2eeba",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0800DE2GPN",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mUWqv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08E174EJ13"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1760467653.675869",
+        "client_msg_id": "03337920-F3DF-4A29-B7D0-3DD6B209CBBE",
+        "thread_ts": "1760467653.675869",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1760471508.169449",
+        "reply_users": [
+            "U08E174EJ13",
+            "U04Q99S2Y3C",
+            "U0800DE2GPN"
+        ],
+        "replies": [
+            {
+                "user": "U08E174EJ13",
+                "ts": "1760467950.615409"
+            },
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1760468017.013859"
+            },
+            {
+                "user": "U0800DE2GPN",
+                "ts": "1760471508.169449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U08E174EJ13",
+                    "U0806411Z5X",
+                    "U07NB1DPCBC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U08E174EJ13",
+        "type": "message",
+        "ts": "1760467950.615409",
+        "edited": {
+            "user": "U08E174EJ13",
+            "ts": "1760467960.000000"
+        },
+        "client_msg_id": "c55e16f8-dd8e-417e-a899-ab1f50c21755",
+        "text": "so eagle-eyed i’m shocked",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "ae52e12b55cd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-26\/9413377107330_ae52e12b55cd377535d5_72.jpg",
+            "first_name": "Nadia",
+            "real_name": "Nadia Choophungart",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "pc745",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760467653.675869",
+        "parent_user_id": "U0800DE2GPN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHhmc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so eagle-eyed i’m shocked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U08E174EJ13",
+        "upload": false,
+        "ts": "1760467960.000000",
+        "text": "so eagle-eyed i’m shocked",
+        "subtype": "message_changed",
+        "thread_ts": "1760467653.675869",
+        "editor_id": "U08E174EJ13",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHhmc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so eagle-eyed i’m shocked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U08E174EJ13",
+            "type": "message",
+            "ts": "1760467950.615409",
+            "client_msg_id": "c55e16f8-dd8e-417e-a899-ab1f50c21755",
+            "text": "so eagle-eyed",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "ae52e12b55cd",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2025-08-26\/9413377107330_ae52e12b55cd377535d5_72.jpg",
+                "first_name": "Nadia",
+                "real_name": "Nadia Choophungart",
+                "display_name": "",
+                "team": "T0P9KU8UD",
+                "name": "pc745",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1760467653.675869",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Fp62U",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "so eagle-eyed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U08E174EJ13"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1760468017.013859",
+        "client_msg_id": "80b4d002-5ce3-484a-9746-a690fbdee6c1",
+        "text": "and <@U061BLZS1TR>?",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760467653.675869",
+        "parent_user_id": "U0800DE2GPN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e41iK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U061BLZS1TR"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U061BLZS1TR",
+                    "U08E174EJ13"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sad-cowboy",
+                "users": [
+                    "U061BLZS1TR",
+                    "U08E174EJ13"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U0800DE2GPN",
+        "type": "message",
+        "ts": "1760471508.169449",
+        "client_msg_id": "d378b9dd-738a-47b9-b72d-2ff5a1e75c67",
+        "text": "shoot :sob:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "cb17f5f6f106",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-04\/9476434659761_cb17f5f6f1060f9dbfc3_72.jpg",
+            "first_name": "Nigel",
+            "real_name": "Nigel Tatem",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "nt387",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760467653.675869",
+        "parent_user_id": "U0800DE2GPN",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QT8Tw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "shoot "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U04Q99S2Y3C> <@U033PV9G5UN> <@U033G1EB7SB> #represent ",
+        "files": [
+            {
+                "id": "F09MDH4820G",
+                "created": 1760499240,
+                "timestamp": 1760499240,
+                "name": "IMG_6315.jpg",
+                "title": "IMG_6315",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02KZ6SLD18",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 1310106,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MDH4820G\/img_6315.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09MDH4820G\/download\/img_6315.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_64.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_80.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_360.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_480.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_160.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_720.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_800.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_960.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09MDH4820G-b1a00731b0\/img_6315_1024.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCN0BOwjDE8YX3+tNjgEkhRiwwOqjNSOGQLu29O39aIsBw0pHPXP503boNXI1tZNowOSenORUZRwxGVH1YVeaXYOGHPU5\/+v\/SmqzsOUck8AjPX86m4FQpgAvIOeu3JxTd0LAKA24nqAB\/jVkJ8rBkLMeQSOT7f5NNdTEmREijkAnB\/XNAEbM04bC4RedtMDPlMn5e2ehqIMeeTz1qeK1llGcbV9WpgLJIQSFJHO4ZAB\/SkEsgTahPHJwKtiz+XcXG7jB2jApY7VV5IDFl57YPtQA2D5o1eQZPPQAcdMVY3BwynG3oRUWBGSB0Y4BxihQQ3ueSPSkBmxqDMinoWANazHBAHSsqL\/Xx\/7w\/nWpJ98UxDiTSZ5oNJ\/hQAxlDSL2wC\/Hrx\/jUW8vIAeAcZqb\/loP8AcP8ASq6f61fwpDP\/2Q==",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09MDH4820G\/img_6315.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09MDH4820G-6d474a2afd",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U02KZ6SLD18",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5oWnk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U04Q99S2Y3C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U033PV9G5UN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U033G1EB7SB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " #represent "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1760499260.314819",
+        "client_msg_id": "43C1AF27-8749-466B-A811-54651826CFA8",
+        "thread_ts": "1760499260.314819",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1760499463.473059",
+        "reply_users": [
+            "U04Q99S2Y3C"
+        ],
+        "replies": [
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1760499463.473059"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U033G1EB7SB",
+                    "U0806411Z5X",
+                    "U06KNF03QKB",
+                    "U07USUF040P",
+                    "U05S1FQNUJ3",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U06KC1WG86Q",
+                    "U07NB1DPCBC",
+                    "U08E3UP45GT",
+                    "U09G77B9NP7",
+                    "U08EGG957CZ",
+                    "U07NA7PB0UV",
+                    "U06KYCA6K5E",
+                    "U04Q6BMSJER",
+                    "U0806A1C509"
+                ],
+                "count": 16
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1760499463.473059",
+        "client_msg_id": "438D9E22-A0E5-446D-8A16-89A2F8FB2FC3",
+        "text": "three generations of dti hoodies :saluting_face: :saluting_face: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760499260.314819",
+        "parent_user_id": "U02KZ6SLD18",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "saEHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "three generations of dti hoodies "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "older_man",
+                "users": [
+                    "U0806411Z5X",
+                    "U05S1FQNUJ3",
+                    "U06K2UUMU4E",
+                    "U080G6QDZT2"
+                ],
+                "count": 4
+            },
+            {
+                "name": "man",
+                "users": [
+                    "U0806411Z5X",
+                    "U05S1FQNUJ3",
+                    "U06K2UUMU4E"
+                ],
+                "count": 3
+            },
+            {
+                "name": "girl",
+                "users": [
+                    "U0806411Z5X",
+                    "U05S1FQNUJ3",
+                    "U06K2UUMU4E"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,813 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1758156268.372799",
+        "client_msg_id": "46218798-8e0d-40d5-abb9-21b4febb1ba9",
+        "text": "<!subteam^S06HNNE4YQ0|@team> HEYYY TEAM! <@U01BT5GV0AZ> , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI at a town hall style event *this Friday, 3:30-4:30 (*room pending but eng quad *)!!! \n\nPLEASE* SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!! *React*:heart_on_fire: *if* you’re *coming! (*Hahnbee is hiring :eyes: :eyes: :eyes: )",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758156268.372799",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1758296745.953309",
+        "reply_users": [
+            "U04Q99S2Y3C"
+        ],
+        "replies": [
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1758296745.953309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDKsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " HEYYY TEAM! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BT5GV0AZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "at a town hall style event "
+                            },
+                            {
+                                "type": "text",
+                                "text": "this Friday, 3:30-4:30 (",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "room pending but eng quad "
+                            },
+                            {
+                                "type": "text",
+                                "text": ")!!! \n\nPLEASE ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " React",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " coming! (",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hahnbee is hiring "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U061S4J2DSP",
+                    "U080G5L9MTJ",
+                    "U06K2UUMU4E",
+                    "U07NA7PB0UV",
+                    "U06KNF03QKB",
+                    "U08E50PFWCA",
+                    "U07VA4CRCP6",
+                    "U04Q6BMSJER",
+                    "U08E3UNQDTM",
+                    "U04Q99S0NM8",
+                    "U080G6QDZT2",
+                    "U05SG223U7L"
+                ],
+                "count": 13
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1758296740.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> HEYYY TEAM! <@U01BT5GV0AZ> , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI at a town hall style event *this Friday, 3:30-4:30 (*room pending but eng quad *)!!! \n\nPLEASE* SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!! *React*:heart_on_fire: *if* you’re *coming! (*Hahnbee is hiring :eyes: :eyes: :eyes: )",
+        "subtype": "message_changed",
+        "thread_ts": "1758156268.372799",
+        "editor_id": "U00",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDKsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " HEYYY TEAM! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01BT5GV0AZ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "at a town hall style event "
+                            },
+                            {
+                                "type": "text",
+                                "text": "this Friday, 3:30-4:30 (",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "room pending but eng quad "
+                            },
+                            {
+                                "type": "text",
+                                "text": ")!!! \n\nPLEASE ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " React",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_on_fire",
+                                "unicode": "2764-fe0f-200d-1f525"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if ",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "you’re"
+                            },
+                            {
+                                "type": "text",
+                                "text": " coming! (",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hahnbee is hiring "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1758156268.372799",
+            "client_msg_id": "46218798-8e0d-40d5-abb9-21b4febb1ba9",
+            "text": "<!subteam^S06HNNE4YQ0> HEYYY TEAM! <@U01BT5GV0AZ> , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI at a town hall style event *this Friday, 3:30-4:30 (*room pending but eng quad *)!!! \n\nPLEASE* SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!! *React*:heart_on_fire: *if* you’re *coming! (*Hahnbee is hiring :eyes: :eyes: :eyes: )",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1758156268.372799",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1758296745.953309",
+            "reply_users": [
+                "U04Q99S2Y3C"
+            ],
+            "replies": [
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1758296745.953309"
+                }
+            ],
+            "is_locked": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HDKsS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " HEYYY TEAM! "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U01BT5GV0AZ"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " , DTI Alum and co-founder of Mintlify (YC W22) is coming to Cornell and will be speaking with DTI"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " ",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "at a town hall style event "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "this Friday, 3:30-4:30 (",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "room pending but eng quad "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ")!!! \n\nPLEASE ",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "SHOW UP AND SHOW OUT to learn more about Mintlify, startups, and meet our wonderful DTI Alum!!"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " React",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "heart_on_fire",
+                                    "unicode": "2764-fe0f-200d-1f525"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if ",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "you’re"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " coming! (",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hahnbee is hiring "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "eyes",
+                                    "unicode": "1f440"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "eyes",
+                                    "unicode": "1f440"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "eyes",
+                                    "unicode": "1f440"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " )"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1758156473.753999",
+        "edited": {
+            "user": "U04Q99S2Y3C",
+            "ts": "1758156488.000000"
+        },
+        "client_msg_id": "67D45A07-53AC-4761-A7CB-05C1A7C96CA8",
+        "text": "please thread any questions you have for hahnbee here!!! (so i can moderate :relieved: )",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758156473.753999",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1758286388.118869",
+        "reply_users": [
+            "U061S4J2DSP",
+            "U04Q6BMSJER",
+            "U06K2UUMU4E"
+        ],
+        "replies": [
+            {
+                "user": "U061S4J2DSP",
+                "ts": "1758156630.968179"
+            },
+            {
+                "user": "U04Q6BMSJER",
+                "ts": "1758168699.562889"
+            },
+            {
+                "user": "U06K2UUMU4E",
+                "ts": "1758198080.318949"
+            },
+            {
+                "user": "U06K2UUMU4E",
+                "ts": "1758286388.118869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GpdGs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please thread any questions you have for hahnbee here!!!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so i can moderate "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1758156488.000000",
+        "text": "please thread any questions you have for hahnbee here!!! (so i can moderate :relieved: )",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GpdGs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "please thread any questions you have for hahnbee here!!!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so i can moderate "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved",
+                                "unicode": "1f60c"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1758156473.753999",
+            "client_msg_id": "67D45A07-53AC-4761-A7CB-05C1A7C96CA8",
+            "text": "please thread any questions you have for hahnbee here!!!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "\/JWRO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "please thread any questions you have for hahnbee here!!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04Q99S2Y3C"
+    },
+    {
+        "user": "U061S4J2DSP",
+        "type": "message",
+        "ts": "1758156630.968179",
+        "client_msg_id": "62688866-5B12-40FD-8BEE-30755A6C93B2",
+        "text": "if you were a DTIer in college right now again, what would you be working on?",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "7746533ba679",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-07-16\/9224740522097_7746533ba679b554f8c9_72.png",
+            "first_name": "Simon",
+            "real_name": "Simon Ilincev",
+            "display_name": "Simon Ilincev",
+            "team": "T0P9KU8UD",
+            "name": "sci24",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758156473.753999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X\/IDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i"
+                            },
+                            {
+                                "type": "text",
+                                "text": "f you were a DTIer in college right now again, what would you be working on?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1758160561.773559",
+        "client_msg_id": "5d3c35f2-5c12-4b0e-8d66-683f9d873b1f",
+        "text": ":red_siren: and a reminder that *Semester Learning Goals are due this weekend (via Canvas!) Late submissions will not be accepted as we are now pass fail!*",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mnQ6S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "red_siren"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and a reminder that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Semester Learning Goals are due this weekend (via Canvas!) Late submissions will not be accepted as we are now pass fail!",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U06K9HD998T",
+                    "U08E16YNJ5B",
+                    "U07NA7PB0UV",
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U0806A1C509",
+                    "U080G6QDZT2",
+                    "U06K2UUMU4E",
+                    "U08E3UNQDTM",
+                    "U07N9C3QA9Y",
+                    "U08EGG7CKKK",
+                    "U08E174EJ13",
+                    "U04Q99S0NM8",
+                    "U05SG21SYLA",
+                    "U0800DE2GPN",
+                    "U08E7NL3V1S",
+                    "U07NBCRD412"
+                ],
+                "count": 17
+            }
+        ]
+    },
+    {
+        "user": "U04Q6BMSJER",
+        "type": "message",
+        "ts": "1758168699.562889",
+        "client_msg_id": "1fd94144-81ab-4681-99d8-bcac40d90157",
+        "text": "what advice would you give to new grads who want to work in startups \/ aspiring founders?",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "bd2a319d6a4b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-06-09\/9009251517511_bd2a319d6a4bf009d0f5_72.png",
+            "first_name": "Oscar",
+            "real_name": "Oscar Wang",
+            "display_name": "Oscar Wang",
+            "team": "T0P9KU8UD",
+            "name": "ow39",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1758156473.753999",
+        "parent_user_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CL\/bA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what advice would you give to new grads who want to work in startups \/ aspiring founders?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

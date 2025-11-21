@@ -1,0 +1,315 @@
+[
+    {
+        "subtype": "thread_broadcast",
+        "user": "U06K2TZALJ2",
+        "thread_ts": "1758920838.589909",
+        "root": {
+            "user": "U08E7NL3V1S",
+            "type": "message",
+            "ts": "1758920838.589909",
+            "client_msg_id": "9CB4C77B-7B6F-48FC-9862-C55C9DFC90F1",
+            "text": "Hi <!subteam^S06HNNE4YQ0> !! Reminder that tomorrow evening (Saturday 27th, 5-7pm) will be our *Full Team Field Day*!\n\nPlease wear comfortable clothes + if possible, bring a dish to pass!!",
+            "team": "T0P9KU8UD",
+            "thread_ts": "1758920838.589909",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1759005890.507809",
+            "reply_users": [
+                "U080G5L9MTJ",
+                "U08E7NL3V1S",
+                "U06K2TZALJ2"
+            ],
+            "replies": [
+                {
+                    "user": "U080G5L9MTJ",
+                    "ts": "1758922199.856179"
+                },
+                {
+                    "user": "U08E7NL3V1S",
+                    "ts": "1758938463.578549"
+                },
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1759005890.507809"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Adv\/b",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " !! Reminder that tomorrow evening ("
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Saturday"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 27th, 5-7pm) will be our "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Full Team Field Day",
+                                    "style": {
+                                        "bold": true,
+                                        "italic": false
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!\n\nPlease wear comfortable clothes + if possible"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", bring"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " a dish to pass!!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "type": "message",
+        "ts": "1759005890.507809",
+        "client_msg_id": "78C93379-27B2-4202-A11E-5DCB6E5AF7A2",
+        "text": "<!subteam^S06HNNE4YQ0|@team> we are near morrill hall (arts quad closer to uris and olin libraries)",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suIDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are near morrill hall (arts quad closer to uris and olin libraries)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1759005892.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> we are near morrill hall (arts quad closer to uris and olin libraries)",
+        "subtype": "message_changed",
+        "thread_ts": "1758920838.589909",
+        "editor_id": "U00",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "suIDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we are near morrill hall (arts quad closer to uris and olin libraries)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "subtype": "thread_broadcast",
+            "user": "U06K2TZALJ2",
+            "thread_ts": "1758920838.589909",
+            "root": {
+                "user": "U08E7NL3V1S",
+                "type": "message",
+                "ts": "1758920838.589909",
+                "client_msg_id": "9CB4C77B-7B6F-48FC-9862-C55C9DFC90F1",
+                "text": "Hi <!subteam^S06HNNE4YQ0> !! Reminder that tomorrow evening (Saturday 27th, 5-7pm) will be our *Full Team Field Day*!\n\nPlease wear comfortable clothes + if possible, bring a dish to pass!!",
+                "team": "T0P9KU8UD",
+                "thread_ts": "1758920838.589909",
+                "reply_count": 3,
+                "reply_users_count": 3,
+                "latest_reply": "1759005890.507809",
+                "reply_users": [
+                    "U080G5L9MTJ",
+                    "U08E7NL3V1S",
+                    "U06K2TZALJ2"
+                ],
+                "replies": [
+                    {
+                        "user": "U080G5L9MTJ",
+                        "ts": "1758922199.856179"
+                    },
+                    {
+                        "user": "U08E7NL3V1S",
+                        "ts": "1758938463.578549"
+                    },
+                    {
+                        "user": "U06K2TZALJ2",
+                        "ts": "1759005890.507809"
+                    }
+                ],
+                "is_locked": false,
+                "blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "Adv\/b",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Hi "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S06HNNE4YQ0"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " !! Reminder that tomorrow evening ("
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Saturday"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " 27th, 5-7pm) will be our "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Full Team Field Day",
+                                        "style": {
+                                            "bold": true,
+                                            "italic": false
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!\n\nPlease wear comfortable clothes + if possible"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", bring"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " a dish to pass!!"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": "message",
+            "ts": "1759005890.507809",
+            "client_msg_id": "78C93379-27B2-4202-A11E-5DCB6E5AF7A2",
+            "text": "<!subteam^S06HNNE4YQ0> we are near morrill hall (arts quad closer to uris and olin libraries)",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "suIDE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " we are near morrill hall (arts quad closer to uris and olin libraries)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "user": "U06K9HD998T",
+        "type": "message",
+        "ts": "1759006615.132779",
+        "client_msg_id": "890EF0B0-4959-49BA-A551-A7D65D6F79DE",
+        "text": "<!channel> if any one has a digital camera, picnic blanket please bring to full team social!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "12e33c92c3a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-17\/6643316707527_12e33c92c3a0f69a8bd8_72.png",
+            "first_name": "Lily",
+            "real_name": "Lily Yang",
+            "display_name": "Lily Yang",
+            "team": "T0P9KU8UD",
+            "name": "ly345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NRz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if any one has a digital camera"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", picnic blanket "
+                            },
+                            {
+                                "type": "text",
+                                "text": "please bring to full team social!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,3672 @@
+[
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1760891585.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Great to see you all at All-Hands yesterday! :simple_smile: Slides are pinned here now, and a couple big reminders, so apologies for the long message:\n\n*LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2*\n• <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfmPh4_NBAK0YhAnM3WoIZNuj7YSHpb1x_VeVE_qHlZo8IIjw\/viewform?usp=dialog|Apply to be a lead>! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI. Reach out to any of us <!subteam^S01ACQLLWUW|@leadz> to learn more\n    ◦ Nominate someone you think would be a great lead by DM'ing <!subteam^S03RJ149DTN|@ops-leadz> \n• <https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit|Apply to switch roles or subteams>! For PM-specific, please fill out <https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit|this form>.\n*UPCOMING EVENTS*\n• Big\/Little Speed Dating today! 5pm at Hollister 368\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=613315046#gid=613315046|Sign up for TEC events> this week\n    ◦ TCPL workshops, Fall Fundraiser baking and tabling :meow_party: \n• Our HALLOWEEN PARTY on 10\/25. <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|RSVP asap!>\nSee you guys soon :)",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K2TZALJ2",
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ysWVW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Great to see you all at All-Hands yesterday! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Slides are pinned here now, and a couple big reminders, so apologies for the long message:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfmPh4_NBAK0YhAnM3WoIZNuj7YSHpb1x_VeVE_qHlZo8IIjw\/viewform?usp=dialog",
+                                        "text": "Apply to be a lead"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI. Reach out to any of us "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S01ACQLLWUW"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to learn more"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Nominate someone you think would be a great lead by DM'ing "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S03RJ149DTN"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit",
+                                        "text": "Apply to switch roles or subteams"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "! For PM-specific, please fill out "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit",
+                                        "text": "this form"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "UPCOMING EVENTS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Big\/Little Speed Dating today! 5pm at Hollister 368"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=613315046#gid=613315046",
+                                        "text": "Sign up for TEC events"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " this week"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "TCPL workshops, Fall Fundraiser baking and tabling "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "meow_party"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Our HALLOWEEN PARTY on 10\/25. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                        "text": "RSVP asap!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSee you guys soon :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1760890922.902539",
+            "client_msg_id": "e8de92ed-148c-4943-ae4a-2f267b2f742f",
+            "text": "<!subteam^S06HNNE4YQ0> Great to see you all at All-Hands yesterday! :simple_smile: Slides are pinned here now, and a couple big reminders, so apologies for the long message:\n\n*LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2*\n• <https:\/\/docs.google.com\/presentation\/d\/1yxvwJ_ONu3KqDp0kfm8wq3TZnBD4FSfmed2_traMqvU\/edit?usp=sharing|Apply to be a lead>! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI. Reach out to any of us <!subteam^S01ACQLLWUW> to learn more\n    ◦ Nominate someone you think would be a great lead by DM'ing <!subteam^S03RJ149DTN> \n• <https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit|Apply to switch roles or subteams>! For PM-specific, please fill out <https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit|this form>.\n*UPCOMING EVENTS*\n• Big\/Little Speed Dating today! 5pm at Hollister 368\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=613315046#gid=613315046|Sign up for TEC events> this week\n    ◦ TCPL workshops, Fall Fundraiser baking and tabling :meow_party: \n• Our HALLOWEEN PARTY on 10\/25. <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|RSVP asap!>\nSee you guys soon :)",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "94af320882f8",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+                "first_name": "Andrew",
+                "real_name": "Andrew Qian",
+                "display_name": "Andrew Qian",
+                "team": "T0P9KU8UD",
+                "name": "ajq22",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "attachments": [
+                {
+                    "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                    "image_width": 1000,
+                    "image_height": 1000,
+                    "image_bytes": 136452,
+                    "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                    "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                    "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                    "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_name": "Partiful"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "7IDYW",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Great to see you all at All-Hands yesterday! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "simple_smile"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Slides are pinned here now, and a couple big reminders, so apologies for the long message:\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/presentation\/d\/1yxvwJ_ONu3KqDp0kfm8wq3TZnBD4FSfmed2_traMqvU\/edit?usp=sharing",
+                                            "text": "Apply to be a lead"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI. Reach out to any of us "
+                                        },
+                                        {
+                                            "type": "usergroup",
+                                            "usergroup_id": "S01ACQLLWUW"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to learn more"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Nominate someone you think would be a great lead by DM'ing "
+                                        },
+                                        {
+                                            "type": "usergroup",
+                                            "usergroup_id": "S03RJ149DTN"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit",
+                                            "text": "Apply to switch roles or subteams"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "! For PM-specific, please fill out "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit",
+                                            "text": "this form"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "UPCOMING EVENTS",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Big\/Little Speed Dating today! 5pm at Hollister 368"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=613315046#gid=613315046",
+                                            "text": "Sign up for TEC events"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " this week"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "TCPL workshops, Fall Fundraiser baking and tabling "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "meow_party"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Our HALLOWEEN PARTY on 10\/25. "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                            "text": "RSVP asap!"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nSee you guys soon :)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2TZALJ2"
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1760890922.902539",
+        "edited": {
+            "user": "U06K2TZALJ2",
+            "ts": "1760891585.000000"
+        },
+        "client_msg_id": "e8de92ed-148c-4943-ae4a-2f267b2f742f",
+        "text": "<!subteam^S06HNNE4YQ0|@team> Great to see you all at All-Hands yesterday! :simple_smile: Slides are pinned here now, and a couple big reminders, so apologies for the long message:\n\n*LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2*\n• <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfmPh4_NBAK0YhAnM3WoIZNuj7YSHpb1x_VeVE_qHlZo8IIjw\/viewform?usp=dialog|Apply to be a lead>! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI. Reach out to any of us <!subteam^S01ACQLLWUW|@leadz> to learn more\n    ◦ Nominate someone you think would be a great lead by DM'ing <!subteam^S03RJ149DTN|@ops-leadz> \n• <https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit|Apply to switch roles or subteams>! For PM-specific, please fill out <https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit|this form>.\n*UPCOMING EVENTS*\n• Big\/Little Speed Dating today! 5pm at Hollister 368\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=613315046#gid=613315046|Sign up for TEC events> this week\n    ◦ TCPL workshops, Fall Fundraiser baking and tabling :meow_party: \n• Our HALLOWEEN PARTY on 10\/25. <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|RSVP asap!>\nSee you guys soon :)",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ysWVW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Great to see you all at All-Hands yesterday! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "simple_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Slides are pinned here now, and a couple big reminders, so apologies for the long message:\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "LEADS AND INTERNAL TRANSFER APPS, ALL DUE 11\/2",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfmPh4_NBAK0YhAnM3WoIZNuj7YSHpb1x_VeVE_qHlZo8IIjw\/viewform?usp=dialog",
+                                        "text": "Apply to be a lead"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "! We are looking for 1 design lead, 2 business leads, 1 product lead, 2 dev leads, and 1 ops lead for next semester, and this is an amazing opportunity to give back to DTI. Reach out to any of us "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S01ACQLLWUW"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to learn more"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Nominate someone you think would be a great lead by DM'ing "
+                                    },
+                                    {
+                                        "type": "usergroup",
+                                        "usergroup_id": "S03RJ149DTN"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/1OG4nVYawA4fGsFIFi1vtlb-rGMX9pCgsRgp74XyOgK8\/edit",
+                                        "text": "Apply to switch roles or subteams"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "! For PM-specific, please fill out "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/forms\/d\/1lD-RU9nHs2WUhQPbW0_l_JKbGtZbBYjswJnGSuTd82I\/edit",
+                                        "text": "this form"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "UPCOMING EVENTS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Big\/Little Speed Dating today! 5pm at Hollister 368"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=613315046#gid=613315046",
+                                        "text": "Sign up for TEC events"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " this week"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "TCPL workshops, Fall Fundraiser baking and tabling "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "meow_party"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Our HALLOWEEN PARTY on 10\/25. "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                        "text": "RSVP asap!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nSee you guys soon :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay",
+                "users": [
+                    "U08E3US1RSP",
+                    "U04Q99S2Y3C",
+                    "U06KBGE3LGK"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U04Q99S2Y3C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1760907584.330499",
+        "client_msg_id": "000a5138-38cf-4380-a9ab-006fa8b81cbf",
+        "text": "big little speed dating we moved next door to hollister 372",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DcC0h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "big little speed dating we moved next door to hollister 372"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06KBGE3LGK",
+        "upload": false,
+        "ts": "1760910823.000000",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @7PM (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06KBGE3LGK",
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BqoSr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI will be closing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI X CDS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                "text": "partiful"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TONIGHT @7PM (unless we hit capacity earlier) !! Please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP'ed ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "we will have to deny entry :(((. We have reached over 80"
+                            },
+                            {
+                                "type": "text",
+                                "text": "+ sign ups",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!\nRemember to sign up to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                "text": "volunteer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KBGE3LGK",
+            "type": "message",
+            "ts": "1760909206.383259",
+            "edited": {
+                "user": "U06KBGE3LGK",
+                "ts": "1760910809.000000"
+            },
+            "client_msg_id": "2be0a385-0710-4933-b17a-e7dd8bb1b0c8",
+            "text": ":mega:Hey <!subteam^S06HNNE4YQ0>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @7 (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1fac4edc1dab",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+                "first_name": "Olina",
+                "real_name": "Olina Zheng",
+                "display_name": "Olina Zheng",
+                "team": "T0P9KU8UD",
+                "name": "oz36",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "attachments": [
+                {
+                    "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                    "image_width": 1000,
+                    "image_height": 1000,
+                    "image_bytes": 136452,
+                    "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                    "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                    "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                    "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_name": "Partiful"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YVBWR",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nI will be closing the "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "DTI X CDS",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                    "text": "partiful"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " TONIGHT @7 (unless we hit capacity earlier) !! Please "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP'ed ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "we will have to deny entry :(((. We have reached over 80"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "+ sign ups",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "ghost",
+                                    "unicode": "1f47b"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!!!!\nRemember to sign up to "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                    "text": "volunteer"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if you can!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KBGE3LGK"
+    },
+    {
+        "type": "message",
+        "user": "U06KBGE3LGK",
+        "upload": false,
+        "ts": "1760909304.000000",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @8PM!! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over *75+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06KBGE3LGK",
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTttT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI will be closing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI X CDS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                "text": "partiful"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TONIGHT @8PM!! Please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP'ed ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "we will have to deny entry :(((. We have reached over "
+                            },
+                            {
+                                "type": "text",
+                                "text": "75+ sign ups",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!\nRemember to sign up to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                "text": "volunteer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you can!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KBGE3LGK",
+            "type": "message",
+            "ts": "1760909206.383259",
+            "client_msg_id": "2be0a385-0710-4933-b17a-e7dd8bb1b0c8",
+            "text": ":mega:Hey <!subteam^S06HNNE4YQ0>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @8PM!! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over *75+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1fac4edc1dab",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+                "first_name": "Olina",
+                "real_name": "Olina Zheng",
+                "display_name": "Olina Zheng",
+                "team": "T0P9KU8UD",
+                "name": "oz36",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "attachments": [
+                {
+                    "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                    "image_width": 1000,
+                    "image_height": 1000,
+                    "image_bytes": 136452,
+                    "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                    "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                    "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                    "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_name": "Partiful"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mTttT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nI will be closing the "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "DTI X CDS",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                    "text": "partiful"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " TONIGHT @8PM!! Please "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP'ed ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "we will have to deny entry :(((. We have reached over "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "75+ sign ups",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "ghost",
+                                    "unicode": "1f47b"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!!!!\nRemember to sign up to "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                    "text": "volunteer"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if you can!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KBGE3LGK"
+    },
+    {
+        "type": "message",
+        "user": "U06KBGE3LGK",
+        "upload": false,
+        "ts": "1760910809.000000",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @7 (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06KBGE3LGK",
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YVBWR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI will be closing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI X CDS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                "text": "partiful"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TONIGHT @7 (unless we hit capacity earlier) !! Please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP'ed ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "we will have to deny entry :(((. We have reached over 80"
+                            },
+                            {
+                                "type": "text",
+                                "text": "+ sign ups",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!\nRemember to sign up to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                "text": "volunteer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you can!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KBGE3LGK",
+            "type": "message",
+            "ts": "1760909206.383259",
+            "edited": {
+                "user": "U06KBGE3LGK",
+                "ts": "1760909365.000000"
+            },
+            "client_msg_id": "2be0a385-0710-4933-b17a-e7dd8bb1b0c8",
+            "text": ":mega:Hey <!subteam^S06HNNE4YQ0>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @8PM (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1fac4edc1dab",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+                "first_name": "Olina",
+                "real_name": "Olina Zheng",
+                "display_name": "Olina Zheng",
+                "team": "T0P9KU8UD",
+                "name": "oz36",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "attachments": [
+                {
+                    "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                    "image_width": 1000,
+                    "image_height": 1000,
+                    "image_bytes": 136452,
+                    "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                    "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                    "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                    "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_name": "Partiful"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "ZQjdX",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nI will be closing the "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "DTI X CDS",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                    "text": "partiful"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " TONIGHT @8PM (unless we hit capacity earlier) !! Please "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP'ed ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "we will have to deny entry :(((. We have reached over 80"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "+ sign ups",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "ghost",
+                                    "unicode": "1f47b"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!!!!\nRemember to sign up to "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                    "text": "volunteer"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if you can!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KBGE3LGK"
+    },
+    {
+        "type": "message",
+        "user": "U06KBGE3LGK",
+        "upload": false,
+        "ts": "1760909365.000000",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @8PM (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06KBGE3LGK",
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZQjdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI will be closing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI X CDS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                "text": "partiful"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TONIGHT @8PM (unless we hit capacity earlier) !! Please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP'ed ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "we will have to deny entry :(((. We have reached over 80"
+                            },
+                            {
+                                "type": "text",
+                                "text": "+ sign ups",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!\nRemember to sign up to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                "text": "volunteer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you can!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KBGE3LGK",
+            "type": "message",
+            "ts": "1760909206.383259",
+            "edited": {
+                "user": "U06KBGE3LGK",
+                "ts": "1760909304.000000"
+            },
+            "client_msg_id": "2be0a385-0710-4933-b17a-e7dd8bb1b0c8",
+            "text": ":mega:Hey <!subteam^S06HNNE4YQ0>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @8PM!! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over *75+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1fac4edc1dab",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+                "first_name": "Olina",
+                "real_name": "Olina Zheng",
+                "display_name": "Olina Zheng",
+                "team": "T0P9KU8UD",
+                "name": "oz36",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "attachments": [
+                {
+                    "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                    "image_width": 1000,
+                    "image_height": 1000,
+                    "image_bytes": 136452,
+                    "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                    "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                    "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                    "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_name": "Partiful"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mTttT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nI will be closing the "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "DTI X CDS",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                    "text": "partiful"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " TONIGHT @8PM!! Please "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP'ed ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "we will have to deny entry :(((. We have reached over "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "75+ sign ups",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "ghost",
+                                    "unicode": "1f47b"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!!!!\nRemember to sign up to "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                    "text": "volunteer"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if you can!"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KBGE3LGK"
+    },
+    {
+        "type": "message",
+        "user": "U06KBGE3LGK",
+        "upload": false,
+        "ts": "1760912620.000000",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @7PM (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS\n\n:bangbang:*EDIT: SIGN UPS CLOSED*****:bangbang:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06KBGE3LGK",
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eTxhL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI will be closing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI X CDS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                "text": "partiful"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TONIGHT @7PM (unless we hit capacity earlier) !! Please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP'ed ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "we will have to deny entry :(((. We have reached over 80"
+                            },
+                            {
+                                "type": "text",
+                                "text": "+ sign ups",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!\nRemember to sign up to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                "text": "volunteer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "EDIT: SIGN UPS CLOSED****",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06KBGE3LGK",
+            "type": "message",
+            "ts": "1760909206.383259",
+            "edited": {
+                "user": "U06KBGE3LGK",
+                "ts": "1760910823.000000"
+            },
+            "client_msg_id": "2be0a385-0710-4933-b17a-e7dd8bb1b0c8",
+            "text": ":mega:Hey <!subteam^S06HNNE4YQ0>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @7PM (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1fac4edc1dab",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+                "first_name": "Olina",
+                "real_name": "Olina Zheng",
+                "display_name": "Olina Zheng",
+                "team": "T0P9KU8UD",
+                "name": "oz36",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "attachments": [
+                {
+                    "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                    "image_width": 1000,
+                    "image_height": 1000,
+                    "image_bytes": 136452,
+                    "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                    "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                    "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                    "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                    "service_name": "Partiful"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "BqoSr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "mega",
+                                    "unicode": "1f4e3"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nI will be closing the "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "DTI X CDS",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                    "text": "partiful"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " TONIGHT @7PM (unless we hit capacity earlier) !! Please "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "RSVP'ed ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "we will have to deny entry :(((. We have reached over 80"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "+ sign ups",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "ghost",
+                                    "unicode": "1f47b"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!!!!\nRemember to sign up to "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                    "text": "volunteer"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06KBGE3LGK"
+    },
+    {
+        "user": "U06KBGE3LGK",
+        "type": "message",
+        "ts": "1760909206.383259",
+        "edited": {
+            "user": "U06KBGE3LGK",
+            "ts": "1760912620.000000"
+        },
+        "client_msg_id": "2be0a385-0710-4933-b17a-e7dd8bb1b0c8",
+        "text": ":mega:Hey <!subteam^S06HNNE4YQ0|@team>!:mega:\n\nI will be closing the *DTI X CDS* <https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa|partiful> TONIGHT @7PM (unless we hit capacity earlier) !! Please *RSVP* soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not *RSVP'ed* we will have to deny entry :(((. We have reached over 80*+ sign ups* so definitely reaching capacity soon. This applies to EVERYONE:ghost:!!!!\nRemember to sign up to <https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog|volunteer> if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS\n\n:bangbang:*EDIT: SIGN UPS CLOSED*****:bangbang:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1fac4edc1dab",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-11-16\/8033977260502_1fac4edc1dabceafb606_72.png",
+            "first_name": "Olina",
+            "real_name": "Olina Zheng",
+            "display_name": "Olina Zheng",
+            "team": "T0P9KU8UD",
+            "name": "oz36",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/partiful-posters.imgix.net\/halloween-chrome.png?fit=max&w=1000&h=1000",
+                "image_width": 1000,
+                "image_height": 1000,
+                "image_bytes": 136452,
+                "from_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_icon": "https:\/\/partiful.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "fallback": "Partiful: RSVP to DTI X CDS SPOOKY | Partiful",
+                "text": "GET READY FOR ANOTHER ANNUAL DTI X CDS HALLOWEEN PARTY!! Bring your best costumes, friends, and let's have a fun and safe night!",
+                "title": "RSVP to DTI X CDS SPOOKY | Partiful",
+                "title_link": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                "service_name": "Partiful"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eTxhL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI will be closing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "DTI X CDS",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/partiful.com\/e\/u1KZPN6fVSWcH6Vpaspa",
+                                "text": "partiful"
+                            },
+                            {
+                                "type": "text",
+                                "text": " TONIGHT @7PM (unless we hit capacity earlier) !! Please "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " soon if you haven't. We will be taking door very seriously and if you and your plus 1 are not "
+                            },
+                            {
+                                "type": "text",
+                                "text": "RSVP'ed ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "we will have to deny entry :(((. We have reached over 80"
+                            },
+                            {
+                                "type": "text",
+                                "text": "+ sign ups",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " so definitely reaching capacity soon. This applies to EVERYONE"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ghost",
+                                "unicode": "1f47b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!!!\nRemember to sign up to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLScF2Mqzs5Ufl1YnOH_G8cuD0SWAnj0juJMCE99c0IUpn3Qtwg\/viewform?usp=dialog",
+                                "text": "volunteer"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you can!\nWILL BE MAKING A NEW CHANNEL FOR PARTY GOERS\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "EDIT: SIGN UPS CLOSED****",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bangbang",
+                                "unicode": "203c-fe0f",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_party",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U06KNF03QKB",
+                    "U080G5L9MTJ",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U09G77B9NP7",
+                    "U08E7NL3V1S",
+                    "U06KC4X5TD2",
+                    "U07P3MX5X8Q",
+                    "U04Q99S0NM8"
+                ],
+                "count": 13
+            },
+            {
+                "name": "saluting_face",
+                "users": [
+                    "U06KBGE3LGK",
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U06KNF03QKB",
+                    "U080G5L9MTJ",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2"
+                ],
+                "count": 9
+            },
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U06KNF03QKB",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2"
+                ],
+                "count": 7
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U080G5L9MTJ",
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U06KNF03QKB",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2"
+                ],
+                "count": 8
+            },
+            {
+                "name": "ahh",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U06KNF03QKB",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2"
+                ],
+                "count": 7
+            },
+            {
+                "name": "blob-eyes",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U06KNF03QKB",
+                    "U080G5L9MTJ",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2"
+                ],
+                "count": 8
+            },
+            {
+                "name": "gift_heart",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2"
+                ],
+                "count": 6
+            },
+            {
+                "name": "party-blob",
+                "users": [
+                    "U07NB1DPCBC",
+                    "U0806411Z5X",
+                    "U07USUF040P",
+                    "U080G5L9MTJ",
+                    "U09G9ASFAJ2",
+                    "U06K9HD998T",
+                    "U06KC4X5TD2"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2TZALJ2",
+        "upload": false,
+        "ts": "1761061706.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> behavioral interviews dropping! :parachute: sign up on IDOL <https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda|here> to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a *huge* shoutout to <!subteam^S039LAEQV6H|@idol-team> <@U06KNF03QKB> for creating our scheduler tool :raised_hands:",
+        "subtype": "message_changed",
+        "thread_ts": "1760917348.101629",
+        "editor_id": "U00",
+        "attachments": [
+            {
+                "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                "id": 1,
+                "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                "fallback": "Cornell DTI IDOL",
+                "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                "title": "Cornell DTI IDOL",
+                "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                "service_name": "idol.cornelldti.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+djB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " behavioral interviews dropping! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parachute",
+                                "unicode": "1fa82"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sign up on IDOL "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "huge ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "shoutout to "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S039LAEQV6H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06KNF03QKB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for creating our scheduler tool "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2TZALJ2",
+            "type": "message",
+            "ts": "1760917348.101629",
+            "client_msg_id": "c65ef321-cc09-4fb8-b25e-e30c6f07adf4",
+            "text": "<!subteam^S06HNNE4YQ0> behavioral interviews dropping! :parachute: sign up on IDOL <https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda|here> to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a *huge* shoutout to <!subteam^S039LAEQV6H> <@U06KNF03QKB> for creating our scheduler tool :raised_hands:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "94af320882f8",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+                "first_name": "Andrew",
+                "real_name": "Andrew Qian",
+                "display_name": "Andrew Qian",
+                "team": "T0P9KU8UD",
+                "name": "ajq22",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1760917348.101629",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1761061717.809779",
+            "reply_users": [
+                "U06K2TZALJ2"
+            ],
+            "replies": [
+                {
+                    "user": "U06K2TZALJ2",
+                    "ts": "1761061717.809779"
+                }
+            ],
+            "is_locked": false,
+            "attachments": [
+                {
+                    "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                    "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                    "id": 1,
+                    "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                    "fallback": "Cornell DTI IDOL",
+                    "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                    "title": "Cornell DTI IDOL",
+                    "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                    "service_name": "idol.cornelldti.org"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "C+djB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " behavioral interviews dropping! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "parachute",
+                                    "unicode": "1fa82"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " sign up on IDOL "
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                                    "text": "here"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "huge ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "shoutout to "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S039LAEQV6H"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " "
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U06KNF03QKB"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " for creating our scheduler tool "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "raised_hands",
+                                    "unicode": "1f64c"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U00"
+    },
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1760917348.101629",
+        "client_msg_id": "c65ef321-cc09-4fb8-b25e-e30c6f07adf4",
+        "text": "<!subteam^S06HNNE4YQ0|@team> behavioral interviews dropping! :parachute: sign up on IDOL <https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda|here> to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a *huge* shoutout to <!subteam^S039LAEQV6H|@idol-team> <@U06KNF03QKB> for creating our scheduler tool :raised_hands:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1760917348.101629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1761061717.809779",
+        "reply_users": [
+            "U06K2TZALJ2"
+        ],
+        "replies": [
+            {
+                "user": "U06K2TZALJ2",
+                "ts": "1761061717.809779"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "attachments": [
+            {
+                "from_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                "service_icon": "https:\/\/idol.cornelldti.org\/dti-logo.png",
+                "id": 1,
+                "original_url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                "fallback": "Cornell DTI IDOL",
+                "text": "Cornell DTI's Internal DTI Organization Logic (IDOL)",
+                "title": "Cornell DTI IDOL",
+                "title_link": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                "service_name": "idol.cornelldti.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+djB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " behavioral interviews dropping! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parachute",
+                                "unicode": "1fa82"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sign up on IDOL "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/idol.cornelldti.org\/interview-scheduler\/5a8ff35e-b5a4-4690-b6f8-34101ab13cda",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " to get to know freshman\/transfer newbies and earn 0.5 TEC per interview. once again, a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "huge ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "shoutout to "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S039LAEQV6H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06KNF03QKB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for creating our scheduler tool "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KNF03QKB",
+                    "U06KBGE3LGK",
+                    "U09G91U4B9U",
+                    "U08E50PFWCA",
+                    "U07NA7PB0UV",
+                    "U061S4J2DSP",
+                    "U08E7NL3V1S",
+                    "U0800DE2GPN",
+                    "U04Q99S0NM8",
+                    "U04Q6BMSJER"
+                ],
+                "count": 11
+            },
+            {
+                "name": "microphone",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U04Q6BMSJER"
+                ],
+                "count": 4
+            },
+            {
+                "name": "chris-farmer",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U04Q6BMSJER"
+                ],
+                "count": 4
+            },
+            {
+                "name": "goat",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U04Q6BMSJER"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U08E7NL3V1S",
+        "upload": false,
+        "ts": "1760926511.000000",
+        "text": "<!subteam^S06HNNE4YQ0|@team> SO EXCITED FOR OUR FALL FUNDRAISER ON *THURSDAY (Oct. 23rd)* :maple_leaf:\n\n:point_right:Reminders:\n• Prep will be held on...\n    ◦ Oct 21st 7-10pm @ North Balch\n    ◦ Oct 22nd 8-10pm @ Ctown (Val's apartment)\n• Sign up <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0|here> to help and get *TEC credit*!\n<!subteam^S04Q911MS6A|@newbies> - You are all required to get *10 referrals* for this fundraiser :baby: (GET THOSE REPOSTS OUT)\n\nLet's make it a good one!! :money_with_wings:\n• Big thanks to <@U08E3UNQDTM> and <@U08E50PFWCA> for the graphic and social media content!! Check it out on insta!",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U08E7NL3V1S",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyiRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " SO EXCITED FOR OUR FALL FUNDRAISER ON "
+                            },
+                            {
+                                "type": "text",
+                                "text": "THURSDAY (Oct. 23rd) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "maple_leaf",
+                                "unicode": "1f341",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Reminders:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prep will be held on..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Oct 21st 7-10pm @ North Balch"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Oct 22nd 8-10pm @ Ctown (Val's apartment)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sign up "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to help and get "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "TEC credit",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S04Q911MS6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - You are all required to get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "10 referrals",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for this fundraiser "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby",
+                                "unicode": "1f476"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (GET THOSE REPOSTS OUT)\n\nLet's make it a good one!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "money_with_wings",
+                                "unicode": "1f4b8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Big thanks to "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U08E3UNQDTM"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U08E50PFWCA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for the graphic and social media content!! Check it out on insta!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U08E7NL3V1S",
+            "type": "message",
+            "ts": "1760926473.065109",
+            "client_msg_id": "682602d8-faf1-482f-b2dd-672c979c5e19",
+            "text": "<!subteam^S06HNNE4YQ0> SO EXCITED FOR OUR FALL FUNDRAISER ON *THURSDAY (Oct. 23rd)* :maple_leaf:\n\n:point_right:Reminders:\n• Prep will be held on...\n    ◦ Oct 21st 7-10pm @ North Balch\n    ◦ Oct 22nd 8-10pm @ Ctown (Val's apartment)\n• Sign up <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0|here> to help and get *TEC credit*!\n<!subteam^S04Q911MS6A> - You are all required to get *10 referrals* for this fundraiser :baby: (GET THOSE REPOSTS OUT)\n\nLet's make it a good one!! :money_with_wings:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "019eae0f4f65",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+                "first_name": "Rachel",
+                "real_name": "Rachel Tay",
+                "display_name": "",
+                "team": "T0P9KU8UD",
+                "name": "rt489",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Z3D0T",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " SO EXCITED FOR OUR FALL FUNDRAISER ON "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "THURSDAY (Oct. 23rd) ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "maple_leaf",
+                                    "unicode": "1f341",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "point_right",
+                                    "unicode": "1f449"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Reminders:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Prep will be held on..."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Oct 21st 7-10pm @ North Balch"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Oct 22nd 8-10pm @ Ctown (Val's apartment)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 1,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sign up "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0",
+                                            "text": "here"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " to help and get "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "TEC credit",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "!"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S04Q911MS6A"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " - You are all required to get "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "10 referrals",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " for this fundraiser "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "baby",
+                                    "unicode": "1f476"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " (GET THOSE REPOSTS OUT)\n\nLet's make it a good one!! "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "money_with_wings",
+                                    "unicode": "1f4b8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U08E7NL3V1S"
+    },
+    {
+        "user": "U08E7NL3V1S",
+        "type": "message",
+        "ts": "1760926473.065109",
+        "edited": {
+            "user": "U08E7NL3V1S",
+            "ts": "1760926511.000000"
+        },
+        "client_msg_id": "682602d8-faf1-482f-b2dd-672c979c5e19",
+        "text": "<!subteam^S06HNNE4YQ0|@team> SO EXCITED FOR OUR FALL FUNDRAISER ON *THURSDAY (Oct. 23rd)* :maple_leaf:\n\n:point_right:Reminders:\n• Prep will be held on...\n    ◦ Oct 21st 7-10pm @ North Balch\n    ◦ Oct 22nd 8-10pm @ Ctown (Val's apartment)\n• Sign up <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0|here> to help and get *TEC credit*!\n<!subteam^S04Q911MS6A|@newbies> - You are all required to get *10 referrals* for this fundraiser :baby: (GET THOSE REPOSTS OUT)\n\nLet's make it a good one!! :money_with_wings:\n• Big thanks to <@U08E3UNQDTM> and <@U08E50PFWCA> for the graphic and social media content!! Check it out on insta!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "019eae0f4f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+            "first_name": "Rachel",
+            "real_name": "Rachel Tay",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "rt489",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyiRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " SO EXCITED FOR OUR FALL FUNDRAISER ON "
+                            },
+                            {
+                                "type": "text",
+                                "text": "THURSDAY (Oct. 23rd) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "maple_leaf",
+                                "unicode": "1f341",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Reminders:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Prep will be held on..."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Oct 21st 7-10pm @ North Balch"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Oct 22nd 8-10pm @ Ctown (Val's apartment)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sign up "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=0#gid=0",
+                                        "text": "here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " to help and get "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "TEC credit",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S04Q911MS6A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " - You are all required to get "
+                            },
+                            {
+                                "type": "text",
+                                "text": "10 referrals",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for this fundraiser "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "baby",
+                                "unicode": "1f476"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (GET THOSE REPOSTS OUT)\n\nLet's make it a good one!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "money_with_wings",
+                                "unicode": "1f4b8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Big thanks to "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U08E3UNQDTM"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " and "
+                                    },
+                                    {
+                                        "type": "user",
+                                        "user_id": "U08E50PFWCA"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " for the graphic and social media content!! Check it out on insta!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U08E50PFWCA",
+                    "U05S1FQNUJ3",
+                    "U06K2UUMU4E",
+                    "U0806A1C509",
+                    "U06KBGE3LGK",
+                    "U0806411Z5X",
+                    "U09FUN2L03H",
+                    "U08E174EJ13",
+                    "U0800DE2GPN",
+                    "U09G77B9NP7",
+                    "U07P3MX5X8Q",
+                    "U08EGG957CZ"
+                ],
+                "count": 13
+            }
+        ]
+    }
+]

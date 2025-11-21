@@ -1,0 +1,273 @@
+[
+    {
+        "user": "U06K2TZALJ2",
+        "type": "message",
+        "ts": "1761585853.906649",
+        "client_msg_id": "ac5e38e7-6310-4363-be31-031eb99a832d",
+        "text": "pinned all hands slides from this weekend in case u missed it!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "94af320882f8",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6641047209895_94af320882f884d05ed4_72.png",
+            "first_name": "Andrew",
+            "real_name": "Andrew Qian",
+            "display_name": "Andrew Qian",
+            "team": "T0P9KU8UD",
+            "name": "ajq22",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2iRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pinned all hands slides from this weekend in case u missed it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K9HD998T",
+        "upload": false,
+        "ts": "1761599281.000000",
+        "text": "Hi <!subteam^S06HNNE4YQ0|@team>, just a friendly reminder that *October 31st at 11:59pm is the final day to submit your TEC for this month.* Please submit on IDOL before then!\n\nAny submissions after then will not be counted and will impact your overall grade.",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K9HD998T",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrIDB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", just a friendly reminder that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "October 31st at 11:59pm is the final day to submit your TEC for this month.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please submit on IDOL before then!\n\nAny submissions after "
+                            },
+                            {
+                                "type": "text",
+                                "text": "then"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will not be counted and will impact your overall grade."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K9HD998T",
+            "type": "message",
+            "ts": "1761597965.857799",
+            "client_msg_id": "8ea09112-f441-4ceb-ab61-541ba1f72881",
+            "text": "Hi <!subteam^S06HNNE4YQ0>, just a friendly reminder that *October 31st at 11:59pm is the final day to submit your TEC for this month.* Please submit on IDOL before then!\n\nAny submissions after today will not be counted and will impact your overall grade.",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "12e33c92c3a0",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-17\/6643316707527_12e33c92c3a0f69a8bd8_72.png",
+                "first_name": "Lily",
+                "real_name": "Lily Yang",
+                "display_name": "Lily Yang",
+                "team": "T0P9KU8UD",
+                "name": "ly345",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2PIN\/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hi "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ", just a friendly reminder that "
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "October 31st at 11:59pm is the final day to submit your TEC for this month.",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Please submit on IDOL before then!\n\nAny submissions after today will not be counted and will impact your overall grade."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K9HD998T"
+    },
+    {
+        "user": "U06K9HD998T",
+        "type": "message",
+        "ts": "1761597965.857799",
+        "edited": {
+            "user": "U06K9HD998T",
+            "ts": "1761599281.000000"
+        },
+        "client_msg_id": "8ea09112-f441-4ceb-ab61-541ba1f72881",
+        "text": "Hi <!subteam^S06HNNE4YQ0|@team>, just a friendly reminder that *October 31st at 11:59pm is the final day to submit your TEC for this month.* Please submit on IDOL before then!\n\nAny submissions after then will not be counted and will impact your overall grade.",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "12e33c92c3a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-17\/6643316707527_12e33c92c3a0f69a8bd8_72.png",
+            "first_name": "Lily",
+            "real_name": "Lily Yang",
+            "display_name": "Lily Yang",
+            "team": "T0P9KU8UD",
+            "name": "ly345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrIDB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", just a friendly reminder that "
+                            },
+                            {
+                                "type": "text",
+                                "text": "October 31st at 11:59pm is the final day to submit your TEC for this month.",
+                                "style": {
+                                    "bold": true,
+                                    "italic": false
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please submit on IDOL before then!\n\nAny submissions after "
+                            },
+                            {
+                                "type": "text",
+                                "text": "then"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will not be counted and will impact your overall grade."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U0806411Z5X",
+                    "U06K2TZALJ2",
+                    "U09GP2B6G3B",
+                    "U08E3UNQDTM"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1761598227.045499",
+        "client_msg_id": "7be517d8-771b-419d-bba6-d6e726fe9026",
+        "text": "^after 1031",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kkR6B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^after 1031"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

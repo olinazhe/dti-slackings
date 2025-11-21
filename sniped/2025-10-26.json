@@ -1,0 +1,47 @@
+[
+    {
+        "user": "U09G77B9NP7",
+        "type": "message",
+        "ts": "1761509043.079049",
+        "client_msg_id": "A7B0DC85-71B9-4CD5-9ABE-0395620BC7E1",
+        "text": "omg this is horrendous :sob:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "8b01b0efed9a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-24\/9563041582407_8b01b0efed9a68f5cc6b_72.png",
+            "first_name": "Darian",
+            "real_name": "Darian Pan",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "dp667",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1761447229.286779",
+        "parent_user_id": "U0806411Z5X",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Qsf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "omg this is horrendous "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

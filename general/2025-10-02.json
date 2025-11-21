@@ -1,0 +1,734 @@
+[
+    {
+        "user": "U06K2UUMU4E",
+        "type": "message",
+        "ts": "1759432645.934899",
+        "edited": {
+            "user": "U06K2UUMU4E",
+            "ts": "1759433086.000000"
+        },
+        "client_msg_id": "9b62c3af-4953-49c4-9df4-1175b360254f",
+        "text": "Hey <!subteam^S06HNNE4YQ0|@team>!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting :star-struck:). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n• <https:\/\/www.linkedin.com\/in\/alicetpham\/|Alice Pham> - DTI cofounder, founded a startup called Ket Recipes\n• <https:\/\/www.linkedin.com\/in\/altheaangela-bata\/|Althea Bata> - PM @ Microsoft \n• <https:\/\/www.linkedin.com\/in\/mfarkouh5\/|Michael Farkouh >- PM @ Warner Bros Discovery (sports & entertainment)\n:calendar: Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there :saluting_face:",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1da9fd8bc97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Yap",
+            "display_name": "Megan Yap",
+            "team": "T0P9KU8UD",
+            "name": "may52",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759432645.934899",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1759950971.184409",
+        "reply_users": [
+            "U04Q99S2Y3C",
+            "U06K2UUMU4E"
+        ],
+        "replies": [
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1759433026.626819"
+            },
+            {
+                "user": "U06K2UUMU4E",
+                "ts": "1759950971.184409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIr\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck",
+                                "unicode": "1f929"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/alicetpham\/",
+                                        "text": "Alice Pham"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - DTI cofounder, founded a startup called Ket Recipes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/altheaangela-bata\/",
+                                        "text": "Althea Bata"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - PM @ Microsoft "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/mfarkouh5\/",
+                                        "text": "Michael Farkouh "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "- PM @ Warner Bros Discovery (sports & entertainment)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U08E3UNQDTM",
+                    "U04QBPGRMJQ",
+                    "U08E50PFWCA",
+                    "U061BLZS1TR",
+                    "U08E174EJ13",
+                    "U07N2A5LZ2S",
+                    "U07NBCRD412",
+                    "U07NB1DPCBC",
+                    "U04Q6BMSJER",
+                    "U06KBGE3LGK",
+                    "U061S4J2DSP",
+                    "U09G77B9NP7",
+                    "U0806A1C509",
+                    "U080G6QDZT2",
+                    "U06KYFYLL5N",
+                    "U07P3MX5X8Q",
+                    "U08E7NL3V1S"
+                ],
+                "count": 17
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U06K2UUMU4E",
+        "upload": false,
+        "ts": "1759433086.000000",
+        "text": "Hey <!subteam^S06HNNE4YQ0|@team>!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting :star-struck:). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n• <https:\/\/www.linkedin.com\/in\/alicetpham\/|Alice Pham> - DTI cofounder, founded a startup called Ket Recipes\n• <https:\/\/www.linkedin.com\/in\/altheaangela-bata\/|Althea Bata> - PM @ Microsoft \n• <https:\/\/www.linkedin.com\/in\/mfarkouh5\/|Michael Farkouh >- PM @ Warner Bros Discovery (sports & entertainment)\n:calendar: Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there :saluting_face:",
+        "subtype": "message_changed",
+        "thread_ts": "1759432645.934899",
+        "editor_id": "U06K2UUMU4E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KIr\/h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck",
+                                "unicode": "1f929"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout).\n\nOur speakers are going to be:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/alicetpham\/",
+                                        "text": "Alice Pham"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - DTI cofounder, founded a startup called Ket Recipes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/altheaangela-bata\/",
+                                        "text": "Althea Bata"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - PM @ Microsoft "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/mfarkouh5\/",
+                                        "text": "Michael Farkouh "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "- PM @ Warner Bros Discovery (sports & entertainment)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2UUMU4E",
+            "type": "message",
+            "ts": "1759432645.934899",
+            "edited": {
+                "user": "U06K2UUMU4E",
+                "ts": "1759432805.000000"
+            },
+            "client_msg_id": "9b62c3af-4953-49c4-9df4-1175b360254f",
+            "text": "Hey <!subteam^S06HNNE4YQ0>!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting :star-struck:). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout). Our speakers are going to be:\n• <https:\/\/www.linkedin.com\/in\/alicetpham\/|Alice Pham> - DTI cofounder, founded a startup called Ket Recipes\n• <https:\/\/www.linkedin.com\/in\/altheaangela-bata\/|Althea Bata> - PM @ Microsoft \n• <https:\/\/www.linkedin.com\/in\/mfarkouh5\/|Michael Farkouh >- PM @ Warner Bros Discovery (sports & entertainment)\n:calendar: Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there :saluting_face:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1da9fd8bc97a",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+                "first_name": "Megan",
+                "real_name": "Megan Yap",
+                "display_name": "Megan Yap",
+                "team": "T0P9KU8UD",
+                "name": "may52",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1759432645.934899",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1759950971.184409",
+            "reply_users": [
+                "U04Q99S2Y3C",
+                "U06K2UUMU4E"
+            ],
+            "replies": [
+                {
+                    "user": "U04Q99S2Y3C",
+                    "ts": "1759433026.626819"
+                },
+                {
+                    "user": "U06K2UUMU4E",
+                    "ts": "1759950971.184409"
+                }
+            ],
+            "is_locked": false,
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MhIiD",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "star-struck",
+                                    "unicode": "1f929"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout). Our speakers are going to be:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/alicetpham\/",
+                                            "text": "Alice Pham"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - DTI cofounder, founded a startup called Ket Recipes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/altheaangela-bata\/",
+                                            "text": "Althea Bata"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - PM @ Microsoft "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/mfarkouh5\/",
+                                            "text": "Michael Farkouh "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "- PM @ Warner Bros Discovery (sports & entertainment)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "calendar",
+                                    "unicode": "1f4c6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "saluting_face",
+                                    "unicode": "1fae1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2UUMU4E"
+    },
+    {
+        "type": "message",
+        "user": "U06K2UUMU4E",
+        "upload": false,
+        "ts": "1759432805.000000",
+        "text": "Hey <!subteam^S06HNNE4YQ0|@team>!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting :star-struck:). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout). Our speakers are going to be:\n• <https:\/\/www.linkedin.com\/in\/alicetpham\/|Alice Pham> - DTI cofounder, founded a startup called Ket Recipes\n• <https:\/\/www.linkedin.com\/in\/altheaangela-bata\/|Althea Bata> - PM @ Microsoft \n• <https:\/\/www.linkedin.com\/in\/mfarkouh5\/|Michael Farkouh >- PM @ Warner Bros Discovery (sports & entertainment)\n:calendar: Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there :saluting_face:",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U06K2UUMU4E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MhIiD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "star-struck",
+                                "unicode": "1f929"
+                            },
+                            {
+                                "type": "text",
+                                "text": "). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout). Our speakers are going to be:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/alicetpham\/",
+                                        "text": "Alice Pham"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - DTI cofounder, founded a startup called Ket Recipes"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/altheaangela-bata\/",
+                                        "text": "Althea Bata"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " - PM @ Microsoft "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.linkedin.com\/in\/mfarkouh5\/",
+                                        "text": "Michael Farkouh "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "- PM @ Warner Bros Discovery (sports & entertainment)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "calendar",
+                                "unicode": "1f4c6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything) and react if you’re coming! See you there "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "saluting_face",
+                                "unicode": "1fae1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U06K2UUMU4E",
+            "type": "message",
+            "ts": "1759432645.934899",
+            "client_msg_id": "9b62c3af-4953-49c4-9df4-1175b360254f",
+            "text": "Hey <!subteam^S06HNNE4YQ0>!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting :star-struck:). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout). Our speakers are going to be:\n• <https:\/\/www.linkedin.com\/in\/alicetpham\/|Alice Pham> - DTI cofounder, founded a startup called Ket Recipes\n• <https:\/\/www.linkedin.com\/in\/altheaangela-bata\/|Althea Bata> - PM @ Microsoft \n• <https:\/\/www.linkedin.com\/in\/mfarkouh5\/|Michael Farkouh >- PM @ Warner Bros Discovery (sports &amp; entertainment)\n:calendar: Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything)! See you there :saluting_face:",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "1da9fd8bc97a",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+                "first_name": "Megan",
+                "real_name": "Megan Yap",
+                "display_name": "Megan Yap",
+                "team": "T0P9KU8UD",
+                "name": "may52",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "MLui0",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Hey "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!! We’re super excited to announce that we’re having our very first PM alum panel next week during PM Sync (so exciting "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "star-struck",
+                                    "unicode": "1f929"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "). Anyone on DTI is welcome to attend and ask any questions you may have about PM (please do show up on time though, as we do not want people coming in and out throughout). Our speakers are going to be:\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/alicetpham\/",
+                                            "text": "Alice Pham"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - DTI cofounder, founded a startup called Ket Recipes"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/altheaangela-bata\/",
+                                            "text": "Althea Bata"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " - PM @ Microsoft "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/www.linkedin.com\/in\/mfarkouh5\/",
+                                            "text": "Michael Farkouh "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "- PM @ Warner Bros Discovery (sports & entertainment)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "calendar",
+                                    "unicode": "1f4c6"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Oct 8, 4:30 - 5:30 PM @ Hollister 368\n\nPlease thread below any questions you want us to ask (career, recruitment, anything)! See you there "
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "saluting_face",
+                                    "unicode": "1fae1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U06K2UUMU4E"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1759433026.626819",
+        "client_msg_id": "012901ea-c237-46b0-92e6-d71dc19d7ac8",
+        "text": "INSANE LINEUP (theyre all so so nice !!!!)",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759432645.934899",
+        "parent_user_id": "U06K2UUMU4E",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JaBvU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "INSANE LINEUP (theyre all so so nice !!!!)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

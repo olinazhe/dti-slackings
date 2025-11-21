@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1759869589.189939",
+        "client_msg_id": "b0eecc60-d275-4806-bd97-d943a616c004",
+        "text": "hi all! reminder that OUR FINAL info session 3 is tomorrow 5:45 - 6:45 at OLIN HALL 155!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UuRvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi all! reminder that OUR FINAL info session 3 is tomorrow 5:45 - 6:45 at OLIN HALL 155!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party-blob",
+                "users": [
+                    "U06K2TZALJ2",
+                    "U0806411Z5X",
+                    "U06KCGWCC04",
+                    "U07N27S0N06",
+                    "U08EGG7CKKK",
+                    "U09G77B9NP7",
+                    "U08E16YNJ5B",
+                    "U080G6QDZT2",
+                    "U06KNF03QKB",
+                    "U08E3US1RSP",
+                    "U04Q99S0NM8",
+                    "U06K2UUMU4E"
+                ],
+                "count": 12
+            }
+        ]
+    }
+]

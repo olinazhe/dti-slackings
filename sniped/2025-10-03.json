@@ -1,0 +1,411 @@
+[
+    {
+        "user": "U09G77B9NP7",
+        "type": "message",
+        "ts": "1759509942.277089",
+        "client_msg_id": "85E1CDD8-498B-46CC-BDED-53BD800E6653",
+        "text": "HAHAH it looks like i’m pitching <@U04Q6BMSJER> a startup :thinking_face: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "8b01b0efed9a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-24\/9563041582407_8b01b0efed9a68f5cc6b_72.png",
+            "first_name": "Darian",
+            "real_name": "Darian Pan",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "dp667",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759447818.689329",
+        "parent_user_id": "U0806A1C509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0CH3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HAHAH it looks like i’m pitching "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04Q6BMSJER"
+                            },
+                            {
+                                "type": "text",
+                                "text": " a startup "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "I said hi and <@U04QBPGRMJQ> did not even bat an eye:disappointed: ",
+        "files": [
+            {
+                "id": "F09JRLZMJS0",
+                "created": 1759513444,
+                "timestamp": 1759513444,
+                "name": "IMG_5517.jpg",
+                "title": "IMG_5517",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U07NBQUN71Q",
+                "user_team": "T0P9KU8UD",
+                "editable": false,
+                "size": 3134535,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JRLZMJS0\/img_5517.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0P9KU8UD-F09JRLZMJS0\/download\/img_5517.jpg?token=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_64.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_80.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_360.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_480.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_160.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_720.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_800.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_960.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T0P9KU8UD-F09JRLZMJS0-351cbe25c1\/img_5517_1024.jpg?t=xoxe-23325960965-9983715179761-9964412545267-7f7e21946507533879d0107de1674c00",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRsUBTBYgnHQjpUbsEmBGAo4xgf0\/z\/ACp5mdRluA3OfTvgf568VAI23\/fXce2M85\/+tTclbQlJ31JVyysSwPViOefcH8KIvvjdncOw\/KjKwoysmWZOD0x1pjfdGCxL88dz\/k1JVi3x6j86OPUfnVGYZfcEGCMjr0pm0\/3BWntGT7NE0paOIcAFu4\/oe\/v\/APXpqOTtQxhgpzjgZwc8\/wCf61YKRtK5dMDoMtgGlijh2fKuQfxH51mUV9+SoZWDKBgZx7g\/yohbKyDAPcA\/7rc1M1uzzoUUBVUZz+P51OIEDZAPPXHemBnvKOD3IycU3zfrWsMAYCil49BSHciCMSAX465Awc\/5\/Wn7CoAVgcd2XJp+OO9KceopiEwd+c8YxjFL2o4xRg4oATB7EfiaMN6j8xR+X40f980Af\/\/Z",
+                "permalink": "https:\/\/cornelldti.slack.com\/files\/UNZJ5EE3A\/F09JRLZMJS0\/img_5517.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T0P9KU8UD-F09JRLZMJS0-b6788136e6",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U07NBQUN71Q",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g6Sel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I said hi and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04QBPGRMJQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " did not even bat an eye"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed",
+                                "unicode": "1f61e"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759513480.851079",
+        "client_msg_id": "CC37C426-F071-4063-A2A7-D791F6A3C1A6",
+        "thread_ts": "1759513480.851079",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1759513518.832309",
+        "reply_users": [
+            "U04QBPGRMJQ"
+        ],
+        "replies": [
+            {
+                "user": "U04QBPGRMJQ",
+                "ts": "1759513502.403419"
+            },
+            {
+                "user": "U04QBPGRMJQ",
+                "ts": "1759513506.117239"
+            },
+            {
+                "user": "U04QBPGRMJQ",
+                "ts": "1759513518.832309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U04QBPGRMJQ",
+                    "U0806411Z5X",
+                    "U080G6QDZT2",
+                    "U09G77B9NP7",
+                    "U06K2UUMU4E",
+                    "U06KNF03QKB"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "user": "U04QBPGRMJQ",
+        "type": "message",
+        "ts": "1759513502.403419",
+        "client_msg_id": "6CCB79C1-204C-48E1-8B36-4198D8D29EF9",
+        "text": "SORRY",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "ea328b5d67f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5907761823651_ea328b5d67f4ee6dd737_72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Lee",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "bl628",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759513480.851079",
+        "parent_user_id": "U07NBQUN71Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xhGu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "SORRY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U04QBPGRMJQ",
+        "upload": false,
+        "ts": "1759513513.000000",
+        "text": "the noise canceling",
+        "subtype": "message_changed",
+        "thread_ts": "1759513480.851079",
+        "editor_id": "U04QBPGRMJQ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tL5f9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "noise"
+                            },
+                            {
+                                "type": "text",
+                                "text": " canceling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04QBPGRMJQ",
+            "type": "message",
+            "ts": "1759513506.117239",
+            "client_msg_id": "3002C508-41D8-4B63-BB05-AD1A21BE5691",
+            "text": "the noose canceling",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "ea328b5d67f4",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5907761823651_ea328b5d67f4ee6dd737_72.png",
+                "first_name": "Brandon",
+                "real_name": "Brandon Lee",
+                "display_name": "",
+                "team": "T0P9KU8UD",
+                "name": "bl628",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "thread_ts": "1759513480.851079",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "pJ0W\/",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "the noose canceling"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04QBPGRMJQ"
+    },
+    {
+        "user": "U04QBPGRMJQ",
+        "type": "message",
+        "ts": "1759513506.117239",
+        "edited": {
+            "user": "U04QBPGRMJQ",
+            "ts": "1759513513.000000"
+        },
+        "client_msg_id": "3002C508-41D8-4B63-BB05-AD1A21BE5691",
+        "text": "the noise canceling",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "ea328b5d67f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5907761823651_ea328b5d67f4ee6dd737_72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Lee",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "bl628",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759513480.851079",
+        "parent_user_id": "U07NBQUN71Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tL5f9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "noise"
+                            },
+                            {
+                                "type": "text",
+                                "text": " canceling"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U04QBPGRMJQ",
+        "type": "message",
+        "ts": "1759513518.832309",
+        "client_msg_id": "0310E3B5-A057-4E45-BEB9-8F863695A4B9",
+        "text": "hi :hand_with_index_finger_and_thumb_crossed: ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "ea328b5d67f4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-17\/5907761823651_ea328b5d67f4ee6dd737_72.png",
+            "first_name": "Brandon",
+            "real_name": "Brandon Lee",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "bl628",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1759513480.851079",
+        "parent_user_id": "U07NBQUN71Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WoZSl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand_with_index_finger_and_thumb_crossed",
+                                "unicode": "1faf0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

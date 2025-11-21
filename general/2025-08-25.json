@@ -1,0 +1,776 @@
+[
+    {
+        "type": "message",
+        "user": "U04Q99S2Y3C",
+        "upload": false,
+        "ts": "1756308165.000000",
+        "text": "heyy <!subteam^S06HNNE4YQ0|@team>!!  Welcome back, so hyped to see everyone!\n\n*[COMING UP] Information Session 8\/28 5-6pm*\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1391829900#gid=1391829900|Sign up for all recruitment events here>, 1TEC max!\n:spiral_calendar_pad: *All Hands!* :seedling:\n• Our first All-Hands is :star2: *this Saturday, 8\/30 from 1:30-2:30 around eng quad pending room bookings.*\n• based on feedback, AH will be going back to Saturdays biweekly! absence policy: 2 absences :)\n:rotating_light: Action items:rotating_light:\n• Add yourself to the recruitment *<https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing|coffee chat sheet>*!\n• Fill out this <https:\/\/docs.google.com\/spreadsheets\/d\/1_JeuHpaQ3ii4-3PwcVGvt76QwfKIxnGINIvzN8kd2YA\/edit?gid=0#gid=0|sheet> with classes you’re taking to find DTIers in your classes!\nAs always, reach out to us with any questions :) have a great first day of classes and we’ll see everyone soon :)",
+        "subtype": "message_changed",
+        "thread_ts": "0000000000.000000",
+        "editor_id": "U04Q99S2Y3C",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SoBMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "heyy "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!  Welcome back, so hyped to see everyone!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[COMING UP] Information Session 8\/28 5-6pm",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1391829900#gid=1391829900",
+                                        "text": "Sign up for all recruitment events here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", 1TEC max!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spiral_calendar_pad",
+                                "unicode": "1f5d3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " All Hands! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "seedling",
+                                "unicode": "1f331"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Our first All-Hands is "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "star2",
+                                        "unicode": "1f31f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "this Saturday, 8\/30 from 1:30-2:30 around eng quad pending room bookings.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "based on feedback, AH will be going back to Saturdays biweekly! absence policy: 2 absences :)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Action items"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add yourself to the recruitment "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing",
+                                        "text": "coffee chat sheet",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fill out this "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1_JeuHpaQ3ii4-3PwcVGvt76QwfKIxnGINIvzN8kd2YA\/edit?gid=0#gid=0",
+                                        "text": "sheet"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " with classes you’re taking to find DTIers in your classes!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAs always, reach out to us with any questions :) have a great first day of classes and we’ll see everyone soon :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "original": {
+            "user": "U04Q99S2Y3C",
+            "type": "message",
+            "ts": "1756126449.112339",
+            "client_msg_id": "63ed0ba8-65e5-471b-8777-4982df385cad",
+            "text": "heyy <!subteam^S06HNNE4YQ0>!!  Welcome back, so hyped to see everyone!\n\n*[COMING UP] Information Session 8\/28 5-6pm*\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1391829900#gid=1391829900|Sign up for all recruitment events here>, 1TEC max!\n:spiral_calendar_pad: *All Hands + slope social!* :seedling:\n• Our first All-Hands + social is :star2: *this Saturday, 8\/30 from 1:30-2:30 around eng quad pending room bookings.*\n• based on feedback, AH will be going back to Saturdays biweekly! absence policy: 2 absences :)\n:rotating_light: Action items:rotating_light:\n• Add yourself to the recruitment *<https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing|coffee chat sheet>*!\n• Fill out this <https:\/\/docs.google.com\/spreadsheets\/d\/1_JeuHpaQ3ii4-3PwcVGvt76QwfKIxnGINIvzN8kd2YA\/edit?gid=0#gid=0|sheet> with classes you’re taking to find DTIers in your classes!\nAs always, reach out to us with any questions :) have a great first day of classes and we’ll see everyone soon :)",
+            "team": "T0P9KU8UD",
+            "user_team": "T0P9KU8UD",
+            "source_team": "T0P9KU8UD",
+            "user_profile": {
+                "avatar_hash": "6e125e3279bc",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+                "first_name": "Valerie",
+                "real_name": "Valerie Wong",
+                "display_name": "Valerie Wong",
+                "team": "T0P9KU8UD",
+                "name": "vkw7",
+                "is_restricted": false,
+                "is_ultra_restricted": false
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "AwMLE",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "heyy "
+                                },
+                                {
+                                    "type": "usergroup",
+                                    "usergroup_id": "S06HNNE4YQ0"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "!!  Welcome back, so hyped to see everyone!\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "[COMING UP] Information Session 8\/28 5-6pm",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1391829900#gid=1391829900",
+                                            "text": "Sign up for all recruitment events here"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": ", 1TEC max!"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "spiral_calendar_pad",
+                                    "unicode": "1f5d3-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " All Hands + slope social! ",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "seedling",
+                                    "unicode": "1f331"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Our first All-Hands + social is "
+                                        },
+                                        {
+                                            "type": "emoji",
+                                            "name": "star2",
+                                            "unicode": "1f31f"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " "
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "this Saturday, 8\/30 from 1:30-2:30 around eng quad pending room bookings.",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "based on feedback, AH will be going back to Saturdays biweekly! absence policy: 2 absences :)"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " Action items"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "rotating_light",
+                                    "unicode": "1f6a8"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "rich_text_list",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Add yourself to the recruitment "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing",
+                                            "text": "coffee chat sheet",
+                                            "style": {
+                                                "bold": true
+                                            }
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "!"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fill out this "
+                                        },
+                                        {
+                                            "type": "link",
+                                            "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1_JeuHpaQ3ii4-3PwcVGvt76QwfKIxnGINIvzN8kd2YA\/edit?gid=0#gid=0",
+                                            "text": "sheet"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": " with classes you’re taking to find DTIers in your classes!"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "style": "bullet",
+                            "indent": 0,
+                            "border": 0
+                        },
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\nAs always, reach out to us with any questions :) have a great first day of classes and we’ll see everyone soon :)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "edited_by": "U04Q99S2Y3C"
+    },
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1756126449.112339",
+        "edited": {
+            "user": "U04Q99S2Y3C",
+            "ts": "1756308165.000000"
+        },
+        "client_msg_id": "63ed0ba8-65e5-471b-8777-4982df385cad",
+        "text": "heyy <!subteam^S06HNNE4YQ0|@team>!!  Welcome back, so hyped to see everyone!\n\n*[COMING UP] Information Session 8\/28 5-6pm*\n• <https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1391829900#gid=1391829900|Sign up for all recruitment events here>, 1TEC max!\n:spiral_calendar_pad: *All Hands!* :seedling:\n• Our first All-Hands is :star2: *this Saturday, 8\/30 from 1:30-2:30 around eng quad pending room bookings.*\n• based on feedback, AH will be going back to Saturdays biweekly! absence policy: 2 absences :)\n:rotating_light: Action items:rotating_light:\n• Add yourself to the recruitment *<https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing|coffee chat sheet>*!\n• Fill out this <https:\/\/docs.google.com\/spreadsheets\/d\/1_JeuHpaQ3ii4-3PwcVGvt76QwfKIxnGINIvzN8kd2YA\/edit?gid=0#gid=0|sheet> with classes you’re taking to find DTIers in your classes!\nAs always, reach out to us with any questions :) have a great first day of classes and we’ll see everyone soon :)",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1756126449.112339",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1756308199.295519",
+        "reply_users": [
+            "U04Q99S2Y3C"
+        ],
+        "replies": [
+            {
+                "user": "U04Q99S2Y3C",
+                "ts": "1756308199.295519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SoBMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "heyy "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!  Welcome back, so hyped to see everyone!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[COMING UP] Information Session 8\/28 5-6pm",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1MSm-EwzywZYNk5KC9cbFKM_WKHc2ZpQj0QE21eLZGuY\/edit?gid=1391829900#gid=1391829900",
+                                        "text": "Sign up for all recruitment events here"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ", 1TEC max!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "spiral_calendar_pad",
+                                "unicode": "1f5d3-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": " All Hands! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "seedling",
+                                "unicode": "1f331"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Our first All-Hands is "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "star2",
+                                        "unicode": "1f31f"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "this Saturday, 8\/30 from 1:30-2:30 around eng quad pending room bookings.",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "based on feedback, AH will be going back to Saturdays biweekly! absence policy: 2 absences :)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Action items"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light",
+                                "unicode": "1f6a8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Add yourself to the recruitment "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing",
+                                        "text": "coffee chat sheet",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "!"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Fill out this "
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1_JeuHpaQ3ii4-3PwcVGvt76QwfKIxnGINIvzN8kd2YA\/edit?gid=0#gid=0",
+                                        "text": "sheet"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " with classes you’re taking to find DTIers in your classes!"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nAs always, reach out to us with any questions :) have a great first day of classes and we’ll see everyone soon :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meow_party",
+                "users": [
+                    "U080G5L9MTJ",
+                    "U06KC4X5TD2",
+                    "U0806411Z5X",
+                    "U0806A1C509",
+                    "U08E7NL3V1S",
+                    "U07P3MX5X8Q",
+                    "U06K2UUMU4E",
+                    "U06K9HD998T",
+                    "U05SG21SYLA",
+                    "U07N2A5LZ2S",
+                    "U08E174EJ13",
+                    "U04Q6BMSJER",
+                    "U08EGG957CZ",
+                    "U06KBGE3LGK",
+                    "U08EHA604AV",
+                    "U08E3UP45GT",
+                    "U06KNU7LVJM",
+                    "U08DPBF7RD5",
+                    "U08E3US1RSP",
+                    "U08E3UNQDTM",
+                    "U06K2TZALJ2",
+                    "U06KC1WG86Q",
+                    "U06KAR47ZR9",
+                    "U08E50PFWCA",
+                    "U08DPBMKHPZ",
+                    "U06KNF03QKB",
+                    "U07NA7PB0UV"
+                ],
+                "count": 27
+            },
+            {
+                "name": "dancing-doge",
+                "users": [
+                    "U0806A1C509",
+                    "U06K2UUMU4E",
+                    "U06K9HD998T",
+                    "U05S9CMLGJ2",
+                    "U04Q6BMSJER",
+                    "U06KC4X5TD2",
+                    "U0806411Z5X",
+                    "U06KAR47ZR9"
+                ],
+                "count": 8
+            },
+            {
+                "name": "money_parrot",
+                "users": [
+                    "U0806A1C509",
+                    "U08E7NL3V1S",
+                    "U06K2UUMU4E",
+                    "U06K9HD998T",
+                    "U04Q6BMSJER",
+                    "U06KC4X5TD2",
+                    "U0806411Z5X",
+                    "U06KAR47ZR9"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

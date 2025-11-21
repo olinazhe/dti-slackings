@@ -1,0 +1,118 @@
+[
+    {
+        "user": "U08E7NL3V1S",
+        "type": "message",
+        "ts": "1757536943.575699",
+        "client_msg_id": "ef3a370e-d025-4ef9-9a19-c8b23fc9f25f",
+        "text": "HI <!subteam^S06HNNE4YQ0|@team>!!:wave: The Biz team has been organizing :sparkles:community workshops:sparkles: for this fall semester! We need some help from you to solidify the plans!\n\nPlease fill out this :point_right: <https:\/\/forms.gle\/i4ScgHqVPHUPsXiz9|Google Form>! These events will be for :white_check_mark:TECs and will be put on the TEC spreadsheet once we can get all details confirmed!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "019eae0f4f65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-02-21\/8491844380437_019eae0f4f65938b71e5_72.png",
+            "first_name": "Rachel",
+            "real_name": "Rachel Tay",
+            "display_name": "",
+            "team": "T0P9KU8UD",
+            "name": "rt489",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GX4Tk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HI "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!!"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave",
+                                "unicode": "1f44b"
+                            },
+                            {
+                                "type": "text",
+                                "text": " The Biz team has been organizing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": "community workshops"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for this fall semester! We need some help from you to solidify the plans!\n\nPlease fill out this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_right",
+                                "unicode": "1f449"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/i4ScgHqVPHUPsXiz9",
+                                "text": "Google Form"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! These events will be for "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": "TECs and will be put on the TEC spreadsheet once we can get all details confirmed!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart_on_fire",
+                "users": [
+                    "U04Q99S2Y3C",
+                    "U06KNF03QKB",
+                    "U05T51X7ETS",
+                    "U06KBGE3LGK",
+                    "U06K2UUMU4E",
+                    "U0800DE2GPN",
+                    "U0806411Z5X",
+                    "U06KC4X5TD2"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

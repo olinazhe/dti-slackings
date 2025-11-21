@@ -1,0 +1,97 @@
+[
+    {
+        "user": "U06K2UUMU4E",
+        "type": "message",
+        "ts": "1760654834.001329",
+        "client_msg_id": "99aa9c86-dacb-4330-b731-1fc162c21e9b",
+        "text": "Hey <!subteam^S06HNNE4YQ0|@team> quick reminder that today is the last day to submit a *<https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66|PM Internal Transfer Application>* if you’re interested in joining the Product team!! Due 11:59 tonight!!!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "1da9fd8bc97a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-16\/6649312310470_1da9fd8bc97ab99b3b6e_72.jpg",
+            "first_name": "Megan",
+            "real_name": "Megan Yap",
+            "display_name": "Megan Yap",
+            "team": "T0P9KU8UD",
+            "name": "may52",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJFhe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " quick reminder that today is the last day to submit a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/r9CvwcMWMRmrJ4L66",
+                                "text": "PM Internal Transfer Application",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you’re interested in joining the Product team!! Due 11:59 tonight!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat-dance",
+                "users": [
+                    "U0806A1C509",
+                    "U08E174EJ13",
+                    "U08E7NL3V1S",
+                    "U061BLZS1TR",
+                    "U07NB1DPCBC",
+                    "U08E50PFWCA"
+                ],
+                "count": 6
+            },
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U061BLZS1TR"
+                ],
+                "count": 1
+            },
+            {
+                "name": "alphabet-white-p",
+                "users": [
+                    "U061BLZS1TR",
+                    "U07NB1DPCBC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "m",
+                "users": [
+                    "U061BLZS1TR",
+                    "U07NB1DPCBC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

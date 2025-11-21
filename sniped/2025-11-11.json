@@ -1,0 +1,51 @@
+[
+    {
+        "user": "U04QZ0Q62JC",
+        "type": "message",
+        "ts": "1762900529.813629",
+        "client_msg_id": "333B76E2-5AEC-43C8-9A4C-B916ED0B7377",
+        "text": "Ok punctuation! ",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "40b209dcdb17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-04-15\/6964659768997_40b209dcdb1754d90e71_72.png",
+            "first_name": "Katherine",
+            "real_name": "Katherine Chang",
+            "display_name": "Katherine Chang",
+            "team": "T0P9KU8UD",
+            "name": "kjc249",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1762825232.337919",
+        "parent_user_id": "U05T51X984Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tnch6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok punctuation! "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U05T51X984Q"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

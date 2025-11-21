@@ -1,0 +1,42 @@
+[
+    {
+        "user": "U04Q99S2Y3C",
+        "type": "message",
+        "ts": "1755267693.182049",
+        "client_msg_id": "8589B948-8111-47FA-9579-BAEF23390603",
+        "text": "this is the most insane snipe ever",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "6e125e3279bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-18\/6661499492116_6e125e3279bc43063ebc_72.png",
+            "first_name": "Valerie",
+            "real_name": "Valerie Wong",
+            "display_name": "Valerie Wong",
+            "team": "T0P9KU8UD",
+            "name": "vkw7",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1755194757.568819",
+        "parent_user_id": "U07NBQUN71Q",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X42RF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is the most insane snipe ever"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

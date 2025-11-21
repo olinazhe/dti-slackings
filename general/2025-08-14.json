@@ -1,0 +1,211 @@
+[
+    {
+        "user": "U06K9HD998T",
+        "type": "message",
+        "ts": "1755187358.314179",
+        "client_msg_id": "2f2317c6-599a-446d-8bb4-5110fbaf23f5",
+        "text": "Hey <!subteam^S06HNNE4YQ0|@team>!! :fallen_leaf::sparkles: *Fall Recruitment is starting back up soon!* :tada:\n\nIf you're interested in having *coffee chats* :coffee: with students that are interested in DTI, please sign up in the <https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing|Google Sheet>.\n:white_check_mark: 2 Coffee Chats = 1 TEC, and all members will need at least 1 TEC for the month of September.\n:loudspeaker: I’ll also make another post soon regarding new TEC guidelines :memo: for this year!\n\nIf you have any questions, let me know!",
+        "team": "T0P9KU8UD",
+        "user_team": "T0P9KU8UD",
+        "source_team": "T0P9KU8UD",
+        "user_profile": {
+            "avatar_hash": "12e33c92c3a0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2024-02-17\/6643316707527_12e33c92c3a0f69a8bd8_72.png",
+            "first_name": "Lily",
+            "real_name": "Lily Yang",
+            "display_name": "Lily Yang",
+            "team": "T0P9KU8UD",
+            "name": "ly345",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+ean",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06HNNE4YQ0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fallen_leaf",
+                                "unicode": "1f342"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Fall Recruitment is starting back up soon! ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nIf you're interested in having "
+                            },
+                            {
+                                "type": "text",
+                                "text": "coffee chats",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "coffee",
+                                "unicode": "2615"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with students that are interested in DTI, please sign up in the "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1fgVngmjJIivQ0Rnvcg3VMtu0kNQzCYdEyLfrvUX5gTQ\/edit?usp=sharing",
+                                "text": "Google Sheet"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2 Coffee Chats = 1 TEC, and all members will need at least 1 TEC for the month of September.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "loudspeaker",
+                                "unicode": "1f4e2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I’ll also make another post soon regarding new TEC guidelines "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "memo",
+                                "unicode": "1f4dd"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for this year!\n\nIf you have any questions, let me know!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yay-frog",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KNF03QKB",
+                    "U04Q99S2Y3C",
+                    "U06K2TZALJ2",
+                    "U06KBGE3LGK",
+                    "U07N2A5LZ2S",
+                    "U06KC4X5TD2",
+                    "U080G6QDZT2",
+                    "U0800DE2GPN",
+                    "U07NA7PB0UV",
+                    "U08E174EJ13",
+                    "U06KAR47ZR9",
+                    "U08E6FQJ18C",
+                    "U06K2UUMU4E",
+                    "U05SG21SYLA"
+                ],
+                "count": 15
+            },
+            {
+                "name": "coffee",
+                "users": [
+                    "U0806411Z5X",
+                    "U06KNF03QKB",
+                    "U04Q99S2Y3C",
+                    "U06K2TZALJ2",
+                    "U06KBGE3LGK",
+                    "U06KC4X5TD2",
+                    "U080G6QDZT2",
+                    "U0800DE2GPN",
+                    "U07NA7PB0UV",
+                    "U08E50PFWCA",
+                    "U06KAR47ZR9",
+                    "U08E6FQJ18C",
+                    "U06K2UUMU4E",
+                    "U08EHA604AV"
+                ],
+                "count": 14
+            },
+            {
+                "name": "bangbang",
+                "users": [
+                    "U06K9HD998T",
+                    "U08E16YNJ5B",
+                    "U080G5L9MTJ",
+                    "U04Q99S2Y3C",
+                    "U06K2TZALJ2",
+                    "U06KBGE3LGK",
+                    "U06KC4X5TD2",
+                    "U080G6QDZT2",
+                    "U0800DE2GPN",
+                    "U07NA7PB0UV",
+                    "U06KAR47ZR9",
+                    "U08E6FQJ18C",
+                    "U06K2UUMU4E"
+                ],
+                "count": 13
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U080G5L9MTJ",
+                    "U04Q99S2Y3C",
+                    "U06KBGE3LGK",
+                    "U06KC4X5TD2",
+                    "U080G6QDZT2",
+                    "U0800DE2GPN",
+                    "U07NA7PB0UV",
+                    "U08E6FQJ18C",
+                    "U06K2UUMU4E"
+                ],
+                "count": 9
+            }
+        ]
+    }
+]
